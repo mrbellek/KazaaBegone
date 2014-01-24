@@ -1,0 +1,176 @@
+Termz of Use
+
+Welcome to KaZaA. It is important that you carefully read these terms before installing the KaZaA Media Desktop software. These terms when accepted by you form a license ("License") agreement between Sharman Networks Limited ("KaZaA") and you ("You," "Your" or "User") for the use of the KaZaA Media Desktop ("KaZaA Media Desktop"). 
+
+In order to use the KaZaA Media Desktop you must first read and accept the terms of this license and confirm your acceptance of the terms of this license by pressing the 'Yes' button on the KaZaA Media Desktop installation program (below this text) screen. If you are a minor you will become eligible to use the KaZaA Media Desktop upon your parent or guardian reading and accepting the terms of this license and confirming acceptance of the terms of this license by pressing the 'Yes' button on the KaZaA download screen.
+IF YOU PRESS THE 'NO' BUTTON ON THE KAZAA INSTALLATION SCREEN (below this text) YOU WILL NOT BE ABLE TO INSTALL THE SOFTWARE.
+
+1	What you can do under this license
+1.1	Subject to all the terms of this Agreement, KaZaA grants you a limited, non-exclusive, personal, non-sublicensable, non-assignable license to install and use the KaZaA Media Desktop and any future fixes, updates and upgrades provided to you (collectively, the "Software") on a computer. 
+1.2	Use of the Software is subject to all of the terms of this Agreement. 
+1.3	Unless explicitly stated otherwise, any new features that augment or enhance the current Software, including the release of new KaZaA properties, shall be subject to terms of this License. 
+1.3	You own the media on which the Software is recorded but KaZaA retains title to the Software. The Software in this package, or that which you have downloaded, as applicable and any copies which this License authorizes you to make, are subject to this License. 
+
+2	What you can't do under this license
+You may make copies of the Software only for your personal use and may not sell or transfer the Software or any copy of the Software to any party without our express written consent.
+You agree not to use the Software to:
+2.1	Transmit any Data that is unlawful, harmful, threatening, abusive, harassing, defamatory, vulgar, obscene, invasive of another's privacy, hateful, or racially, ethnically or otherwise objectionable;
+2.2	Harm minors in any way;
+2.3	Impersonate any person or entity or falsely state or otherwise misrepresent your affiliation with a person or entity;
+2.4	Forge headers or otherwise manipulate identifiers in order to disguise the origin of any data transmitted to other users;
+2.5	Transmit or access any data that you do not have a right to transmit under any law or under contractual or fiduciary relationships (such as inside information, proprietary and confidential information learned or disclosed as part of employment relationships or under non-disclosure agreements);
+2.6	Transmit or access any data that infringes any patent, trademark, trade secret, copyright or other proprietary rights of any party;
+2.7	Transmit any data that contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment;
+2.8	Disrupt the normal flow of dialogue, cause a screen to "scroll" faster than other users are able to type, or otherwise act in a manner that negatively affects other users' ability to engage in real time exchanges;
+2.9	Interfere with or disrupt the Software or servers or networks connected to the Software, or disobey any requirements, procedures, policies or regulations of networks connected to the Software; 
+2.10	Intentionally or unintentionally violate any applicable local, state, national or international law, including securities exchange and any regulations having the force of law; 
+2.11	Monitor traffic or make search requests in order to accumulate information about individual users.
+2.12	"Stalk" or otherwise harass another; or 
+2.13	Collect or store personal data about other users. You acknowledge and agree that KaZaA may preserve data and may also disclose data if required to do so by law or if it in good faith believes that such preservation or disclosure is reasonably necessary to:
+2.13.1	comply with legal process;
+2.13.2	enforce this License;
+2.13.3	respond to claims that any data violates the rights of third-parties; or 
+2.13.4	protect the rights, property, or personal safety of KaZaA, its users and the public.
+
+3	More Do's and Don'ts
+3.1	This License allows you to install and use the KaZaA Media Desktop on a single computer. This License does not permit you to install the Software on more than one computer at a time. You may make one copy of the Software in machine-readable form for backup purposes only. The backup copy must include all copyright information contained on the original. 
+3.2	Except as expressly permitted in this License, you agree not to reverse engineer, de-compile, disassemble, alter, duplicate, modify, rent, lease, loan, sublicense, make copies, create derivative works from, distribute or provide others with the KaZaA Media Desktop Software in whole or part or transmit the application over a network. 
+You may, however, transfer your rights under this License provided you transfer the related documentation, this License and a copy of the KaZaA software to a party who agrees to accept the terms of this License and destroy any other copies of the Software in your possession. 
+Your rights under this License will terminate automatically without prior notice from KaZaA if you fail to comply with any term(s) of this License. 
+
+4.	Things you need to know when using KaZaA
+4.1	You are responsible for paying all applicable taxes and other costs you may incur in connection with your use of KaZaA including but not limited to all hardware and software and providing all equipment and software necessary to connect to our web site and to use KaZaA via the Internet and any royalties or other charges relating to the use of data owned by third parties.
+4.2	We may add, delete or change some or all of the Software's functionality provided in connection with KaZaA at any time. This may include download of necessary software modules. Any new features that augment or enhance
+4.3	By accepting the terms of this License you agree that KaZaA is permitted to limit, deny, create different priorities to different users, update or cancel some or all of the functionality of this application at any time, without prior notice. 
+4.4	KaZaA reserves the right to change or modify any of the terms and conditions of this license and any of the policies governing the Software at any time in its sole discretion without direct notice to you. Your continued use of the Software following these changes will constitute your acceptance of such changes.
+4.5	You acknowledge that KaZaA or parties appointed by KaZaA may from time to time provide programming fixes, updates and upgrades to you, including automatic updates to the KaZaA Media Desktop, through automatic electronic dissemination and other means. You consent to such automatic updates and agree that the terms and conditions of this Agreement will apply to all such updates.
+	
+5	Things you need to do when using KaZaA
+It is your responsibility to ensure that you obtain all consents, authorizations and clearances in any data owned or controlled by third parties that you transmit or access using KaZaA Media Desktop. KaZaA does not control (and therefore has no knowledge of) any data accessed or transmitted through KaZaA Media Desktop.
+5.1	KaZaA will not be liable in any way:
+5.1.1	for any errors or omissions in any data, or for any loss or damage of any kind incurred as a result of any data transmitted via the software; or
+5.1.2	if you are exposed to data that is offensive, indecent or objectionable. 
+
+6	Payment and fees
+6.1	Certain features of the KaZaA Media Desktop may require payment in the future including a prepaid fee ("Prepaid Fee"). The Prepaid Fee, and all taxes and other fees related thereto will be paid by you in advance. You shall pay all fees and charges incurred through your account at the rates in effect for the billing period in which such fees and charges are incurred. All fees and charges shall be billed to you, and you shall be solely responsible for their payment. You shall pay all applicable taxes relating to the use of the Software through your account. If you do not pay the applicable fees, including Prepaid Fees, within the prescribed period of time your account will be terminated immediately, without limiting KaZaA's right to demand payment of fees and damages at a later time. 
+
+7	Copyright Infringement 
+KaZaA respects copyright and other laws. KaZaA requires all KaZaA Media Desktop users to comply with copyright and other laws. As a condition to use KaZaA media desktop, you agree that you will not use KaZaA 's software to infringe the intellectual property or other rights of others, in any way. The unauthorized copy, distribution, modification, public display, or public performance of copyrighted works is an infringement of the copyright holders' rights. 
+7.1	Users should not use the KaZaA software to obtain any personal information about any KaZaA users or to modify, delete or damage any information contained on the personal computer of any KaZaA media desktop user.
+7.2	Users are entirely responsible for their conduct and for ensuring that it comports with all applicable laws, including all copyright and data-protection laws. In the event a user fails to comply with laws regarding copyrights or other intellectual property rights and data-protection and privacy, such a user may be exposed to civil and criminal liability, including possible fines and jail time. 
+
+8	KaZaA's Right to Run Advertising without payment to Users
+8.1	KaZaA reserves the right to run advertisements and promotions on all the KaZaA Media Desktop. 
+8.2	By accepting the terms of this License, you agree that we have the right to run such advertisements and promotions without compensation to you. 
+8.3	The timing, frequency, placement and extent of advertising by us within the pages comprising your KaZaA account is subject to change and shall be determined by us in our sole discretion. 
+8.4	Your correspondence or business dealings with, or participation in promotions of, advertisers found on or through the KaZaA web sites or KaZaA Media Desktop, including payment and delivery of related goods or services, and any other terms, conditions, warranties or representations associated with such dealings, are solely between you and such advertiser. 
+8.5	You agree that KaZaA will not be responsible or liable for any loss or damage of any sort incurred as the result of any such dealings or as the result of the presence of such advertisers on the KaZaA Media Desktop.
+
+9	Links to Third-Party Sites
+9.1	The KaZaA Media Desktop may provide, or third parties may provide, links to World Wide Web sites or other Internet resources. Any third-party sites to which the KaZaA Media Desktop may link are not under control of KaZaA. KaZaA does not have any responsibility or liability for any information, data, communications or materials available on such third-party sites. 
+
+10	Third Party Software
+10.1	During the process of installing KaZaA, you may be offered the possibility to download or install software from third party software vendors pursuant to licenses or other arrangements between such vendors and yourself ("Third Party Software"). In the event you do not wish to download this THIRD PARTY SOFTWARE you should uncheck the appropriate boxes. Please note that the THIRD PARTY SOFTWARE is subject to different licenses or other arrangements, which you should read carefully, compared to the Terms of Use and License of KaZaA. By downloading and using this THIRD PARTY SOFTWARE you accept these THIRD PARTY SOFTWARE licenses or other arrangements and acknowledge that you have read them and understand them. KaZaA does not sell, resell, or license any of this THIRD PARTY SOFTWARE, and KaZaA disclaims to the maximum extent permitted by applicable law, any responsibility for or liability related to the THIRD PARTY SOFTWARE. Any questions, complaints or claims related to the THIRD PARTY SOFTWARE should be directed to the appropriate vendor. 
+10.2	The third party software is provided by KaZaA "as is" and "with all faults". KaZaA makes no representations or warranties of any kind concerning the quality, safety or suitability of this software, either express or implied, including without limitation any implied warranties of merchantability, fitness for a particular purpose, or non-infringement. to the maximum extent permitted by applicable law, in no event will KaZaA be liable for any indirect, punitive, special, incidental or consequential damages however they may arise and even if KaZaA has been previously advised of the possibility of such damages. 
+10.3	There are inherent dangers in the use of any software available for downloading on the Internet, and KaZaA cautions you to make sure that you completely understand the potential risks before downloading any of the THIRD PARTY SOFTWARE. You are solely responsible for adequate protection and backup of the data and equipment used in connection with any of the THIRD PARTY SOFTWARE, and KaZaA will not be liable for any damages that you may suffer in connection with using, modifying or distributing any of the THIRD PARTY SOFTWARE. 
+
+11	Applicable Law
+11.1	This License as well as all disputes arising out of or in connection with this Agreement shall be governed by the laws of the New South Wales, without regard to or application of choice of law rules or principles.
+11.2	Any dispute arising out of or in connection with this License, or in future agreements resulting there from, shall be exclusively resolved before the competent court in New South Wales.
+
+12	Points to consider for International Use
+12.1	Recognizing the global nature of the Internet, you agree to comply with all local rules regarding on-line conduct and acceptable data. Specifically, you agree to comply with all applicable laws regarding copyright and the transmission of technical data exported from the country in which you reside. 
+
+13	Indemnification
+13.1	YOU AGREE TO INDEMNIFY, HOLD HARMLESS AND DEFEND KAZAA, AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, AGENTS, CO-BRANDERS OR OTHER PARTNERS, AND EMPLOYEES, AT YOUR EXPENSE, AGAINST ANY AND ALL THIRD PARTY CLAIMS OR DEMANDS, ACTIONS, PROCEEDINGS AND SUITS AND ALL RELATED LIABILITIES, DAMAGES, SETTLEMENTS, PENALTIES, FINES COSTS AND EXPENSES (INCLUDING, WITHOUT LIMITATION, REASONABLE ATTORNEY'S FEES AND OTHER DISPUTE RESOLUTION EXPENSES) INCURRED BY KAZAA, DUE TO OR ARISING OUT OF DATA YOU SUBMIT, POST TO OR TRANSMIT THROUGH THE SOFTWARE, YOUR USE OR MISUSE OF THE SOFTWARE, YOUR CONNECTION TO OTHER USERS, YOUR VIOLATION OF THE LICENSE, OR YOUR VIOLATION OF ANY RIGHTS OF ANOTHER. 
+
+14	Disclaimers of Warranties
+14.1	THE SOFTWARE IS PROVIDED "AS IS", AND ON AN "AS AVAILABLE" BASIS OR UNDER THE SPECIFIC PROVIDERS OWN TERMS AND THERE ARE NO CLAIMS, REPRESENTATIONS AND WARRANTIES MADE BY KAZAA, EITHER EXPRESS, IMPLIED OR STATUTORY (TO THE EXTENT PERMITTED BY APPLICABLE LAW), WITH RESPECT TO THE SOFTWARE, INCLUDING BUT NOT LIMITED TO, WARRANTIES OF QUALITY, PERFORMANCE, TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, NOR ARE THERE ANY WARRANTIES CREATED BY COURSE OF DEALING, COURSE OF PERFORMANCE OR TRADE USAGE. 
+14.2	ANY DATA DOWNLOADED THROUGH THE USE OF THE SOFTWARE IS DONE AT YOUR OWN DISCRETION AND RISK AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OR USE OF ANY SUCH MATERIAL. 
+
+15	Limitation of Liability
+15.1	YOU UNDERSTAND AND AGREE THAT IN NO EVENT SHALL KAZAA BE LIABLE WHETHER IN CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE WHETHER ACTIVE, PASSIVE OR IMPUTED), PRODUCT LIABILITY OR STRICT LIABILITY, EVEN IF KAZAA HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES, RESULTING FROM:
+15.1.1	THE USE OR THE INABILITY TO USE THE SOFTWARE;
+15.1.2	THE COST OF PROCUREMENT OF SUBSTITUTE GOODS, DATA, INFORMATION OR SERVICES PURCHASED OR OBTAINED OR MESSAGES RECEIVED OR TRANSACTIONS ENTERED INTO THROUGH OR FROM THE USE OF THE SOFTWARE;
+15.1.3	UNAUTHORISED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA; 
+15.1.4	STATEMENTS OR CONDUCT OF ANY THIRD PARTY USING THE SOFTWARE; OR
+15.1.5	ANY OTHER MATTER RELATING TO THE USE OF THE SOFTWARE. 
+15.2	Where the Trade Practices Act 1974 (Cth) or similar state and territory legislation implies into this Agreement any condition or warranty, and those laws avoid or prohibit conditions in a contract excluding or modifying them, then the term, condition or warranty shall be deemed to be included in this Agreement, PROVIDED THAT the liability of KaZaA for a breach of any such condition or warranty, including and economic or consequential loss, shall be limited at the option of KaZaA to one or more of the following:
+15.2.1	if the breach related to goods:
+(a)	the replacement of the goods or the supply of equivalent goods;
+(b)	the repair of goods;
+(c)	the payment of the cost of replacing the goods or obtaining equivalent goods;
+(d)	the payment of having the goods repaired; or
+15.2.2	If the breach relates to services:
+(a)	the supply of the service again; or
+(b)	the payment of the cost of having the service supplied again.
+IN NO EVENT SHALL KAZAA'S TOTAL LIABILITY TO YOU FOR ALL DAMAGES EXCEED THE AMOUNT OF FIFTY DOLLARS ($50). 
+
+16	Changes to or Suspension of use of Software
+16.1	KaZaA reserves the right to modify or discontinue use of the Software temporarily or permanently, at any time, with or without notice. KaZaA will attempt to provide reasonable notice of such changes. 
+
+17	Termination
+17.1	KaZaA reserves the right to terminate this License immediately and without prior notice for any or no cause, at any time. Without limiting the preceding sentence, KaZaA may terminate your use of the Software or access to the site immediately and without notice if:
+17.1.1	you violate any term of this License, or
+17.1.2	we are notified that data transmitted by you violates any applicable laws or rights of any third party including the intellectual property rights of any such third party.. 
+
+18	Trade marks
+18.1	The KaZaA name, the KaZaA logo, and other KaZaA related properties are trademarks of KaZaA. All other trademarks are trademarks of their respective owners. 
+
+19	Miscellaneous
+19.1	This License constitutes the entire understanding of you and the KaZaA Media Desktop application with respect to the subject matter hereof. There are no understandings, agreements, conditions or representations, oral or written, express or implied, with reference to the subject matter hereof that are not merged herein, expressly referenced herein, or superseded hereby. 
+19.2	You also may be subject to additional terms and conditions that may apply when you use affiliate services, third-party data or third-party software.
+19.3	The failure or delay of KaZaA to exercise or enforce any rights or provision of the License does not constitute a waiver of such right or provision. 
+19.4	All provisions which must survive in order to give effect to their meaning, shall survive any expiration or termination of this License, including without limitation all of your representations, warranties and indemnification obligations. 
+19.5	Should any part of this License be held invalid by any court or tribunal, such invalidity shall not affect the validity of any remaining part, which will remain in full force and effect as if this License had been executed without that part having been held to be invalid.
+
+==============================================================
+
+Brilliant Digital Entertainment, Inc
+END USER AGREEMENT
+
+IMPORTANT -- READ CAREFULLY: THIS END USER LICENSE AGREEMENT ("AGREEMENT") IS AN AGREEMENT BETWEEN BRILLIANT DIGITAL ENTERTAINMENT ("BDE") AND YOU ("YOU," "YOUR" OR "USER") FOR THE USE OF THE B3D INSTALLER AND PLAYER BUNDLED WITH KAZAA ("BDE Software"). YOU MUST ENTER INTO THIS AGREEMENT IN ORDER TO DOWNLOAD SUCH SOFTWARE AND TO USE IT ("SERVICES"). BDE RESERVES THE RIGHT TO CHANGE OR MODIFY ANY OF THE TERMS AND CONDITIONS OF THIS AGREEMENT AND ANY OF THE POLICIES GOVERNING THE SERVICES AT ANY TIME IN ITS SOLE DISCRETION. YOUR CONTINUED USE OF THE SOFTWARE FOLLOWING BDE'S CHANGES WILL CONSTITUTE YOUR ACCEPTANCE OF SUCH CHANGES. YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, DO NOT INSTALL KAZAA OR USE THE BDE SOFTWARE.
+
+1. Licenses.
+Subject to the terms of this Agreement, BDE hereby grants you a limited, non-exclusive, personal, non-sublicensable, non-assignable license to install and use the BDE Software, including any online or enclosed documentation, and any future programming fixes, updates and upgrades provided to you including automatic updates to KaZaA and other software bundled with KaZaA (collectively, the "Software") onto a computer solely for your personal, use to install, interact and view animated 3D content and other uses ("Content"). The Software may only be used in connection with the Services. 
+
+2. License Restrictions. 
+Notwithstanding anything to the contrary, you may not: (a) remove any proprietary notices from the Software or Content or any copy thereof; (b) cause, permit or authorize the modification, translation, reverse engineering, decompiling or disassembling of the Software; (c) sell, assign, rent, act as a service bureau, or grant rights in the Software or Content to any other entity without the prior written consent of BDE; (d) export or re-export the Software in violation of U.S. export laws; (e) use the Software, Services or Content for any commercial purpose or the benefit of any third party; or (f) use the Software, Services or Content to, or in any way that would, violate any applicable law, regulation or ordinance. Further, you may not use the Software or the Services to develop, generate, transmit or store information that: (x) infringes any third party's intellectual property or other proprietary right; (y) is defamatory, obscene, or harmful; or (z) in any way obstructs or otherwise interferes with the normal performance of another person's use of the Software or Services. 
+
+3. Copyright; Proprietary Rights.
+(a) The Software is Trademark TM 2001 BDE and is protected by United States and international copyright laws. Title to and ownership of the Software, including without limitation all intellectual property rights therein and thereto, are and shall remain the exclusive property of BDE and its suppliers, and except for the limited license granted to you, BDE reserves all right, title and interest in and to the Software. You shall not take any action to jeopardize, limit or interfere with BDE's ownership of and rights with respect to the Software. You acknowledge that any unauthorized copying or unauthorized use of the Software is a violation of this Agreement and copyright laws and is prohibited.
+
+4. Upgrades and Access.
+(a) You acknowledge that BDE may from time to time provide future programming fixes, updates and upgrades to you ("b3d Updates"), including automatic updates to KaZaA and other software bundled with KaZaA, through automatic electronic dissemination and other means. You consent to such automatic updates and agree that the terms and conditions of this Agreement will apply to all such b3d Updates.
+(b) You hereby grant BDE the right to access and use the unused computing power and storage space on your computer/s and/or internet access or bandwidth for the aggregation of content and use in distributed computing. The user acknowledges and authorizes this use without the right of compensation. Notwithstanding the above, in the event usage of your computer is initiated by a party other than you, BDE will grant you the ability to deny access. 
+ 
+5. Term; Termination. 
+(a) This Agreement will be effective as of the date you accept this Agreement and will remain effective until terminated by either party ("Use Period"). 
+(b) BDE may terminate this Agreement at any time by providing notice to you. You may terminate this Agreement at any time by ceasing use of the Software and Services and destroying or removing from all hard drives, networks, and other storage media all copies of the Software. Upon any termination, all licenses and rights to use the Software and the Services shall terminate and you must remove the Software from your computer equipment and dispose of all originals and copies of the Software in your possession. The following Sections shall survive any termination of this Agreement: 2, 3, 4, 5, 6, 7, 8, 9 and 10.
+
+6. Your Representations and Warranties.
+You represent and warrant that (a) you possess the legal right and ability to enter into this Agreement and to comply with its terms; (b) you will use the Software and Services for lawful purposes only and in accordance with this Agreement and all applicable policies.
+
+7. Indemnity.
+You agree to indemnify, hold harmless and defend BDE, at your expense, against any and all third-party claims, actions, proceedings, and suits and all related liabilities, damages, settlements, penalties, fines, costs and expenses (including, without limitation, reasonable attorneys' fees and other dispute resolution expenses) incurred by BDE arising out of or relating to your (a) violation or breach of any term of this Agreement or any policy or guidelines referenced herein, or (b) use or misuse of the Software, Services and/or Content.
+
+8. Disclaimer of Warranties.
+(a) THE SOFTWARE AND SERVICES ARE PROVIDED "AS IS" AND THERE ARE NO WARRANTIES, CLAIMS OR REPRESENTATIONS MADE BY BDE, EITHER EXPRESS, IMPLIED, OR STATUTORY, WITH RESPECT TO THE SOFTWARE OR SERVICES, INCLUDING WARRANTIES OF QUALITY, PERFORMANCE, NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE, NOR ARE THERE ANY WARRANTIES CREATED BY COURSE OF DEALING, COURSE OF PERFORMANCE, OR TRADE USAGE. BDE FURTHER DOES NOT REPRESENT OR WARRANT THAT THE SOFTWARE OR ANY SERVICES WILL ALWAYS BE AVAILABLE, ACCESSIBLE, UNINTERRUPTED, TIMELY, SECURE, ACCURATE, COMPLETE OR ERROR-FREE. 
+(b) User acknowledges that the entire risk arising out of the use or performance of the Software and Services remains with User to the maximum extent permitted by law. 
+
+9. Limitation of Liability.
+IN NO EVENT SHALL BDE BE LIABLE WHETHER IN CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE (WHETHER ACTIVE, PASSIVE OR IMPUTED), PRODUCT LIABILITY OR STRICT LIABILITY OR OTHER THEORY), FOR ANY INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION ANY LOSS OF DATA, SERVICE INTERRUPTION, COMPUTER FAILURE OR PECUNIARY LOSS) ARISING OUT OF THE USE OR INABILITY TO USE THE SOFTWARE OR THE SERVICES, EVEN IF BDE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+
+10. General Provisions.
+The terms set forth in this Agreement and any related service agreements constitute the final, complete and exclusive agreement with respect to the Software and Services and may not be contradicted, explained or supplemented by evidence of any prior agreement, any contemporaneous oral agreement or any consistent additional terms. User may not assign this Agreement or any rights hereunder. Should any term or provision hereof be deemed invalid, void or unenforceable either in its entirety or in a particular application, the remainder of this Agreement shall nonetheless remain in full force and effect. Any term of this Agreement may be amended and the observance of any term may be waived only with the written consent of the parties. The failure of BDE at any time or times to require performance of any provision hereof shall in no manner affect its right at a later time to enforce the same unless the same is waived in writing. This Agreement shall be governed by and construed in accordance with the laws of the STATE OF CALIFORNIA without regard to its conflict of law rules. Any legal proceeding arising out or relating to this Agreement will be subject to the exclusive jurisdiction of any state or federal court sitting in Los Angeles, California and you irrevocably consent to the jurisdiction of such courts. 
+
+==============================================================
+
+Cydoor END USER AGREEMENT
+
+The software program you are about to install is an "adware" program, meaning that we have partnered with Cydoor Technologies to deliver small ads to the main window of the application, in order for KaZaA to bring targeted advertising. The software will display web content such as banner ads, e-commerce offers, news headlines and other value-added content. Cydoor Technologies created this technology, and provides it to software developers to implement in software programs. In turn, software developers choose to display ads so that you can enjoy their products for FREE, and they can still earn revenue from advertising.
+
+How does it work?
+The Cydoor component of this software is simply a caching mechanism, which stores ads on your hard drive, and displays them only while the software program is open. When the ads have expired, the component deletes old ads and contacts Cydoor's servers in order to receive new ones. To do this, the Cydoor component uses your Internet connection, which was designed to take up the minimum bandwidth on your line. Each ad banner on your hard disc is about 10Kbytes.
+ 
+Finally, Cydoor Technologies, wants you to feel comfortable using this software. Be assured that respecting and maintaining your privacy is KaZaA and Cydoor's top priority ethically and legally. If you have any questions or concerns, please visit the Cydoor website, www.cydoor.com, where you can review its privacy statement. 

@@ -1,0 +1,188 @@
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<BASE HREF="http://www.blissed.org/~stucky/kazaa/handshake.html"><table border=1 width=100%><tr><td><table border=1 bgcolor=#ffffff cellpadding=10 cellspacing=0 width=100% color=#ffffff><tr><td><font face=arial,sans-serif color=black size=-1>This is <b><font color=#0039b6>G</font> <font color=#c41200>o</font> <font color=#f3c518>o</font> <font color=#0039b6>g</font> <font color=#30a72f>l</font> <font color=#c41200>e</font></b>'s <a href="http://www.google.com/help/features.html#cached"><font color=blue>cache</font></a> of <A HREF="http://www.blissed.org/~stucky/kazaa/handshake.html"><font color=blue>http://www.blissed.org/~stucky/kazaa/handshake.html</font></a>.<br>
+<b><font color=#0039b6>G</font> <font color=#c41200>o</font> <font color=#f3c518>o</font> <font color=#0039b6>g</font> <font color=#30a72f>l</font> <font color=#c41200>e</font></b>'s cache is the snapshot that we took of the page as we crawled the web.<br>
+The page may have changed since that time.  Click here for the <A HREF="http://www.blissed.org/~stucky/kazaa/handshake.html"><font color=blue>current page</font></a> without highlighting.<br>To link to or bookmark this page, use the following url: <code>http://www.google.com/search?q=cache:bAS0liz9aFIC:www.blissed.org/~stucky/kazaa/handshake.html+%22X-Kazaa-Username%22+%22GET+/%22&amp;hl=en&amp;ie=utf-8</code></font><br><br><center><font size=-2><i>Google is not affiliated with the authors of this page nor responsible for its content.</i></font></center></td></tr>
+<tr><td>
+<table border=0 cellpadding=0 cellspacing=0><tr><td><font face=arial,sans-serif color=black size=-1>These search terms have been highlighted:&nbsp;</font></td><td bgcolor=#ffff66><B><font face=arial,sans-serif color=black size=-1>x&nbsp;</font></B></td><td bgcolor=#ffff66><B><font face=arial,sans-serif color=black size=-1>kazaa&nbsp;</font></B></td><td bgcolor=#ffff66><B><font face=arial,sans-serif color=black size=-1>username&nbsp;</font></B></td><td bgcolor=#A0FFFF><B><font face=arial,sans-serif color=black size=-1>get&nbsp;</font></B></td></tr></table>
+</td></tr></table></td></tr></table>
+<hr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>
+KaZaA 1.5's Handshake
+</title>
+<link rel="stylesheet" type="text/css" href="/~stucky/blissed.css" title="Default">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+<body bgcolor="#000000" text="#FFFFFF">
+<h2>KaZaA 1.5's Handshake</h2>
+<h3>Ongoing Documentation</h3>
+by stucky
+<hr>
+<p>Prior to the 1.5 version of the Kazaa client, one could simply use a browser to connect to
+a Kazaa server at port 1214 and download a list of the files and their sizes.
+<p>Or one could use a few lines of Java and import the list into an array:
+<pre>
+		try {
+			url = new URL("http://" + tmpString + ":1214/");
+
+		} catch (MalformedURLException ex) {return;}
+		
+		try {
+			BufferedReader in = new BufferedReader(new InputStreamReader(url.openStream()));
+			
+			String line;
+			while ((line = in.readLine()) != null) {
+			// place string into an array
+			}
+		catch (Exception e) {}
+		}
+</pre>
+
+<p>Unfortunitly, this method has become obsolete with the advent of version 1.5 (and 1.5.1).
+<p>To obtain the list now, it takes a little more.  A better understanding of the Fasttrack
+Protocol is needed, as well as an understanding of the HTTP protocol.
+<hr>
+<p>When a browser connects to a server using HTTP, an exchange goes on that looks something like this:
+<pre>
+	<B style="color:black;background-color:#A0FFFF">GET</B> /~stucky/ HTTP/1.1
+	Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/vnd.ms-powerpoint, application/vnd.ms-excel, application/msword, */*
+	Accept-Language: en-us
+	Accept-Encoding: gzip, deflate
+	User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; Q312461; somms optimized)
+	Host: www.blissed.org
+	Connection: Keep-Alive
+
+	HTTP/1.1 200 OK
+	Date: Sun, 17 Mar 2002 04:14:00 GMT
+	Server: Apache/1.3.20 (Unix)
+	Last-Modified: Sun, 17 Mar 2002 02:37:41 GMT
+	ETag: "4130aa-3b7-3c940175"
+	Accept-Ranges: bytes
+	Content-Length: 951
+	Keep-Alive: timeout=15, max=100
+	Connection: Keep-Alive
+	Content-Type: text/html
+</pre>
+<p>What you see there is the communication between the browser and the server.  The first line is the <B style="color:black;background-color:#A0FFFF">GET</B>
+command from the browser requesting a file from the server.  The browser also sends along some information
+that helps the server fulfill the request.  The browser signals it's done sending information by sending a
+blank newline.
+<p>The server responds with an numerical code.  In this case, the code is 200, signifying that the request
+was valid, the file was found, and the server is about to send it.  The lines following the numerical code
+help the browser to retrieve and display the file.  The server too sends a blank newline to signify the end
+of the private commmunication, and the start of the file.
+<p>This exchange is done in plain-text, ie, it translates from binary directly to ASCII, and is human
+readable.
+<hr>
+<p>In version 1.5, the exchange went from being very similer to a regular browser request to something
+a bit more complicated.  Here is an exchange captured with a protocol analyzer of a Kazaa client requesting
+the index from a Kazaa server:
+<pre>
+	<B style="color:black;background-color:#A0FFFF">GET</B> /.files HTTP/1.1
+	Host: 66.71.65.52:1214
+	UserAgent: KazaaClient Mar  4 2002 16:25:02
+	<B style="color:black;background-color:#ffff66">X-Kazaa-Username</B>: stucky12376427
+	X-Kazaa-Network: KaZaA
+	X-Kazaa-IP: 131.230.68.24:1214
+	X-Kazaa-SupernodeIP: 66.71.49.67:1214
+	Connection: close
+
+	HTTP/1.0 403 Forbidden 0 491066759
+
+	KeÖúHTTP/1.1 200 OK
+	Content-Length: 54137
+	Accept-Ranges: bytes
+	Date: Thu, 14 Mar 2002 01:39:19 GMT
+	Server: KazaaClient Mar  4 2002 16:25:02
+	Connection: close
+	Last-Modified: Thu, 14 Mar 2002 01:39:19 GMT
+	<B style="color:black;background-color:#ffff66">X-Kazaa-Username</B>: cmk263
+	X-Kazaa-Network: KaZaA
+	X-Kazaa-IP: 66.71.65.52:1214
+	X-Kazaa-SupernodeIP: 66.71.49.67:1214
+	Content-Type: application/octet-stream
+</pre>
+<p>What is interesting here is that the server has sent <i>two</i> replies.  The first reply, 403,
+tells a normal browser that the file cannot be served, usually because the browser does not have
+the permission to have the file.
+<p>When a normal browser would have simply disconnected, the Kazaa client responds with information
+that is not human readable, which is why we see garbage text (KeÖú) preceeding the second response, 200.
+<p>In order to see exactly what is happening, we have to switch from ASCII to a hexidecimal dump in order
+to see the exchange exactly how to client/server sees it.
+<hr>
+<p>Here is the same exhange in the form of a hex dump:
+<pre>
+	00000000  47 45 54 20 2f 2e 66 69  6c 65 73 20 48 54 54 50 <B style="color:black;background-color:#A0FFFF">GET</B> /.fi les HTTP
+	00000010  2f 31 2e 31 0d 0a 48 6f  73 74 3a 20 36 36 2e 37 /1.1..Ho st: 66.7
+	00000020  31 2e 36 35 2e 35 32 3a  31 32 31 34 0d 0a 55 73 1.65.52: 1214..Us
+	00000030  65 72 41 67 65 6e 74 3a  20 4b 61 7a 61 61 43 6c erAgent:  KazaaCl
+	00000040  69 65 6e 74 20 4d 61 72  20 20 34 20 32 30 30 32 ient Mar   4 2002
+	00000050  20 31 36 3a 32 35 3a 30  32 0d 0a 58 2d 4b 61 7a  16:25:0 2..X-Kaz
+	00000060  61 61 2d 55 73 65 72 6e  61 6d 65 3a 20 73 74 75 aa-Usern ame: stu
+	00000070  63 6b 79 31 32 33 37 36  34 32 37 0d 0a 58 2d 4b cky12376 427..X-K
+	00000080  61 7a 61 61 2d 4e 65 74  77 6f 72 6b 3a 20 4b 61 azaa-Net work: Ka
+	00000090  5a 61 41 0d 0a 58 2d 4b  61 7a 61 61 2d 49 50 3a ZaA..X-K azaa-IP:
+	000000A0  20 31 33 31 2e 32 33 30  2e 36 38 2e 32 34 3a 31  131.230 .68.24:1
+	000000B0  32 31 34 0d 0a 58 2d 4b  61 7a 61 61 2d 53 75 70 214..X-K azaa-Sup
+	000000C0  65 72 6e 6f 64 65 49 50  3a 20 36 36 2e 37 31 2e ernodeIP : 66.71.
+	000000D0  34 39 2e 36 37 3a 31 32  31 34 0d 0a 43 6f 6e 6e 49.67:12 14..Conn
+	000000E0  65 63 74 69 6f 6e 3a 20  63 6c 6f 73 65 0d 0a 0d ection:  close...
+	000000F0  0a                                               .
+											  00000000  48 54 54 50 2f 31 2e 30  20 34 30 33 20 46 6f 72 HTTP/1.0  403 For
+											  00000010  62 69 64 64 65 6e 20 30  20 34 39 31 30 36 36 37 bidden 0  4910667
+											  00000020  35 39 0d 0a 0d 0a                                59....
+	000000F1  4b 65 d6 fa                                      Ke..
+											  00000026  48 54 54 50 2f 31 2e 31  20 32 30 30 20 4f 4b 0d HTTP/1.1  200 OK.
+											  00000036  0a 43 6f 6e 74 65 6e 74  2d 4c 65 6e 67 74 68 3a .Content -Length:
+											  00000046  20 35 34 31 33 37 0d 0a  41 63 63 65 70 74 2d 52  54137.. Accept-R
+											  00000056  61 6e 67 65 73 3a 20 62  79 74 65 73 0d 0a 44 61 anges: b ytes..Da
+											  00000066  74 65 3a 20 54 68 75 2c  20 31 34 20 4d 61 72 20 te: Thu,  14 Mar 
+											  00000076  32 30 30 32 20 30 31 3a  33 39 3a 31 39 20 47 4d 2002 01: 39:19 GM
+											  00000086  54 0d 0a 53 65 72 76 65  72 3a 20 4b 61 7a 61 61 T..Serve r: Kazaa
+											  00000096  43 6c 69 65 6e 74 20 4d  61 72 20 20 34 20 32 30 Client M ar  4 20
+											  000000A6  30 32 20 31 36 3a 32 35  3a 30 32 0d 0a 43 6f 6e 02 16:25 :02..Con
+											  000000B6  6e 65 63 74 69 6f 6e 3a  20 63 6c 6f 73 65 0d 0a nection:  close..
+											  000000C6  4c 61 73 74 2d 4d 6f 64  69 66 69 65 64 3a 20 54 Last-Mod ified: T
+											  000000D6  68 75 2c 20 31 34 20 4d  61 72 20 32 30 30 32 20 hu, 14 M ar 2002 
+											  000000E6  30 31 3a 33 39 3a 31 39  20 47 4d 54 0d 0a 58 2d 01:39:19  GMT..X-
+											  000000F6  4b 61 7a 61 61 2d 55 73  65 72 6e 61 6d 65 3a 20 Kazaa-Us ername: 
+											  00000106  63 6d 6b 32 36 33 0d 0a  58 2d 4b 61 7a 61 61 2d cmk263.. X-Kazaa-
+											  00000116  4e 65 74 77 6f 72 6b 3a  20 4b 61 5a 61 41 0d 0a Network:  KaZaA..
+											  00000126  58 2d 4b 61 7a 61 61 2d  49 50 3a 20 36 36 2e 37 X-Kazaa- IP: 66.7
+											  00000136  31 2e 36 35 2e 35 32 3a  31 32 31 34 0d 0a 58 2d 1.65.52: 1214..X-
+											  00000146  4b 61 7a 61 61 2d 53 75  70 65 72 6e 6f 64 65 49 Kazaa-Su pernodeI
+											  00000156  50 3a 20 36 36 2e 37 31  2e 34 39 2e 36 37 3a 31 P: 66.71 .49.67:1
+											  00000166  32 31 34 0d 0a 43 6f 6e  74 65 6e 74 2d 54 79 70 214..Con tent-Typ
+											  00000176  65 3a 20 61 70 70 6c 69  63 61 74 69 6f 6e 2f 6f e: appli cation/o
+											  00000186  63 74 65 74 2d 73 74 72  65 61 6d 0d 0a 0d 0a    ctet-str eam....
+</pre>
+<p>In order to see the entire dump, you'll need to maximize your browser to at least 1280x1024.
+<p>So what does this tell us?  The left hand dump is the client, the right hand is the server.
+The client makes a request using <B style="color:black;background-color:#A0FFFF">GET</B> /.files, which is different from the previous version,
+and the server response is <tt>HTTP/1.0 403 Forbidden 0 491066759</tt>.
+<p>My working theory is that the unique digit on the end of the 403 response, which is not usually
+found in a normal browser/server exchange, is sent through an algorithm by the client, which response
+with four bytes.  The four bytes do not include a newline (0d 0a), and is unique for each Kazaa
+client/server exchange.
+<p>Obviously, the previous Java code will not work.  Infact, a buffered writer won't work at all,
+since we need to send back four non-ascii bytes without a newline.  (The actual number of bytes is
+also a guess, more trials will need to be made.)
+<hr>
+<p>I've made a number of captures of the Kazaa client/server exchange using a protocol analyzer.
+Anyone curious or willing to take a stab at what's going on can see them here:
+<br>
+<a href="out01.txt">Trial 01</a>
+<br>
+<a href="out02.txt">Trial 02</a>
+<br>
+<a href="out03.txt">Trial 03</a>
+<hr>
+<font size=-1>Comments and questions can be sent to
+<a href="mailto:stucky@blissed.org">stucky@blissed.org</a>
+<br>
+Return to <a href="/~stucky/bdk/">Kazaa's Backdoor</a>
+</font>
+</body>
+</html>

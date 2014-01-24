@@ -1,0 +1,69 @@
+// Altnet stuff
+// 30/07/06
+// Taken from Kazaa v2.5.2, 2.6.0, 2.6.2, 2.6.3
+
+AltnetProcess=%WINDIR%\temp\altnet\setup.exe
+AltnetProcess=%PROGRAMFILES%\Altnet\Download Manager\adm.exe
+AltnetProcess=%PROGRAMFILES%\Altnet\Download Manager\asm.exe
+AltnetProcess=%PROGRAMFILES%\Altnet\Download Manager\asmend.exe
+AltnetProcess=c:\program files\altnet\points manager\points manager.exe
+AltnetProcess=c:\program files\altnet\download manager\adm4005.exe
+
+AltnetFolder=%PROGRAMS%\Altnet
+AltnetFolder=%TEMPDIR%\Altnet
+AltnetFolder=%WINDIR%\Temp\Altnet
+AltnetFolder=%PROGRAMFILES%\altnet
+AltnetFolder=%PROGRAMFILES%\altnet\DBBackup
+AltnetFolder=C:\Program Files\Altnet
+
+AltnetFile=%PROGRAMS%\Altnet\Peer Points Manager.lnk
+AltnetFile=%TEMPDIR%\Altnet\adm25.dll
+AltnetFile=%TEMPDIR%\Altnet\admdata.dll
+AltnetFile=%TEMPDIR%\Altnet\admdloader.dll
+AltnetFile=%TEMPDIR%\Altnet\admfdi.dll
+AltnetFile=%TEMPDIR%\Altnet\msvcirt.dll
+AltnetFile=%TEMPDIR%\Altnet\Setup.exe
+AltnetFile=%PROGRAMFILES%\altnet\DBBackup\Sigfiles.db
+AltnetFile=%PROGRAMFILES%\altnet\download manager\dminfo3.cab
+
+AltnetRegkey=HKCR\AppID\{8B0FEF15-54DC-49F5-8377-8172DE975F75}
+AltnetRegkey=HKCR\AppID\{99A8E2B2-3405-4C0D-9110-131C14CAAF62}
+AltnetRegkey=HKCR\AppID\adm.EXE
+AltnetRegkey=HKCR\AppID\Altnet Signing Module.EXE
+AltnetRegkey=HKCR\CLSID\{1D3BCE37-7834-4579-8169-E67681420A98}
+AltnetRegkey=HKCR\CLSID\{1D3BCE37-7834-4579-8169-E67681420A98}
+AltnetRegkey=HKCR\CLSID\{9BBCF06C-DCD7-495D-80DF-CDD5399D0FF8}
+AltnetRegkey=HKCR\CLSID\{C15B7EA2-A360-43E8-A591-5FAEDC7C4E1D}
+AltnetRegkey=HKCR\CLSID\{DEF37997-D9C9-4A4B-BF3C-88F99EACEEC2}
+AltnetRegkey=HKCR\CLSID\{E813099D-5529-47F4-9B37-4AFAFCB00A43}
+AltnetRegkey=HKCR\Interface\{E813099D-5529-47F4-9B37-4AFAFCB00A43}
+AltnetRegkey=HKCR\Interface\{676F6D1D-C559-42A9-860B-27C1477B7179}
+AltnetRegkey=HKCR\Interface\{29E825AA-13BC-457C-806A-D72E4A25B3C5}
+AltnetRegkey=HKCR\Interface\{676F6D1D-C559-42A9-860B-27C1477B7179}
+AltnetRegkey=HKCR\Interface\{BFF4F684-677E-44F4-8C74-1D575C950E10}
+AltnetRegkey=HKCR\SigningModule.SigningModule
+AltnetRegkey=HKCR\SigningModule.SigningModule.1
+AltnetRegkey=HKCR\TypeLib\{5830698F-7FC0-40CD-A453-9A0CAFDF3A64}
+AltnetRegkey=HKCR\TypeLib\{676F6D1D-C559-42A9-860B-27C1477B7179}
+AltnetRegkey=HKCR\TypeLib\{BFF4F684-677E-44F4-8C74-1D575C950E10}
+AltnetRegkey=HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\AltnetDM
+
+AltnetRegval=HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run,AltnetPointsManager
+
+AltnetFolder=%TEMPDIR%\ADMCache
+AltnetFolder=%PROGRAMS%\Altnet
+
+// ===========================
+// kazaa 3.2.7
+// ===========================
+AltnetRegkey=HKLM\SOFTWARE\Altnet
+
+AltnetRegkey=HKCR\ADM.ADM
+AltnetRegkey=HKCR\ADM.ADM.1
+AltnetRegkey=HKCR\ADM25.ADM25
+AltnetRegkey=HKCR\ADM25.ADM25.1
+AltnetRegkey=HKCR\ADM4.ADM4
+AltnetRegkey=HKCR\ADM4.ADM4.1
+
+AltnetRegkey=HKCR\Interface\{258A3625-183B-4477-AEE2-EA54DF6D878D}
+AltnetRegkey=HKCR\Interface\{E79DADC6-18D0-4A2A-831F-D196D41F8438}

@@ -1,0 +1,389 @@
+Welcome! It is important that you carefully read these terms before 
+installing the Kazaa Media Desktop software.
+
+These terms when accepted by you form a licence ("Licence") 
+agreement between Sharman Networks Limited ("Sharman") and you 
+("You," "Your" Or "User") for the use of the Kazaa Media Desktop, 
+including any and all versions or variations of the Kazaa Media Desktop 
+software (collectively, "Kazaa Media Desktop").
+
+In order to use Kazaa Media Desktop, you must first read and accept 
+the terms of this Licence, and confirm your acceptance of the terms of 
+this Licence by clicking the 'I Agree' checkbox below.
+If you are a minor you will become eligible to use 
+Kazaa Media Desktop upon your parent or guardian reading and 
+accepting the terms of this Licence and confirming acceptance of the 
+terms of this Licence by clicking the 'I Agree' checkbox on the Kazaa 
+Media Desktop download screen.
+
+IF YOU DO NOT CHECK THE 'I AGREE' BOX ON THE KAZAA MEDIA DESKTOP 
+DOWNLOAD SCREEN YOU WILL NOT BE ABLE TO INSTALL THE SOFTWARE.
+
+
+1. What you can do under this Licence
+
+1.1 Subject to all the terms of this Licence, Sharman grants you a 
+limited, non-exclusive, personal, non-sublicensable, non-assignable 
+licence to install and use the Kazaa Media Desktop and any future fixes, 
+updates and upgrades provided to you (collectively, the "Software") on 
+a computer.
+
+1.2 Unless explicitly stated otherwise, any new features that augment 
+or enhance the current Software, including the release of new 
+properties, shall be subject to terms of this Licence.
+
+
+2 What you can't do under this Licence
+
+You agree not to use the Software to:
+
+2.1 Transmit or communicate any data that is unlawful, harmful, 
+threatening, abusive, harassing, defamatory, vulgar, obscene, invasive 
+of another's privacy, hateful, or racially, ethnically or otherwise 
+objectionable;
+
+2.2 Harm minors in any way;
+
+2.3 Impersonate any person or entity or falsely state or otherwise 
+misrepresent your affiliation with a person or entity;
+
+2.4 Forge headers or otherwise manipulate identifiers in order to 
+disguise the origin of any data transmitted to other users;
+
+2.5 Transmit , access or communicate any data that you do not have a 
+right to transmit under any law or under contractual or fiduciary 
+relationships (such as inside information, proprietary and confidential 
+information learned or disclosed as part of employment relationships or 
+under non-disclosure agreements);
+
+2.6 Transmit ,access or communicate any data that infringes any 
+patent, trademark, trade secret, copyright or other proprietary rights of 
+any party;
+
+2.7 Transmit or communicate any data that contains software viruses or 
+any other computer code, files or programs designed to interrupt, 
+destroy or limit the functionality of any computer software or hardware 
+or telecommunications equipment;
+
+2.8 Disrupt the normal flow of dialogue, cause a screen to "scroll" faster 
+than other users are able to type, or otherwise act in a manner that 
+negatively affects other users' ability to engage in real time exchanges;
+
+2.9 Interfere with or disrupt the Software;
+
+2.10 Intentionally or unintentionally violate any applicable local, state, 
+national or international law, including securities exchange and any 
+regulations requirements, procedures or policies in force from time to 
+time relating to the Software;
+
+2.11 Monitor traffic or make search requests in order to accumulate 
+information about individual users;
+
+2.12 "Stalk" or otherwise harass another;
+
+2.13 Modify, delete or damage any information contained on the 
+personal computer of any Kazaa Media Desktop user; or
+
+2.14 Collect or store personal data about other users.
+
+
+3 More Do's and Don'ts
+
+
+3.1 This Licence allows you to install and use the Kazaa Media Desktop 
+on a single computer. This Licence does not permit you to install the 
+Software on more than one computer at a time. You may make copies 
+of the Software in machine-readable form for backup purposes only. 
+The backup copy must include all copyright information contained on 
+the original.
+
+3.2 Except as expressly permitted in this Licence, you agree not to 
+reverse engineer, de-compile, disassemble, alter, duplicate, modify, 
+rent, lease, loan, sublicense, make copies, create derivative works 
+from, distribute or provide others with the Software in whole or part, 
+transmit or communicate the application over a network.
+
+3.3 You may not sell, transfer or communicate the Software to any third 
+party without our prior express written consent.
+
+
+4 Things you need to know when using the Kazaa Media Desktop
+
+4.1 You are responsible for paying all applicable taxes and other costs 
+you may incur in connection with your use of the Software including but 
+not limited to all hardware and software costs and providing all 
+equipment and software necessary to connect to our web site and to 
+use the Software via the Internet and any royalties or other charges 
+relating to the use of data owned by third parties.
+
+4.2 Sharman may from time to time present programming fixes, 
+updates and upgrades to you, including version updates to the Kazaa 
+Media Desktop. You may accept or reject such programming fixes, 
+updates and upgrades to you, including version updates at your sole 
+discretion.
+
+
+5 Things you need to do when using the Kazaa Media Desktop
+
+5.1 It is your responsibility to ensure that you obtain all consents, 
+authorisations and clearances in any data owned or controlled by third 
+parties that you transmit, access or communicate to others using the 
+Kazaa Media Desktop. 
+
+5.2 Sharman will not be liable in any way:
+
+5.2.1 for any errors or omissions in any data, or for any loss or damage 
+of any kind incurred as a result of any data transmitted via the 
+Software; or
+
+5.2.2 if you are exposed to data that is offensive, indecent or 
+objectionable.
+
+5.2.3 for any allegations or findings of infringement of copyright or 
+other proprietary rights as a result of your use of the Software.
+
+
+6  Copyright Infringement
+
+6.1 Sharman respects copyright and other laws. Sharman requires all 
+Kazaa Media Desktop users to comply with copyright and other laws.  
+Sharman does not by the supply of the Software authorise you to 
+infringe the copyright or other rights of third parties.
+
+6.2 As a condition to use the Software, you agree that you must not use 
+the Software to infringe the intellectual property or other rights of 
+others, in any way. The unauthorised reproduction, distribution, 
+modification, public display, communication to the public or public 
+performance of copyrighted works is an infringement of copyright.
+
+6.3 Users are entirely responsible for their conduct and for ensuring 
+that it complies with all applicable copyright and data-protection laws. 
+In the event a user fails to comply with laws regarding copyrights or 
+other intellectual property rights and data-protection and privacy, such 
+a user may be exposed to civil and criminal liability, including possible 
+fines and jail time.
+
+
+7 Sharman's Right to Run Advertising without payment to Users
+
+7.1 Sharman reserves the right to run advertisements and promotions 
+on the Kazaa Media Desktop. 
+
+7.2 By accepting the terms of this Licence, 
+you agree that we have the right to run such advertisements and 
+promotions without compensation to you.
+
+7.3 The timing, frequency, placement and extent of advertising by us 
+within the pages comprising the Kazaa Media Desktop  is subject to 
+change and shall be determined by us at our sole discretion.
+
+7.4 Your correspondence or business dealings with, or participation in 
+promotions of, advertisers found on or through the Kazaa web site or 
+Kazaa Media Desktop, including payment and delivery of related goods 
+or services, and any other terms, conditions, warranties or 
+representations associated with such dealings, are solely between you 
+and such advertiser.
+
+7.5 You agree that Sharman is not be responsible or liable for any loss 
+or damage of any sort incurred as the result of any such dealings or as 
+the result of the presence of such advertisers on the Kazaa Media 
+Desktop and/ or the Kazaa web site.
+
+
+8 Links to Third-Party Sites
+
+8.1 The Kazaa Media Desktop may provide, or third parties may 
+provide, links to World Wide Web sites or other Internet resources. Any 
+third-party sites to which the Kazaa Media Desktop may link are not 
+under control of Sharman. Sharman does not have any responsibility or 
+liability for any information, data, communications or materials 
+available on such third-party sites.
+
+
+9 Third Party Software
+
+9.1 During the process of installing Kazaa Media Desktop, you are asked to 
+install software from third party software vendors pursuant to licences or 
+other arrangements between such vendors and yourself ("Third Party Software"). 
+Please note that the THIRD PARTY SOFTWARE is subject to different licences or 
+other arrangements, which you should read carefully. By installing and using 
+this THIRD PARTY SOFTWARE you accept these THIRD PARTY SOFTWARE 
+licences or other arrangements and acknowledge that you have read them 
+and understand them. Sharman does not sell, resell, or license any of this 
+THIRD PARTY SOFTWARE, and Sharman disclaims to the maximum extent 
+permitted by applicable law, any responsibility for or liability related 
+to the THIRD PARTY SOFTWARE. Any questions, complaints or claims 
+related to the THIRD PARTY SOFTWARE should be directed to the 
+appropriate vendor.
+
+9.2 Sharman makes no representations or warranties of any kind 
+concerning the quality, safety or suitability of this software, either 
+express or implied, including without limitation any implied warranties 
+of merchantability, fitness for a particular purpose, or non-infringement 
+to the maximum extent permitted by applicable law, in no event will 
+Sharman be liable for any indirect, punitive, special, incidental or 
+consequential damages however they may arise and even if Sharman 
+has been previously advised of the possibility of such damages.
+
+9.3 There are inherent dangers in the use of any software available for 
+downloading on the Internet, and Sharman cautions you to make sure 
+that you completely understand the potential risks before downloading 
+any of the THIRD PARTY SOFTWARE. You are solely responsible for 
+adequate protection and backup of the data and equipment used in 
+connection with any of the THIRD PARTY SOFTWARE, and Sharman will 
+not be liable for any damages that you may suffer in connection with 
+using, modifying or distributing any of the THIRD PARTY SOFTWARE.
+
+
+10 Applicable Law
+
+10.1 This Licence as well as all disputes arising out of or in connection 
+with this Licence shall be governed by the laws of the New South Wales, 
+Australia, without regard to or application of choice of law rules or 
+principles.
+
+10.2 Any dispute arising out of or in connection with this Licence, or in 
+future agreements resulting there from, shall be exclusively resolved 
+before the competent court in New South Wales, Australia.
+
+
+11 Points to consider for International Use
+
+11.1 Recognising the global nature of the Internet, you agree to comply 
+with all local rules regarding on-line conduct and acceptable data. 
+Specifically, you agree to comply with all applicable laws regarding 
+copyright and the transmission of technical data exported from the 
+country in which you reside.
+
+
+12 Indemnification
+
+12.1 YOU AGREE TO INDEMNIFY, HOLD HARMLESS AND DEFEND 
+SHARMAN, AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, AGENTS, 
+CO-BRANDERS OR OTHER PARTNERS, AND EMPLOYEES, AT YOUR 
+EXPENSE, AGAINST ANY AND ALL THIRD PARTY CLAIMS OR DEMANDS, 
+ACTIONS, PROCEEDINGS AND SUITS AND ALL RELATED LIABILITIES, 
+DAMAGES, SETTLEMENTS, PENALTIES, FINES COSTS AND EXPENSES 
+(INCLUDING, WITHOUT LIMITATION, REASONABLE ATTORNEY'S FEES 
+AND OTHER DISPUTE RESOLUTION EXPENSES) INCURRED BY 
+SHARMAN, DUE TO OR ARISING OUT OF DATA YOU SUBMIT, POST TO, 
+TRANSMIT OR COMMUNICATE  THROUGH THE SOFTWARE, YOUR USE 
+OR MISUSE OF THE SOFTWARE, YOUR CONNECTION TO OTHER USERS, 
+YOUR VIOLATION OF THE LICENSE, OR YOUR VIOLATION OF ANY 
+RIGHTS OF ANOTHER.
+
+
+13 Disclaimers of Warranties
+
+13.1 THE SOFTWARE IS PROVIDED "AS IS", AND ON AN "AS 
+AVAILABLE" BASIS AND THERE ARE NO CLAIMS, REPRESENTATIONS 
+AND WARRANTIES MADE BY SHARMAN, EITHER EXPRESS, IMPLIED OR 
+STATUTORY (TO THE EXTENT PERMITTED BY APPLICABLE LAW), WITH 
+RESPECT TO THE SOFTWARE, INCLUDING BUT NOT LIMITED TO, 
+WARRANTIES OF QUALITY, PERFORMANCE, TITLE, NON-
+INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR 
+PURPOSE, NOR ARE THERE ANY WARRANTIES CREATED BY COURSE OF 
+DEALING, COURSE OF PERFORMANCE OR TRADE USAGE.
+
+13.2 ANY DATA DOWNLOADED THROUGH THE USE OF THE SOFTWARE 
+IS DONE AT YOUR OWN DISCRETION AND RISK AND YOU WILL BE 
+SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM 
+OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OR USE OF 
+ANY SUCH MATERIAL.
+
+
+14 Limitation of Liability
+
+14.1 YOU UNDERSTAND AND AGREE THAT IN NO EVENT SHALL 
+SHARMAN BE LIABLE WHETHER IN CONTRACT, WARRANTY, TORT 
+(INCLUDING NEGLIGENCE WHETHER ACTIVE, PASSIVE OR IMPUTED), 
+PRODUCT LIABILITY OR STRICT LIABILITY, EVEN IF SHARMAN HAS 
+BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, FOR ANY 
+DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR 
+EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO DAMAGES 
+FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE 
+LOSSES, RESULTING FROM:
+
+14.1.1 THE USE OR THE INABILITY TO USE THE SOFTWARE;
+
+14.1.2 THE COST OF PROCUREMENT OF SUBSTITUTE GOODS, DATA, 
+INFORMATION OR SERVICES PURCHASED OR OBTAINED OR MESSAGES 
+RECEIVED OR TRANSACTIONS ENTERED INTO THROUGH OR FROM THE 
+USE OF THE SOFTWARE;
+
+14.1.3 UNAUTHORISED ACCESS TO OR ALTERATION OF YOUR 
+TRANSMISSIONS OR DATA;
+
+14.1.4 STATEMENTS OR CONDUCT OF ANY THIRD PARTY USING THE 
+SOFTWARE; OR
+
+14.1.5 ANY OTHER MATTER RELATING TO THE USE OF THE SOFTWARE.
+IN NO EVENT SHALL SHARMAN'S TOTAL LIABILITY TO YOU FOR ALL 
+DAMAGES EXCEED THE AMOUNT OF FIFTY AUSTRALIAN DOLLARS 
+($50).
+
+14.2 WHERE THE TRADE PRACTICES ACT 1974 (CTH) OR SIMILAR 
+STATE AND TERRITORY LEGISLATION IMPLIES INTO THIS LICENCE ANY 
+CONDITION OR WARRANTY, AND THOSE LAWS AVOID OR PROHIBIT 
+CONDITIONS IN A CONTRACT EXCLUDING OR MODIFYING THEM, THEN 
+THE TERM, CONDITION OR WARRANTY SHALL BE DEEMED TO BE 
+INCLUDED IN THIS LICENCE, PROVIDED THAT TO THE FULL EXTENT 
+THAT SHARMAN IS ABLE TO THE LIABILITY OF SHARMAN FOR A 
+BREACH OF ANY SUCH CONDITION OR WARRANTY, INCLUDING AND 
+ECONOMIC OR CONSEQUENTIAL LOSS, SHALL BE LIMITED AT THE 
+OPTION OF SHARMAN TO ONE OR MORE OF THE FOLLOWING:
+
+14.2.1 IF THE BREACH RELATED TO GOODS:
+(A) THE REPLACEMENT OF THE GOODS OR THE SUPPLY OF 
+EQUIVALENT GOODS;
+(B) THE REPAIR OF GOODS;
+(C) THE PAYMENT OF THE COST OF REPLACING THE GOODS OR 
+OBTAINING EQUIVALENT GOODS;
+(D) THE PAYMENT OF HAVING THE GOODS REPAIRED;
+OR
+14.2.2 IF THE BREACH RELATES TO SERVICES:
+(A) THE SUPPLY OF THE SERVICE AGAIN; OR
+(B) THE PAYMENT OF THE COST OF HAVING THE SERVICE SUPPLIED 
+AGAIN.
+
+
+15 Termination
+
+15.1 It is you responsibility to comply with the terms of this Licence and 
+to obey the laws of your jurisdiction. Your rights under this Licence will 
+terminate immediately and without prior notice if :
+ you violate any term of this License, including violating  any applicable 
+laws or rights of any third party including the intellectual property rights 
+of any such third party.  You may be subject to legal action if you 
+continue to use the Kazaa Media Desktop in violation of this Licence.
+
+
+16 Trade marks
+
+17.1 The Kazaa name, the Kazaa logo, and other Kazaa related 
+properties are trademarks of Sharman. All other trademarks appearing 
+on Kazaa Media Desktop are trademarks of their respective owners.
+
+
+17 Miscellaneous
+
+17.1 This Licence constitutes the entire understanding of you, the Kazaa 
+Media Desktop and the Software with respect to the subject matter 
+hereof. There are no understandings, agreements, conditions or 
+representations, oral or written, express or implied, with reference to 
+the subject matter hereof that are not merged herein, expressly 
+referenced herein, or superseded hereby.
+
+17.2 The failure or delay of Sharman to exercise or enforce any rights 
+or provision of the Licence does not constitute a waiver of such right or 
+provision.
+
+17.3 All provisions which must survive in order to give effect to their 
+meaning, shall survive any expiration or termination of this Licence, 
+including without limitation all of your representations, warranties and 
+indemnification obligations.
+
+17.4 Should any part of this Licence be held invalid by any court or 
+tribunal, such invalidity shall not affect the validity of any remaining 
+part, which will remain in full force and effect as if this License had been 
+executed without that part having been held to be invalid.

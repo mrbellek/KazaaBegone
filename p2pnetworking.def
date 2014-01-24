@@ -1,0 +1,56 @@
+// P2P networking stuff
+// 30/07/06
+// Taken from Kazaa 2.5.2, 2.6.0, 2.6.2, 2.6.3
+
+P2pProcess=%WINSYSDIR%\P2P Networking\P2P Networking.exe
+
+P2pRegkey=HKLM\Control Panel\MMCPL
+P2pRegkey=HKLM\Software\Microsoft\Code Store Database\Distribution Units\{1D6711C8-7154-40BB-8380-3DEA45B69CBF}
+P2pRegkey=HKCU\Software\P2P Networking
+P2pRegkey=HKCR\CLSID\{1D6711C8-7154-40BB-8380-3DEA45B69CBF}
+P2pRegkey=HKCR\Interface\{D273D427-57C6-4B12-860F-BBB8195F6E2A}
+P2pRegkey=HKCR\TypeLib\{F720B40F-3A38-4B22-B30D-DCF095D42498}
+P2pRegkey=HKCR\WebP2PInstaller.Installer
+P2pRegkey=HKCR\WebP2PInstaller.Installer.1
+
+P2pFolder=%WINSYSDIR%\P2P Networking
+
+P2pFile=%WINDIR%\Downloaded Program Files\WebP2PInstaller.dll
+
+P2pRegkey=HKCR\CLSID\{C91E8926-D4BE-4685-99F4-0D996B96BAC0}
+P2pRegkey=HKCR\Interface\{C91E8926-D4BE-4685-99F4-0D996B96BAC0}
+P2pRegkey=HKCR\CLSID\{CC7A6223-3759-4075-8CEA-971F5CFC0ED2}
+P2pRegkey=HKCR\Interface\{C91E8926-D4BE-4685-99F4-0D996B96BAC0}
+P2pRegkey=HKCR\Interface\{1B540D44-3F61-4394-AE30-25FDC3649405}
+P2pRegkey=HKCR\Interface\{F720B40F-3A38-4B22-B30D-DCF095D42498}
+P2pRegkey=HKCR\JCDE_Stack
+P2pRegkey=HKCR\TypeLib\{F720B40F-3A38-4B22-B30D-DCF095D42498}
+P2pRegkey=HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\P2P Networking
+
+P2pRegval=HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run,P2P Networking
+P2pRegval=HKLM\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\StandardProfile\AuthorizedApplications\List,%WINSYSDIR%\P2P Networking\P2P Networking.exe
+P2pRegval=HKLM\SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\StandardProfile\AuthorizedApplications\List,%WINSYSDIR%\P2P Networking\P2P Networking.exe
+P2pRegval=HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Control Panel\Extended Properties\{305CA226-D286-468e-B848-2B2E8E697B74} 2,%SystemRoot%\System32\P2P Networking v126.cpl
+P2pFile=%WINSYSDIR%\P2P Networking v126.cpl
+
+// kaza 2.5.1+ p2p networking stuff
+P2pRegkey=HKCR\CLSID\{C91E8926-D4BE-4685-99F4-0D996B96BAC0}
+P2pRegkey=HKCR\CLSID\{CC7A6223-3759-4075-8CEA-971F5CFC0ED2}
+P2pRegkey=HKCR\Interface\{16097036-894C-4C00-A61F-93CA0D49A70E}
+P2pRegkey=HKCR\Interface\{1B540D44-3F61-4394-AE30-25FDC3649405}
+P2pRegkey=HKCR\Interface\{2ED5AF98-9258-45BA-B79B-06625C92F662}
+P2pRegkey=HKCR\Interface\{700DC0DD-F409-42E0-9DE5-21EE1A2BA9FD}
+P2pRegkey=HKCR\Interface\{9D4548CE-92FD-4C6C-AE7F-3DBE3BC763D8}
+P2pRegkey=HKCR\Interface\{AD5BC1F0-72D8-44B3-8E3D-8E8FECCE43FB}
+P2pRegkey=HKCR\Interface\{C91E8926-D4BE-4685-99F4-0D996B96BAC0}
+P2pRegkey=HKCR\Interface\{CE9B37EC-D243-47A2-83DB-3A8350175193}
+P2pRegkey=HKCR\Interface\{E813099D-5529-47F4-9B37-4AFAFCB00A43}
+P2pRegkey=HKCR\Interface\{FD42F6D3-7AB1-470C-979B-7996EDC99099}
+P2pRegkey=HKCR\JCDE_Stack
+P2pRegkey=HKCR\JCDE_Stack.1
+P2pRegkey=HKCR\SigningModule.SigningModule
+P2pRegkey=HKCR\SigningModule.SigningModule.1
+P2pRegkey=HKCR\TypeLib\{676F6D1D-C559-42A9-860B-27C1477B7179}
+P2pRegkey=HKCR\TypeLib\{BFF4F684-677E-44F4-8C74-1D575C950E10}
+P2pRegkey=HKLM\Software\Microsoft\Windows\CurrentVersion\Uninstall\P2P Networking
+P2pRegkey=HKLM\Software\P2P Networking

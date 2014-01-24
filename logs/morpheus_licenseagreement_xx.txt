@@ -1,0 +1,173 @@
+LEGAL NOTICE AND TERMS OF SERVICE
+
+Use of the Morpheus client software and the MusicCity Network Service is provided by MusicCity Networks, subject to the notices, terms, and conditions set forth below and on the Morpheus client MusicCity.com web site, including, but not limited to those in the MusicCity Network License Agreement, the Terms of Service (as set forth below), and the MusicCity Networks Repeat Copyright Offender Policy (as set forth below). We may regularly amend these notices, terms and conditions at any time without prior notice by posting new or revised terms of use policies and other documents on the Morpheus software or MusicCity.com web sites. It is important for you to check this and other terms and conditions related to use of Morpheus and other MusicCity Networks products and services from time to time. PLEASE READ THESE TERMS CAREFULLY BEFORE USING MORPEUS OR THE MUSICCITY.COM WEB SITE. USE OF MUSICCITY NETWORKS PRODUCTS AND SERVICES CONSTITUTES YOUR ACCEPTANCE OF ALL SUCH NOTICES, TERMS AND CONDITIONS. 
+
+1. Violation of Copyright and Other Laws When Using MusicCity Networks 
+
+PLEASE NOTE THAT MUSICCITY RESPECTS THE RIGHT OF COPYRIGHT OWNERS AND IS FULLY COMMITTED TO PROTECT THEIR RIGHTS. MUSICCITY NETWORKS EXPECTS ALL MUSICCITY NETWORKS USERS AND MUSICCITY NETWORKS WEB SITE USERS TO DO THE SAME. WE, THEREFORE, ASK YOU TO PAY SPECIAL ATTENTION TO AVOID VIOLATING COPYRIGHT LAWS AND REGULATIONS. AS A CONDITION TO USE THE MUSICCITY NETWORKS PRODUCTS AND SERVICES, YOU MUST AGREE THAT YOU WILL NOT USE MUSICCITY NETWORKS TO INFRINGE THE INTELLECTUAL PROPERTY OR OTHER RIGHTS OF OTHERS IN ANY WAY. UNAUTHORISED COPYING, DISTRIBUTION, MODIFICATION, PUBLIC DISPLAY, OR PUBLIC PERFORMANCE OF COPYRIGHTED WORKS IS AN INFRINGEMENT OF THE COPYRIGHT HOLDERS' RIGHTS. 
+
+YOU SHOULD NOT USE THE MUSICCITY NETWORKS' SERVICE TO OBTAIN ANY PERSONAL INFORMATION ABOUT ANY MUSICCITY NETWORKS USERS TO MODIFY, DELETE OR DAMAGE ANY INFORMATION CONTAINED ON THE PC OF ANY USER CONNECTED TO THE MUSICCITY NETWORKS SERVICE. YOU ARE HEREBY PUT ON NOTICE THAT YOU ARE ENTIRELY RESPONSIBLE FOR YOUR CONTENT AND FOR ENSURING THAT IT COMPORTS WITH ALL APPLICABLE LAWS, INCLUDING ALL COPYRIGHT AND DATA-PROTECTION LAWS. IN CASE YOU FAIL TO COMPLY WITH LAWS REGARDING COPYRIGHTS OR OTHER INTELLECTUAL PROPERTY RIGHTS AND DATA-PROTECTION, YOU MAY, BY THE APPROPRIATE LEGAL AUTHORITIES, BE SUBJECT TO CIVIL AND CRIMINAL LIABILITY, INCLUDING FINES AND INCARCERATION.  
+
+2. Terms of Service 
+
+If you are an adult, to use MusicCity Networks, you must first: (a) register via our web site, (b) read and accept the MusicCity Networks / Morpheus Client License Agreement of which this Notice and Terms of Service are part, (c) agree to be bound by the terms of that License by pressing the 'Yes' button on the Morpheus download screen and (d) pay the applicable fees. 
+
+If you are a minor you will become eligible to use MusicCity Networks upon your parent: (a) registering for MusicCity Networks via our web site, (b) reading and accepting the MusicCity Networks / Morpheus License Agreement of which this Notice and Terms of Service are part, (c) agreeing to be bound by the terms of that license by pressing the 'Yes' button on the Morpheus download screen and (d) paying the applicable fees. You understand and agree that MusicCity Networks is provided "AS-IS" and that we assume no responsibility for the failure or inaccuracy of MusicCity Networks. You are responsible for paying all applicable taxes and fees for all hardware, software, service and other costs you may incur in connection with your use of MusicCity Networks and providing all equipment and software necessary to connect to our web site and to use MusicCity Networks via the Internet. We may add, delete or change some or all of our services provided in connection MusicCity Networks at any time. Any new features that augment or enhance MusicCity Networks will be subject to these notices, terms and conditions and will also be subject to all other applicable MusicCity Networks policies, terms, notices and conditions as discussed above. We may establish general practices and limits concerning use of MusicCity Networks. For example, we may limit the number of files that you may make accessible to other MusicCity Networks users or the number of files of other MusicCity Networks users that you may access. You agree to accept these general practices and limits as they may be in effect from time to time. In addition, we reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, MusicCity Networks (or any portion thereof) for any reason or no reason, with or without notice. You agree that we will not be liable to you or to any third party for any modification, suspension or discontinuance of MusicCity Networks. 
+
+3. Agreement to Provide True, Correct and Accurate Information for Your Use of MusicCity Networks.
+
+In consideration of your use of MusicCity Networks, you agree that the information you provide to us is and will be true, correct and accurate in all respects, and you agree to update such information as necessary to keep it true, correct and accurate in all respects. If you provide any information that is not true, correct and accurate in all respects, or we have reasonable grounds to suspect that such information is not true, correct and accurate in all respects, you will no longer have the right to use MusicCity Networks. You will be asked to establish a user name and password when registering as a MusicCity Networks user. You are responsible for maintaining the confidentiality of your password and are fully responsible for all activities that occur under your account. You agree (i) that you will not provide your password to any third party, and you will not allow any third party to access your account, (ii) to immediately notify us of any unauthorized use of your account or any other breach of security and (iii) that you will establish and maintain only one MusicCity Networks registration at a time. 
+
+4. Registration Obligations for Your Use of MusicCity Networks. 
+
+MUSICCITY NETWORKS DOES NOT CONTROL OR HAVE KNOWLEDGE OF ANY OF THE AVAILABLE CONTENT SHARED USING MUSICCITY NETWORKS OR THE MORPHEUS CLIENT SOFTWARE.  ALL CONTENT, SUCH AS MUSIC, AUDIO, VIDEO, PHOTOGRAPHS, TEXT, MESSAGES, OR OTHER MEDIA MATERIALS, WHETHER PUBLICLY POSTED OR PRIVATELY TRANSMITTED, ARE THE ENTIRE RESPONSIBILITY OF THE PERSON FROM WHICH SUCH CONTENT ORIGINATED. 
+
+MusicCity Networks does not guarantee the accuracy, integrity, quality or legality of such content. You may be exposed to content that is offensive, indecent or objectionable. Under any circumstances, MusicCity Networks will not be liable in any way for any errors or omissions in any content, or for any loss or damage of any kind incurred as a result of any content transmitted via the Service. 
+
+You agree to not use the Service to: 
+
+Transmit any content that is unlawful, harmful, threatening, abusive, harassing, defamatory, vulgar, obscene, invasive of another's privacy, hateful, or racially, ethnically or otherwise objectionable; 
+
+Harm minors in any way; 
+
+Impersonate any person or entity or falsely state or otherwise misrepresent your affiliation with a person or entity; 
+
+Forge headers or otherwise manipulate identifiers in order to disguise the origin of any content transmitted through the Service; 
+
+Transmit any content that you do not have a right to transmit under any law or under contractual or fiduciary relationships (such as inside information, proprietary and confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements); 
+
+Transmit any content that infringes any patent, trademark, trade secret, copyright or other proprietary rights ("Rights") of any party; 
+
+Transmit any material that contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment; Disrupt the normal flow of dialogue, cause a screen to "scroll" faster than other users of the Service are able to type, or otherwise act in a manner that negatively affects other users' ability to engage in real time exchanges; 
+
+Interfere with or disrupt the Service or servers or networks connected to the Service, or disobey any requirements, procedures, policies or regulations of networks connected to the Service; 
+
+Intentionally or unintentionally violate any applicable local, state, national or international law, including securities exchange and any regulations having the force of law; 
+
+"Stalk" or otherwise harass another; or 
+
+Collect or store personal data about other users. You acknowledge and agree that MusicCity Networks may preserve content and may also disclose content if required to do so by law or in the good faith belief that such preservation or disclosure is reasonable necessary to: 
+
+(a) comply with legal process; 
+
+(b) enforce the License Agreement; 
+
+(c) respond to claims that any content violates the rights of third-parties; or 
+
+(d) protect the rights, property, or personal safety of MusicCity Networks, its users and the public. 
+
+5. Payment and fees 
+
+Certain features of MusicCity Networks or the Morpheus Client software may require payment. You shall pay all fees and charges incurred through your account at the rates in effect for the billing period in which such fees and charges are incurred. All fees and charges shall be billed to you, and you shall be solely responsible for their payment. You shall pay all applicable taxes relating to the use of the Service through your account. Certain portions of the Service or the Service as a whole may require a prepaid fee ("Prepaid Fee"). The Prepaid Fee, and all taxes and other fees related thereto will be paid by you in advance. In no event will you receive any portions of the Service or the Service as a whole if a Prepaid Fee is required unless MusicCity Networks receives all fees and charges payable by you, including the Prepaid Fee. If you do not pay the applicable fees within the prescribed period of time your account will be terminated immediately, without limiting MusicCity Networks' right to demand payment of fees and damages at a later time. 
+
+6. MusicCity Networks' Policy Against Child Pornography 
+
+We do not tolerate child pornography on the MusicCity network and we urge all users to report any such instance directly to us upon discovery that another MusicCity Networks user is sharing child pornography on the MusicCity network.  Please contact us on abuse@MusicCity.com.  
+
+PLEASE OBSERVE THAT THE DISTRIBUTION OF CHILD PORNOGRAPHY IS A CRIMINAL OFFENCE IN MOST COUNTRIES. IF YOU SHARE CHILD PORNOGRAPHY, YOU RUN THE RISK OF BEING PROSECUTED, FINED OR IMPRISONED. A number of non-profit organizations and individuals are actively seeking out child pornography on the Internet and reporting the incidents to the legal authorities.  MusicCity Networks will cooperate with legal authorities to identify traffickers of any illegal content or persons engaged in illegal activity under the laws of the United States of America. Parental supervision is urged to ensure that no minors have access to material that may be deemed to be inappropriate for children.  
+
+7.  MusicCity Networks, Copyright Infringement Policy 
+
+MusicCity Networks respects and desires to protect the right of copyright owners. We ask all users to avoid violating copyright laws and regulations. Unauthorized copying, distribution, modification, public display, or public performance of copyrighted works is an infringement of copyright holders' rights.  Your license to use MusicCity Networks service and Morpheus Client software is subject to the condition that you shall not infringe the intellectual property rights of others in any way.  MusicCity Networks shall have the right to terminate the account of any MusicCity Networks users who repeat copyright infringements. Please refer the MusicCity Networks' Repeat Copyright Offender Policy (as set forth below). 
+
+MusicCity Networks reserves the right to unilaterally terminate the account of any person, to the technically feasible to do so, (a) upon any single act of infringement in conjunction with the use of MusicCity Networks, (b) if MusicCity Networks in its sole discretion believes that person's conduct is harmful to the interests of MusicCity Networks, other MusicCity Networks users, or other MusicCity Networks affiliate partners, or (c) for any other reason in MusicCity Networks' sole discretion, with or without cause. 
+
+If you are a copyright owner or are authorized to act on behalf of one and discover cases of alleged infringement of your copyrighted work, please contact us in accordance with our Policy section on the MusicCity.com website.  
+
+MusicCity Networks is technically not able to monitor the information users transmit or store when using the MusicCity network.  Please note that in many countries, the monitoring of users in any communications network would amount to an infringement of their privacy. However we will comply with requests by national judicial authorities for information about our users, in accordance with national legislation to safeguard national security, defense, public security and for the prevention, investigation, detection and prosecution of criminal offences. 
+
+8. MusicCity Networks' Repeat Copyright Offender Policy 
+
+MusicCity Networks will, to the extent technically possible, terminate the accounts of users who violate copyrights or other intellectual property rights of third parties if we receive «actual knowledge» of their infringing activities. «Actual knowledge» means in any case a ruling from a judge stating that the user has infringed copyrights or other intellectual property rights or other such documentation that conforms to the applicable laws where such infringement is alleged.  Those users deemed "repeat offenders" by MusicCity Networks will have their MusicCity Networks account permanently cancelled, to the extent technically feasible to do so. Our repeat offender policy is as follows: 
+
+If any MusicCity Networks user who has been the subject of a complaint from or on behalf of a content owner that submits a letter in writing stating a name and sufficient fact of repeat copyright infringement, under accordance of the MusicCity Networks Policy (found on the MusicCity.com web site) we shall use our best efforts to contact directly to the user asking either (a) to stop violating copyright laws or (b) file a counter-argument in case the user feel that one has been unrightfully accused. 
+
+If the repeat copyright offender does not reply in writing within 48 hours after our notification, we shall permanently terminate the account, to the extent technically possible, without prior notice. 
+
+If the repeat copyright offender chooses not to comply, the copyright holder may pursue their legal remedies directly. 
+
+Any MusicCity Networks users who have had its account terminated shall not be permitted to re-register to MusicCity Networks at any time. 
+
+Each MusicCity Networks user is allowed to have only one active registration or account at any given time. Any MusicCity Networks user found to have more than one active registration or account at any time shall have all their accounts permanently cancelled, to the extent technically feasible to do so. 
+
+MusicCity Networks will enforce this policy to the extent it is technically feasible to do so. 
+
+In the event that a court of law holds that a MusicCity Networks user eliminated from the network under this policy did not in fact infringe another's rights or otherwise violate the law, MusicCity Networks may re-institute such person's account, upon receipt of the applicable court judgment or order. 
+
+9. Other Terminations of the MusicCity Networks Account 
+
+All users should understand that MusicCity Networks has a no-tolerance policy with respect to child pornography and other obscene material. If at any time, MusicCity Networks finds that you are using MusicCity Networks to collect or distribute child pornography or other obscene material; we reserve the right to permanently ban you and your computers from accessing MusicCity Networks and other MusicCity Networks services. You agree that any termination of your access to MusicCity Networks may be effected without prior notice, and acknowledge and agree that we may immediately deactivate or delete your MusicCity Networks account and all related information and files, and/or ban any further access to such files, to the extent technically feasible to do so. 
+
+10. MusicCity Networks' Right to Display Advertising Without Compensation to Users 
+
+MusicCity Networks reserves the right to display advertisements and promotions on all pages of the MusicCity Networks web sites and the Morpheus client.  By accessing your MusicCity Networks accounts, you agree that we have the right to distribute such advertisements and promotions without compensation to you. The timing, frequency, placement and extent of advertising by us within the pages comprising your MusicCity Networks account is subject to change and shall be determined by us in our sole discretion. Your correspondence or business dealings with, or participation in promotions of, advertisers found on or through the MusicCity Networks web sites or Morpheus Client, including payment and delivery of related goods or services, and any other terms, conditions, warranties or representations associated with such dealings, are solely between you and such advertiser. You agree that MusicCity Networks will not be responsible or liable for any loss or damage of any sort incurred as the result of any such dealings or as the result of the presence of such advertisers on the MusicCity Networks web sites or Morpheus Client. 
+
+11. Links to Third-Party Sites 
+
+MusicCity Networks or the Morpheus Client may provide, or third parties may provide, links to other World Wide Web sites or other Internet resources. Any third-party sites to which MusicCity Networks may link are not under control of MusicCity Networks.  MusicCity Networks does not have any responsibility or liability for any information, contents, communications or materials available on such third-party sites. 
+
+12. Applicable law 
+
+This Legal and Terms of Service as well as all disputes arising out of or in connection with this terms shall be governed by the laws of the united States of America, without regard to or application of choice of law rules or principles. 
+
+Any dispute arising out of or in connection with this Legal and Terms of Service, or in future agreements resulting there from, shall be exclusively resolved before the applicable court in the United States of America. 
+
+13. Special Admonitions for International Use 
+
+Recognizing the global nature of the Internet, you agree to comply with all local rules regarding online conduct and acceptable content. Specifically, you agree to comply with all applicable laws regarding copyright and the transmission of technical data exported from the country in which you reside. 
+
+14. Indemnification 
+
+MusicCity Networks users agree to indemnify and hold MusicCity Networks, and its subsidiaries, affiliates, officers, agents, co-branders or other partners, and employees, harmless from any claim or demand, including reasonable attorneys' fees, made by any third party due to or arising out of content you submit, post to or transmit through the Service, your use of the Service, your connection to the Service, your violation of these notices, terms and conditions, or your violation of any rights of another. 
+
+BY USING MUSICCITY NETWORKS, YOU ACKNOWLEDGE THAT YOU HAVE READ AND AGREE TO BE BOUND BY THESE NOTICES, TERMS AND CONDITIONS. YOU FURTHER AGREE THAT THE MUSICCITY NETWORKS / MORPHEUS CLIENT SOFTWARE AGREEMENT, WHICH INCLUDES THIS MUSICCITY NETWORKS LEGAL NOTICE AND TERMS OF SERVICE AND THE OTHER POLICIES AND DOCUMENTS POSTED ON THE MORPHEUS CLIENT AND THE MUSICCITY NETWORKS WEB SITES, WHICH MAY BE MODIFIED FROM TIME TO TIME BY MUSICCITY NETWORKS, AND ANY OTHER MATERIALS EXPRESSLY INCORPORATED HEREIN BY REFERENCE, ARE THE COMPLETE AND EXCLUSIVE STATEMENT OF THE RIGHTS AND LIABILITIES OF THE PARTIES, AND SUPERSEDE ANY AND ALL PRIOR AND CONTEMPORANEOUS WRITTEN OR ORAL AGREEMENTS EXISTING BETWEEN THE PARTIES WITH RESPECT TO SUCH SUBJECT MATTER. 
+
+14. No Resale or Service 
+
+None of MusicCity Networks' users are allowed to reproduce, duplicate, copy, sell, resell or exploit for any commercial purposes, any portion of the Service, use of the Service, or access to the Service. 
+
+15. Modifications to or Suspension of Service 
+
+MusicCity Networks reserves the right to modify or discontinue the Service temporarily or permanently, at any time, with or without notice. MusicCity Networks will attempt to provide reasonable notice of such changes to the services or the site. 
+
+16.  MusicCity Networks Proprietary Rights 
+
+The MusicCity Networks name, the MusicCity Networks logo, and other MusicCity Networks related properties are trademarks of MusicCity Networks. All other trademarks appearing on the Service are trademarks of their respective owners. The Morpheus logo and trademark are the property of SCN.  All rights reserved.
+
+17. Disclaimer of Warranties 
+
+The services, content, audio transmissions or other date of any kind or nature made available at the site are provided "AS IS", and "AS AVAILABLE" basis or at the specific providers own terms. All representations and warranties, either express or implied are disclaimed, including but not limited to, warranties of title, non-infringement, merchantability or fitness for a particular purpose. MusicCity Networks makes no warranty, representation or guaranty as to the content, accuracy, timeliness or completeness of the site or the information or that the information may be relied upon for any reason. Any material downloaded through the service is done at your own discretion and risk and that you will be solely responsible for any damage to your computer system or loss of data that results from the download or use of any such material. 
+
+18. Limitation of Liability 
+
+You understand and agree that MusicCity Networks shall not be liable for any direct, indirect, incidental, special, consequential, or exemplary damages, including but not limited to damages for loss of profits, goodwill, use, data or other intangible losses, resulting from: 
+
+(i) the use or the inability to use the service; 
+
+(ii) the cost of procurement of substitute goods, data, information or services purchased or obtained or messages received or transactions entered into through or from the service; 
+
+(iii) unauthorized access to or alteration of your transmissions or data; 
+
+(iv) statements or conduct of any third party on the service; or 
+
+(v) any other matter relating to the service. 
+
+19. Notice 
+
+The Service may provide notices of changes to the License Agreement or other matters by displaying notices or links to notices to you generally on the Service or on the MusicCity.com website. 
+
+You are obliged to update you knowledge hereto continuously. Lack of knowledge does not imply that these terms are not accepted by you. 
+
+20. Miscellaneous 
+
+These Terms of Service constitute the entire understanding of you and MusicCity Networks with respect to the subject matter hereof. There are no understandings, agreements, conditions or representations, oral or written, express or implied, with reference to the subject matter hereof that are not merged herein, expressly referenced herein, or superseded hereby. 
+
+You also may be subject to additional terms and conditions that may apply when you use affiliate services, third-party content or third-party software. 
+
+The failure or delay of MusicCity Networks to exercise or enforce any rights or provision of the Terms of Service may not constitute a waiver of such right or provision. 
+
+All provisions which must survive in order to give effect to their meaning, shall survive any expiration or termination of these Terms of Service, including without limitation all of your representations, warranties and indemnification obligations. 
+
+Should any part of these Terms of Service be held invalid by any court or tribunal, such invalidity shall not affect the validity of any remaining part, which will remain in full force and effect as if these Terms of Service had been executed without that part having been held to be invalid. 
+
+April 2001

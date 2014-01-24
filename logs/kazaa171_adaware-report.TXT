@@ -1,0 +1,211 @@
+Scan initialized on 01-06-2002 15:46:36.
+(AAW release 5.82, referencefile 021-29.05.2002)
+=================================================
+
+
+Started memory scan
+====================
+Running processes:
+
+#:1 Name: C:\WIN98\SYSTEM\KERNEL32.DLL
+----------------------------
+    Threads:8
+    ProcID:4293879277
+    ParentProcID:2123839405
+    BasePriority:High
+
+
+#:2 Name: C:\WIN98\SYSTEM\MSGSRV32.EXE
+----------------------------
+    Threads:1
+    ProcID:4294944253
+    ParentProcID:4293879277
+    BasePriority:Normal
+
+
+#:3 Name: C:\WIN98\SYSTEM\MPREXE.EXE
+----------------------------
+    Threads:2
+    ProcID:4294944789
+    ParentProcID:4294944253
+    BasePriority:Normal
+
+
+#:4 Name: D:\DESKTOP\PRIME95\PRIME95.EXE
+----------------------------
+    Threads:2
+    ProcID:4294964033
+    ParentProcID:4294944789
+    BasePriority:Idle
+
+
+#:5 Name: D:\TOOLS\TRAYMAN\TRAYMAN.EXE
+----------------------------
+    Threads:2
+    ProcID:4294845533
+    ParentProcID:4294944789
+    BasePriority:Normal
+
+
+#:6 Name: C:\PROGRAM FILES\KPF\PERSFW.EXE
+----------------------------
+    Threads:5
+    ProcID:4294846797
+    ParentProcID:4294944789
+    BasePriority:Normal
+
+
+#:7 Name: C:\PROGRAM FILES\ATGUARD\IAMSERV.EXE
+----------------------------
+    Threads:8
+    ProcID:4294882193
+    ParentProcID:4294944253
+    BasePriority:Normal
+
+
+#:8 Name: C:\PROGRAM FILES\ATGUARD\IAMAPP.EXE
+----------------------------
+    Threads:1
+    ProcID:4294897205
+    ParentProcID:4294944253
+    BasePriority:Normal
+
+
+#:9 Name: C:\WIN98\SYSTEM\mmtask.tsk
+----------------------------
+    Threads:1
+    ProcID:4294779777
+    ParentProcID:4294944253
+    BasePriority:Normal
+
+
+#:10 Name: C:\WIN98\EXPLORER.EXE
+----------------------------
+    Threads:11
+    ProcID:4294776909
+    ParentProcID:4294944253
+    BasePriority:Normal
+
+
+#:11 Name: C:\PROGRAM FILES\LOGITECH\MOUSEWARE\SYSTEM\EM_EXEC.EXE
+----------------------------
+    Threads:2
+    ProcID:4294790713
+    ParentProcID:4294776909
+    BasePriority:Normal
+
+
+#:12 Name: C:\PROGRAM FILES\DNSKONG\DNSKONG.EXE
+----------------------------
+    Threads:1
+    ProcID:4294829341
+    ParentProcID:4294776909
+    BasePriority:Normal
+
+
+#:13 Name: H:\PROGRAM FILES\DEVSTUDIO\MY PROJECTS\UPTIMER\UPTIMER4\UPTIMER4.EXE
+----------------------------
+    Threads:2
+    ProcID:4294816685
+    ParentProcID:4294776909
+    BasePriority:Normal
+
+
+#:14 Name: C:\WIN98\SYSTEM\DDHELP.EXE
+----------------------------
+    Threads:2
+    ProcID:4294660053
+    ParentProcID:4294794477
+    BasePriority:Realtime
+
+
+#:15 Name: C:\PROGRAM FILES\WINCMD\WINCMD32.EXE
+----------------------------
+    Threads:3
+    ProcID:4294692641
+    ParentProcID:4294816685
+    BasePriority:Normal
+
+
+#:16 Name: D:\TOOLS\AD-AWARE\AD-AWARE.EXE
+----------------------------
+    Threads:1
+    ProcID:4294674749
+    ParentProcID:4294692641
+    BasePriority:Normal
+
+
+Memory scan result:
+Total modules found:16
+Suspicious modules found:0
+
+
+Started registry scan
+======================
+Cydoor key:HKEY_USERS\.default\software\cydoor\
+Cydoor key:HKEY_USERS\.default\software\cydoor services\
+Cydoor key:HKEY_CURRENT_USER\software\cydoor\
+Cydoor key:HKEY_LOCAL_MACHINE\software\cydoor\
+Cydoor key:HKEY_CURRENT_USER\software\cydoor services\
+
+
+Started extended registry scan
+===============================
+
+
+Registry scan result:
+Suspicious keys found :5
+
+
+Started folder scan
+====================
+Now processing drive (C), 0 remaining.
+Finished processing Drive(C), 757 folders total.
+
+Folder scan result:
+Folders processed:757
+Suspicious folders found:0
+
+
+Started file scan
+==================
+Cydoor file:C:\WIN98\SYSTEM\cd_clint.dll
+    FileSize : 151 kb
+    FileCreation time : 01-06-2002 15:34:51
+    Last accessed : 01-06-2002
+    Build : 3.2.1.0
+    OS : No executable
+    Comments:This is a module of Cydoor's ad system. Additional information is available
+at http://www.cydoor.com
+    Description:Cydoor Technologies ad-system
+    Version:3, 2, 1, 0
+    ProductName:Cydoor Technologies ad-system
+
+Cydoor file:C:\WIN98\SYSTEM\cd_htm.dll
+    FileSize : 41 kb
+    FileCreation time : 01-06-2002 15:34:51
+    Last accessed : 01-06-2002
+    Build : 1.0.0.1
+    OS : No executable
+    Comments:This is a module of Cydoor's ad system. Additional information is available
+at http://www.cydoor.com
+    Description:cd_htm module
+    Version:1, 0, 0, 1
+    ProductName:cd_htm module
+
+
+File scan result:
+Suspicious files found:2
+
+
+
+Scanning finished
+==================
+Suspicious modules found:0
+Suspicious keys found :5
+Suspicious folders found:0
+Suspicious files found:2
+=========================
+Components ignored:0
+Total components found:7
+

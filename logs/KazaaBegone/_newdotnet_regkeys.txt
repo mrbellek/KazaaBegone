@@ -1,0 +1,2 @@
+    sRegKeysNewDotNet() = "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\New.net"
+    sRegKeysNewDotNet() = "HKEY_LOCAL_MACHINE\Software\New.net"

@@ -1,0 +1,4 @@
+    sRegKeysMediaLoads() = "HKEY_CURRENT_USER\Software\DownloadWare"
+    sRegKeysMediaLoads() = "HKEY_CURRENT_USER\Software\WebInstall"
+    sRegKeysMediaLoads() = "HKEY_LOCAL_MACHINE\Software\DownloadWare"
+    sRegKeysMediaLoads() = "HKEY_LOCAL_MACHINE\Software\Microsoft\DownloadManager"

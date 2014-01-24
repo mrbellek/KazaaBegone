@@ -1,0 +1,23 @@
+Diet Kaza - Electronic End-User Software License Agreement
+
+Skidmonk Industries, a software development company ("Skidmonk"), at its sole discretion may choose to change the terms, conditions and operation of this software product at anytime.  By using this product the user waives any rights or claims it may have against Skidmonk Industries. 
+
+THIS PROGRAM IS PROTECTED BY COPYRIGHT LAW AND INTERNATIONAL TREATIES. BREAKING THE FOLLOWING AGREEMENT WILL RESULT IN SEVERE CIVIL AND CRIMINAL PENALTIES AND WILL BE PROSECUTED TO THE MAXIMUM EXTENT POSSIBLE UNDER LAW.
+
+This SKIDMONK End-User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity) and Skidmonk Industries for the SKIDMONK software product identified above, which includes computer software and may include associated media, printed materials, and "online" or electronic documentation ("SOFTWARE PRODUCT"). By installing, copying, or otherwise using the SOFTWARE PRODUCT, you agree to be bound by the terms of this EULA. If you do not agree to the terms of this EULA, you are not authorized to use the SOFTWARE PRODUCT.
+
+The act of installing and/or running Diet Kaza is your "signature" of accepting these terms and conditions. You may only use this software product with the understanding and acceptance that use of Diet Kaza could possibly violate certain other software products's license agreements, such as KaZaA (owned by Sharmon), and if by breaking those agreements, SKIDMONK will not be liable in any way, and only you, the SOLE end user will be responsible. You agree to this by using this SOFTWARE PRODUCT.
+
+1. Definitions
+"Software" means the programs supplied by Skidmonk Industries herewith.
+
+2. License Restrictions
+You may use this Software only with the understanding and acceptance that you, the end user, takes on full responsiblity for the functions this software performs. You also must agree to accept all liablity for the use and possession of this Software. At no time, will SKIDMONK be responsible for any unlawful behavior that you do while using this Software. The license granted to you is for educational purposes only. You must accept that this software may be illegal in some places, and that SKIDMONK will not be liable if you use this Software in such a place. You may make or distribute copies of the Software, or electronically transfer the Software from one computer to another or over a network. You may not decompile, reverse engineer, disassemble, or otherwise reduce the Software to a human-perceivable form. You may not rent, lease or sublicense the Software.  You may not modify the Software or create derivative works based upon the Software.
+
+Termination: Without prejudice to any other rights, SKIDMONK may terminate this EULA if you fail to comply with the terms and conditions of this EULA. In such event, you must destroy all copies of the SOFTWARE PRODUCT and all of its component parts.
+
+3. Ownership
+This license gives you LIMITED rights to use the Software. Although you own the media on which the Software is recorded, you do not become the owner of, and SKIDMONK retains title to the Software. All rights including Federal and International Copyrights, are reserved by SKIDMONK.
+
+4. Limitations of Damages
+SKIDMONK SHALL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES, EVEN IF SKIDMONK HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND EVEN IF A REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE. The SOLE end user ("YOU") of this Software is liable for ALL claims of damages of any kind from anyone.

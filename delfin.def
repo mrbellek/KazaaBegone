@@ -1,0 +1,36 @@
+// Delfin stuff
+// 25-12-2002
+// Taken from Kazaa v1.3.3 through v2.0.2
+
+DelfinProcess=%PROGRAMFILES%\DelFin\PromulGate\PgMonitr.exe
+
+DelfinFile=%PROGRAMFILES%\DelFin\PromulGate\delfinAD.ebd
+DelfinFile=%PROGRAMFILES%\DelFin\PromulGate\delfinAF.edx
+DelfinFile=%PROGRAMFILES%\DelFin\PromulGate\delfinBD.edx
+DelfinFile=%PROGRAMFILES%\DelFin\PromulGate\delfinCO.edx
+DelfinFile=%PROGRAMFILES%\DelFin\PromulGate\delfinDL.edx
+DelfinFile=%PROGRAMFILES%\DelFin\PromulGate\delfinED.edx
+DelfinFile=%PROGRAMFILES%\DelFin\PromulGate\delfinID.edx
+DelfinFile=%PROGRAMFILES%\DelFin\PromulGate\delfinLD.edx
+DelfinFile=%PROGRAMFILES%\DelFin\PromulGate\delfinLO.ebd
+DelfinFile=%PROGRAMFILES%\DelFin\PromulGate\Description.txt
+DelfinFile=%PROGRAMFILES%\DelFin\PromulGate\License.txt
+DelfinFile=%PROGRAMFILES%\DelFin\PromulGate\PgMonitr.exe
+DelfinFile=%PROGRAMFILES%\DelFin\PromulGate\PgSDK.DLL
+DelfinFile=%PROGRAMFILES%\DelFin\PromulGate\preference.dat
+DelfinFile=%PROGRAMFILES%\DelFin\PromulGate\uninstal.log
+DelfinFile=%PROGRAMFILES%\DelFin\PromulGate\user.html
+DelfinFile=%STARTMENU%\DelFin Media Viewer\About DelFin Media Viewer.lnk
+DelfinFile=%STARTMENU%\DelFin Media Viewer\DelFin Media Viewer.lnk
+DelfinFile=%STARTMENU%\DelFin Media Viewer\Uninstall DelFin Media Viewer.lnk
+
+DelfinFolder=%PROGRAMFILES%\DelFin
+DelfinFolder=%PROGRAMFILES%\DelFin\PromulGate
+DelfinFolder=%PROGRAMFILES%\DelFin\PromulGate\Adverts
+DelfinFolder=%STARTMENU%\DelFin Media Viewer
+
+DelfinRegkey=HKCU\Software\DelFin
+DelfinRegkey=HKLM\Software\DelFin
+DelfinRegkey=HKLM\Software\Microsoft\Windows\CurrentVersion\Uninstall\DelFin Media Viewer
+
+DelfinRegval=HKLM\Software\Microsoft\Windows\CurrentVersion\Run,PromulGate

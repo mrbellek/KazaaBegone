@@ -1,0 +1,17 @@
+// PerfectNav stuff
+// 30/07/06
+// Taken from Kazaa 2.5.2, 2.6.0, 2.6.2, 2.6.3
+
+PerfectnavRegkey=HKCR\BHO.PerfectNavBHO
+PerfectnavRegkey=HKCR\BHO.PerfectNavBHO.1
+PerfectnavRegkey=HKCR\CLSID\{0428FFC7-1931-45b7-95CB-3CBB919777E1}
+PerfectnavRegkey=HKCR\Interface\{8B8F6968-2F24-41E3-B653-E9613226F14D}
+PerfectnavRegkey=HKCR\Interface\{D273D427-57C6-4B12-860F-BBB8195F6E2A}
+PerfectnavRegkey=HKCR\TypeLib\{DE289BFA-737B-4ABB-A4EC-F8753551B875}
+PerfectnavRegkey=HKLM\Software\Microsoft\Windows\CurrentVersion\explorer\Browser Helper Objects\{0428FFC7-1931-45b7-95CB-3CBB919777E1}
+PerfectnavRegkey=HKLM\Software\PerfectNav
+
+PerfectnavFolder=%PROGRAMFILES%\PerfectNav
+
+PerfectnavFile=%TEMPDIR%\PerfectNavBHOLog.tmp
+

@@ -1,0 +1,209 @@
+// Other stuff
+// 25-12-2002
+// Taken from Kazaa v1.3.3 through v2.0.2
+
+OtherProcess=%PROGRAMFILES%\MyWay\myBar\1.bin\MY2NS.EXE
+OtherProcess=%WINDIR%\temp\p2psetup.exe
+OtherProcess=%WINDIR%\temp\adware\tboninst.exe
+OtherProcess=%WINDIR%\temp\adware\instafinderk_inst.exe
+OtherProcess=%PROGRAMFILES%\rxtoolbar\semantic insight\semanticinsight.exe
+OtherProcess=%PROGRAMFILES%\TBONBin\tbon.exe
+
+// sporder.dll seems to be a MS file used for LSP stuff
+// OtherFile=%WINSYSDIR%\sporder.dll
+OtherFile=%WINDIR%\temp\{69ae5d84-2877-4484-aaea-dd276f8f15c6}\InstDlg.dll
+
+// the cydoor dummy file
+OtherFile=%PROGRAMFILES%\Kazaa\cd_clint.dll
+
+OtherFolder=%WINDIR%\temp\{69ae5d84-2877-4484-aaea-dd276f8f15c6}
+
+//OtherRegkey=HKCU\Software\Microsoft\Cryptography\UserKeys\%USERNAME%
+//OtherRegkey=HKLM\Software\Microsoft\Protected Storage System Provider\%USERNAME%\Data\4d1fa410-6fd9-11d0-8c58-00c04fd9126b
+//OtherRegkey=HKLM\Software\Microsoft\Protected Storage System Provider\%USERNAME%\Data 2\Windows
+
+// lots of setup programs seem to use this - no idea what it does
+// OtherRegval=HKLM\System\CurrentControlSet\Control\Shutdown,SetupProgramRan
+
+// kazaa 2.1.0
+OtherFile=%WINDIR%\matchnet.ico
+
+// KAZAA 2.5.x
+
+OtherFile=%WINDIR%\FONTS\acrsec.fon
+OtherFile=%WINDIR%\FONTS\acrsecB.fon
+OtherFile=%WINDIR%\FONTS\acrsecI.fon
+OtherFile=%WINDIR%\temp\3641B9.TMP
+OtherFile=%WINDIR%\temp\873101.TMP
+OtherFile=%WINDIR%\temp\clt022fa\apm_eula.txt
+OtherFile=%WINDIR%\temp\clt022fa\apm_eula_txt.js
+OtherFile=%WINDIR%\temp\clt022fa\bullet.gif
+OtherFile=%WINDIR%\temp\clt022fa\b_arrow.gif
+OtherFile=%WINDIR%\temp\clt022fa\cl.css
+OtherFile=%WINDIR%\temp\clt022fa\cloudloader.js
+OtherFile=%WINDIR%\temp\clt022fa\clpages.cab
+OtherFile=%WINDIR%\temp\clt022fa\configure.htm
+OtherFile=%WINDIR%\temp\clt022fa\download.htm
+OtherFile=%WINDIR%\temp\clt022fa\error_kmd.htm
+OtherFile=%WINDIR%\temp\clt022fa\error_p2p.htm
+OtherFile=%WINDIR%\temp\clt022fa\eula_altnet.htm
+OtherFile=%WINDIR%\temp\clt022fa\eula_kmd.htm
+OtherFile=%WINDIR%\temp\clt022fa\eula_kmd_read.htm
+OtherFile=%WINDIR%\temp\clt022fa\finish.htm
+OtherFile=%WINDIR%\temp\clt022fa\icon_print.gif
+OtherFile=%WINDIR%\temp\clt022fa\installing.htm
+OtherFile=%WINDIR%\temp\clt022fa\kazaa_certified.gif
+OtherFile=%WINDIR%\temp\clt022fa\kmd_eula.txt
+OtherFile=%WINDIR%\temp\clt022fa\kmd_eula_txt.js
+OtherFile=%WINDIR%\temp\clt022fa\tick.gif
+OtherFile=%WINDIR%\temp\clt022fa\welcome.htm
+OtherFile=%WINDIR%\temp\m8g030910.tmp
+OtherFile=%WINDIR%\temp\matchnet.ico
+OtherFile=%WINDIR%\temp\netflix.ico
+OtherFile=%WINDIR%\temp\p2psetup.exe
+OtherFile=%TEMPDIR%\p2psetup.exe
+OtherFile=%WINDIR%\temp\readme.ico
+OtherFile=%WINDIR%\temp\readme.txt
+OtherFile=%WINDIR%\temp\shop.ico
+OtherFile=%WINDIR%\temp\tiscali_it_2.ico
+
+// ============================
+// kazaa 3.0
+// ============================
+
+// this crap is actually all from bundled programs
+// but I'm too lazy to add even more seperate .def files
+
+// ??
+OtherRegkey=HKCU\Software\AppConf
+//OtherRegkey=HKCU\Software\Microsoft\Windows\CurrentVersion\Ext\Stats\{D27CDB6E-AE6D-11CF-96B8-444553540000}
+OtherRegkey=HKCR\CLSID\{3646C2BD-3554-49CA-8125-44DEEFB881DE}
+OtherRegkey=HKCR\CLSID\{3f4d4f88-0198-4921-b630-957f3eb814e0}
+OtherRegkey=HKCR\MSIEDe1egate.Application.2
+
+// seems possible to have this even on systems without kazaa
+//OtherRegval=HKCU\Software\Microsoft\Internet Explorer\Main,AutoSearch
+//OtherRegval=HKCU\Software\Microsoft\Internet Explorer\Main,Friendly http errors
+
+OtherFolder=%APPLICDATA%\Macromedia\Flash Player\firstadsolution.com
+OtherFolder=%APPLICDATA%\Macromedia\Flash Player\macromedia.com\support\flashplayer\sys\#firstadsolution.com
+OtherFolder=%WINDIR%\cdmxtras
+OtherFile=%DESKTOP%\Play Poker Now!.lnk
+OtherFile=%DESKTOP%\Your Free Casino Chips!.lnk
+OtherFile=%TEMPDIR%\873101.tmp
+OtherFile=%TEMPDIR%\asmfiles.cab
+OtherFile=%TEMPDIR%\c871B9.tmp
+OtherFile=%TEMPDIR%\kmd*.tmp
+OtherFile=%WINDIR%\smdat32a.sys
+OtherFile=%WINDIR%\smdat32m.sys
+OtherFile=%WINDIR%\TEMP\msxml_cabinstall.exe
+
+// the best offers network
+OtherRegkey=HKCU\Software\Classes\tbonac
+OtherRegkey=HKCU\Software\tbon
+OtherRegkey=HKCR\tbonac
+OtherRegkey=HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\TBON
+
+OtherRegval=HKCU\Software\Microsoft\Windows\CurrentVersion\Run,tbon
+
+OtherFolder=%PROGRAMFILES%\TBONBin
+OtherFile=%WINDIR%\tboninst.cfg
+
+// instafinderk
+OtherRegkey=HKCU\Software\INSTAFINK
+OtherRegkey=HKCU\Software\Microsoft\Windows\CurrentVersion\Ext\Stats\{4E7BD74F-2B8D-469E-90F0-F66AB581A933}
+OtherRegkey=HKCR\instafink.INSTAFINK
+OtherRegkey=HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects\{4E7BD74F-2B8D-469E-90F0-F66AB581A933}
+OtherRegkey=HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\INSTAFINK
+OtherRegval=HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run,InstaFinderK
+
+OtherFolder=%PROGRAMFILES%\INSTAFINK
+
+// need2find bar
+OtherRegkey=HKCU\Software\Need2Find
+OtherRegkey=HKLM\Software\Need2Find
+OtherRegkey=HKCU\Software\Microsoft\Internet Explorer\MenuExt\&Search
+OtherRegkey=HKCR\CLSID\{014DA6C9-189F-421a-88CD-07CFE51CFF10}
+OtherRegkey=HKCU\CLSID\{4D1C4E81-A32A-416B-BCDB-33B3EF3617D3}
+OtherRegkey=HKCU\CLSID\{4D1C4E89-A32A-416b-BCDB-33B3EF3617D3}
+OtherRegkey=HKCU\CLSID\{4D1C4E8B-A32A-416b-BCDB-33B3EF3617D3}
+OtherRegkey=HKCU\Software\Microsoft\Windows\CurrentVersion\Ext\Stats\{4D1C4E81-A32A-416B-BCDB-33B3EF3617D3}
+OtherRegkey=HKCR\CLSID\{014DA6C9-189F-421a-88CD-07CFE51CFF10}
+OtherRegkey=HKCR\CLSID\{630D6140-04C5-4db0-B27A-020D766FF09B}
+OtherRegkey=HKCR\CLSID\{F78B32D6-D6D8-4137-A18F-91EBE1A4AEDB}
+OtherRegkey=HKCR\Need2FindBar.SettingsPlugin
+OtherRegkey=HKCR\Need2FindBar.SettingsPlugin.1
+OtherRegkey=HKCR\TypeLib\{4D1C4E80-A32A-416B-BCDB-33B3EF3617D3}
+OtherRegkey=HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects\{4D1C4E81-A32A-416b-BCDB-33B3EF3617D3}
+OtherRegkey=HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Need2FindBar Uninstall
+
+OtherFolder=%PROGRAMFILES%\Need2Find
+
+// rx toolbar, semantic insight
+OtherRegkey=HKCU\Software\RX ToolBar
+OtherRegkey=HKCR\AppID\{4672FF87-EF31-4E10-9DBF-1FB28571A188}
+OtherRegkey=HKCR\AppID\SemanticInsight.EXE
+OtherRegkey=HKCR\CLSID\{25D8BACF-3DE2-4B48-AE22-D659B8D835B0}
+OtherRegkey=HKCU\Software\Microsoft\Windows\CurrentVersion\Ext\Stats\{25D8BACF-3DE2-4B48-AE22-D659B8D835B0}
+OtherRegkey=HKCU\Software\Microsoft\Windows\CurrentVersion\Ext\Stats\{59879FA4-4790-461C-A1CC-4EC4DE4CA483}
+OtherRegval=HKCU\Software\Microsoft\Internet Explorer\Toolbar\WebBrowser,{25D8BACF-3DE2-4B48-AE22-D659B8D835B0}
+OtherRegval=HKLM\Software\Microsoft\Internet Explorer\Toolbar,{25D8BACF-3DE2-4B48-AE22-D659B8D835B0}
+OtherRegkey=HKCR\CLSID\{2AB289AE-4B90-4281-B2AE-1F4BB034B647}
+OtherRegkey=HKCU\Software\Microsoft\Windows\CurrentVersion\Ext\Stats\{2AB289AE-4B90-4281-B2AE-1F4BB034B647}
+OtherRegkey=HKCR\CLSID\{55B61359-4DB0-4FF4-934E-3B8C0FC707F8}
+OtherRegkey=HKCR\Interface\{66B20295-DC57-42B6-ACDF-52D916E86464}
+OtherRegkey=HKCR\Interface\{7F46B8E6-254D-46B4-999F-B37B5BE7A9F5}
+OtherRegkey=HKCR\PROTOCOLS\Filter\text/html
+OtherRegkey=HKCR\RXResult.RXResultFilter
+OtherRegkey=HKCR\RXResult.RXResultFilter.1
+OtherRegkey=HKCR\RXResult.RXResultTracker
+OtherRegkey=HKCR\RXResult.RXResultTracker.1
+OtherRegkey=HKCR\RXToolBar.TBInfo
+OtherRegkey=HKCR\RXToolBar.TBInfo.1
+OtherRegkey=HKCR\SemanticInsight.SI4CS
+OtherRegkey=HKCR\SemanticInsight.SI4CS.1
+OtherRegkey=HKCR\TypeLib\{05563F82-69A7-40A6-8670-153B635A7EF6}
+OtherRegkey=HKCR\TypeLib\{66B20295-DC57-42B6-ACDF-52D916E86464}
+OtherRegkey=HKCR\TypeLib\{7F46B8E6-254D-46B4-999F-B37B5BE7A9F5}
+OtherRegkey=HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects\{59879FA4-4790-461c-A1CC-4EC4DE4CA483}
+OtherRegkey=HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\RXToolBar
+OtherRegkey=HKLM\SOFTWARE\RXResults
+OtherRegkey=HKLM\SOFTWARE\SemanticInsight
+
+OtherRegval=HKCU\Software\Microsoft\Internet Explorer\Toolbar\WebBrowser,{25D8BACF-3DE2-4B48-AE22-D659B8D835B0}
+OtherRegval=HKCU\Software\Microsoft\Windows\CurrentVersion\Runonce,RXToolBar
+OtherRegval=HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run,SemanticInsight
+
+OtherFolder=%PROGRAMFILES%\RXToolBar
+
+OtherFile=%WINSYSDIR%\client_cc.dll
+OtherFile=%WINSYSDIR%\lccl.dll
+
+// ===========================
+// kazaa 3.2.2
+// ===========================
+
+OtherFolder=%TEMPDIR%\is-*.tmp
+
+// ===========================
+// kazaa 3.2.7
+// ===========================
+
+OtherFolder=%TEMPDIR%\atmp
+OtherFile=%TEMPDIR%\np.m3u
+OtherFile=%TEMPDIR%\*.tmp
+
+OtherRegkey=HKCR\Need2FindBar.ToolbarPlugin
+OtherRegkey=HKCR\Need2FindBar.ToolbarPlugin.1
+
+OtherRegkey=HKCU\Software\VCRPK
+
+// instafinder
+OtherRegkey=HKCR\CLSID\{4E7BD74F-2B8D-469E-90F0-F66AB581A933}
+// need2find
+OtherRegkey=HKCR\Interface\{4D1C4E8A-A32A-416B-BCDB-33B3EF3617D3}
+OtherRegkey=HKCR\Interface\{4D1C4E8C-A32A-416B-BCDB-33B3EF3617D3}
+// rxtoolbar
+OtherRegkey=HKCR\CLSID\{59879FA4-4790-461c-A1CC-4EC4DE4CA483}
+OtherRegkey=HKCR\Interface\{AC368F5F-6670-4DDE-A1A8-B9C064EA0402}
+OtherRegkey=HKCR\Interface\{FB590D02-0A82-4F44-9FAD-517948DCF4F3}

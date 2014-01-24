@@ -1,0 +1,2 @@
+    sRegKeysSaveNow() = "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\SaveNow"
+    sRegKeysSaveNow() = "HKEY_LOCAL_MACHINE\Software\WhenU"

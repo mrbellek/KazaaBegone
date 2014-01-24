@@ -1,0 +1,118 @@
+// Bullguard stuff
+// 30/07/06
+// Taken from Kaaa 2.5.2, 2.6.0, 2.6.2, 2.6.3
+
+BullguardProcess=%WINDIR%\temp\BullGuard\bulldownload.exe
+BullguardFolder=%WINDIR%\temp\BullGuard
+BullguardFile=%WINDIR%\temp\BullGuard\bulldownload.exe
+
+BullguardProcess=%PROGRAMFILES%\Bullguard\bullguard.exe
+BullguardProcess=%PROGRAMFILES%\Bullguard\bullguardupdate.exe
+BullguardProcess=%PROGRAMFILES%\Bullguard\bgnewsui.exe
+
+BullguardRegval=HKCU\Software\Microsoft\Windows\CurrentVersion\Runonce,BullguardoptIn
+
+// Kazaa 3.0: actually installed Bullguard
+BullguardRegkey=HKUS\.DEFAULT\Software\BullGuard Ltd.
+BullguardRegkey=HKUS\.DEFAULT\Software\override
+BullguardRegkey=HKUS\.DEFAULT\Software\Sygate
+BullguardRegkey=HKCU\Software\BullGuard Ltd.
+BullguardRegkey=HKCR\*\shellex\ContextMenuHandlers\{F4BF1657-195F-4A0F-ACA2-9AE99D65BC0E}
+BullguardRegkey=HKCR\AppID\{3D6088FB-27E6-4AE3-851E-2D30005BE5EF}
+BullguardRegkey=HKCR\AppID\bgshellext.DLL
+BullguardRegkey=HKCR\bgshellext.MyShellExt
+BullguardRegkey=HKCR\bgshellext.MyShellExt.1
+BullguardRegkey=HKCR\CLSID\{BC660FAD-C7C4-45F6-B536-90CB7F3865E0}
+BullguardRegkey=HKCR\CLSID\{F4BF1657-195F-4A0F-ACA2-9AE99D65BC0E}
+BullguardRegkey=HKCR\Folder\shellex\ContextMenuHandlers\bgshellext
+BullguardRegkey=HKCR\Interface\{3DB21602-EF19-4521-8942-DFDFEC05549B}
+BullguardRegkey=HKCR\Interface\{FC437E30-28E9-4355-B9FD-608C1B39DC6B}
+BullguardRegkey=HKCR\MailScanAddin.Connect
+BullguardRegkey=HKCR\MailScanAddin.Connect.1
+BullguardRegkey=HKCR\TypeLib\{3DB21602-EF19-4521-8942-DFDFEC05549B}
+BullguardRegkey=HKCR\TypeLib\{4CDAAC15-143C-4927-94D3-8C0FFFF9A8D6}
+BullguardRegkey=HKLM\SOFTWARE\BullGuard Ltd.
+BullguardRegkey=HKLM\SOFTWARE\Microsoft\Office\Outlook\Addins\MailScanAddin.Connect
+BullguardRegkey=HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\bullguard.exe
+BullguardRegkey=HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\BullGuard
+// not much use in detecting some of these since KBG can't remove them
+// and neither does the Bullguard uninstaller (wtf)
+BullguardRegkey=HKLM\SYSTEM\ControlSet001\Enum\Root\LEGACY_BGLIVESVC
+BullguardRegkey=HKLM\SYSTEM\ControlSet001\Enum\Root\LEGACY_BGMAINSVC
+BullguardRegkey=HKLM\SYSTEM\ControlSet001\Enum\Root\LEGACY_BSFILESPY
+BullguardRegkey=HKLM\SYSTEM\ControlSet001\Enum\Root\LEGACY_BSFIREWALL
+BullguardRegkey=HKLM\SYSTEM\ControlSet001\Enum\Root\LEGACY_BSMAILPROXY
+BullguardRegkey=HKLM\SYSTEM\ControlSet001\Enum\Root\LEGACY_FILESPY5
+BullguardRegkey=HKLM\SYSTEM\ControlSet001\Enum\Root\LEGACY_RECONN
+//BullguardRegkey=HKLM\SYSTEM\ControlSet001\Enum\Root\LEGACY_TEEFER
+//BullguardRegkey=HKLM\SYSTEM\ControlSet001\Enum\Root\LEGACY_WG3N
+//BullguardRegkey=HKLM\SYSTEM\ControlSet001\Enum\Root\LEGACY_WPSDRVNT
+BullguardRegkey=HKLM\SYSTEM\ControlSet001\Services\BGLiveSvc
+BullguardRegkey=HKLM\SYSTEM\ControlSet001\Services\BGMainSvc
+BullguardRegkey=HKLM\SYSTEM\ControlSet001\Services\BsFileSpy
+BullguardRegkey=HKLM\SYSTEM\ControlSet001\Services\BsFirewall
+BullguardRegkey=HKLM\SYSTEM\ControlSet001\Services\BsMailProxy
+BullguardRegkey=HKLM\SYSTEM\ControlSet001\Services\FileSpy5
+BullguardRegkey=HKLM\SYSTEM\ControlSet001\Services\Reconn
+BullguardRegkey=HKLM\SYSTEM\ControlSet001\Services\Teefer
+BullguardRegkey=HKLM\SYSTEM\ControlSet001\Services\wg3n
+BullguardRegkey=HKLM\SYSTEM\ControlSet001\Services\wpsdrvnt
+
+BullguardRegkey=HKLM\SYSTEM\Controlset002\Enum\Root\LEGACY_BGLIVESVC
+BullguardRegkey=HKLM\SYSTEM\Controlset002\Enum\Root\LEGACY_BGMAINSVC
+BullguardRegkey=HKLM\SYSTEM\Controlset002\Enum\Root\LEGACY_BSFILESPY
+BullguardRegkey=HKLM\SYSTEM\Controlset002\Enum\Root\LEGACY_BSFIREWALL
+BullguardRegkey=HKLM\SYSTEM\Controlset002\Enum\Root\LEGACY_BSMAILPROXY
+BullguardRegkey=HKLM\SYSTEM\Controlset002\Enum\Root\LEGACY_FILESPY5
+BullguardRegkey=HKLM\SYSTEM\Controlset002\Enum\Root\LEGACY_RECONN
+//BullguardRegkey=HKLM\SYSTEM\Controlset002\Enum\Root\LEGACY_TEEFER
+//BullguardRegkey=HKLM\SYSTEM\Controlset002\Enum\Root\LEGACY_WG3N
+//BullguardRegkey=HKLM\SYSTEM\Controlset002\Enum\Root\LEGACY_WPSDRVNT
+BullguardRegkey=HKLM\SYSTEM\Controlset002\Services\BGLiveSvc
+BullguardRegkey=HKLM\SYSTEM\Controlset002\Services\BGMainSvc
+BullguardRegkey=HKLM\SYSTEM\Controlset002\Services\BsFileSpy
+BullguardRegkey=HKLM\SYSTEM\Controlset002\Services\BsFirewall
+BullguardRegkey=HKLM\SYSTEM\Controlset002\Services\BsMailProxy
+BullguardRegkey=HKLM\SYSTEM\Controlset002\Services\FileSpy5
+BullguardRegkey=HKLM\SYSTEM\Controlset002\Services\Reconn
+BullguardRegkey=HKLM\SYSTEM\Controlset002\Services\Teefer
+BullguardRegkey=HKLM\SYSTEM\Controlset002\Services\wg3n
+BullguardRegkey=HKLM\SYSTEM\Controlset002\Services\wpsdrvnt
+
+BullguardRegkey=HKLM\SYSTEM\CurrentControlSet\Enum\Root\LEGACY_BGLIVESVC
+BullguardRegkey=HKLM\SYSTEM\CurrentControlSet\Enum\Root\LEGACY_BGMAINSVC
+BullguardRegkey=HKLM\SYSTEM\CurrentControlSet\Enum\Root\LEGACY_BSFILESPY
+BullguardRegkey=HKLM\SYSTEM\CurrentControlSet\Enum\Root\LEGACY_BSFIREWALL
+BullguardRegkey=HKLM\SYSTEM\CurrentControlSet\Enum\Root\LEGACY_BSMAILPROXY
+BullguardRegkey=HKLM\SYSTEM\CurrentControlSet\Enum\Root\LEGACY_FILESPY5
+BullguardRegkey=HKLM\SYSTEM\CurrentControlSet\Enum\Root\LEGACY_RECONN
+//BullguardRegkey=HKLM\SYSTEM\CurrentControlSet\Enum\Root\LEGACY_TEEFER
+//BullguardRegkey=HKLM\SYSTEM\CurrentControlSet\Enum\Root\LEGACY_WG3N
+//BullguardRegkey=HKLM\SYSTEM\CurrentControlSet\Enum\Root\LEGACY_WPSDRVNT
+BullguardRegkey=HKLM\SYSTEM\CurrentControlSet\Services\BGLiveSvc
+BullguardRegkey=HKLM\SYSTEM\CurrentControlSet\Services\BGMainSvc
+BullguardRegkey=HKLM\SYSTEM\CurrentControlSet\Services\BsFileSpy
+BullguardRegkey=HKLM\SYSTEM\CurrentControlSet\Services\BsFirewall
+BullguardRegkey=HKLM\SYSTEM\CurrentControlSet\Services\BsMailProxy
+BullguardRegkey=HKLM\SYSTEM\CurrentControlSet\Services\FileSpy5
+BullguardRegkey=HKLM\SYSTEM\CurrentControlSet\Services\Reconn
+BullguardRegkey=HKLM\SYSTEM\CurrentControlSet\Services\Teefer
+BullguardRegkey=HKLM\SYSTEM\CurrentControlSet\Services\wg3n
+BullguardRegkey=HKLM\SYSTEM\CurrentControlSet\Services\wpsdrvnt
+
+BullguardRegval=HKCU\Software\Microsoft\Windows\CurrentVersion\Run,BullGuard
+BullguardRegval=HKCU\Software\Microsoft\Windows\CurrentVersion\Shell Extensions\Cached,{F4BF1657-195F-4A0F-ACA2-9AE99D65BC0E} {000214E8-0000-0000-C000-000000000046} 0x401
+
+BullguardFolder=%SYSDRIVE%\DBBackup
+BullguardFolder=%ALLUSERSAPPDATA%\BullGuard
+BullguardFolder=%ALLUSERSPROGRAMS%\BullGuard
+BullguardFolder=%APPLICDATA%\BullGuard
+BullguardFolder=%PROGRAMFILES%\BullGuard Software
+BullguardFile=%DESKTOP%\BullGuard.exe
+
+BullguardFile=%WINSYSDIR%\drivers\Teefer.sys
+BullguardFile=%WINSYSDIR%\drivers\wg3n.sys
+BullguardFile=%WINSYSDIR%\drivers\wpsdrvnt.sys
+
+BullguardRegval=HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SvcHost,bg5
+BullguardFile=%ALLUSERSDESKTOP%\Bullguard.lnk

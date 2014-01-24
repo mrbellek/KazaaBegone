@@ -1,0 +1,145 @@
+?		HKCU\Software\AppConf
+Kazaa		HKCR\magnet
+Kazaa		HKLM\Software\Kazaa
+Kazaa		HKLM\Software\Magnete
+Other		HKLM\Software\Microsoft\Protected Storage System Provider\leo\Data\4d1fa410-6fd9-11d0-8c58-00c04fd9126b
+Kazaa (2.6.3)	HKLM\Software\Microsoft\Windows\CurrentVersion\Uninstall\{548D52A1-5620-4C11-8FA7-B95404FD9FCD}
+?		HKLM\Software\updmgr
+
+--
+
+?		c:\Program Files\Common Files\updmgr
+Kazaa (2.6.3)	c:\Program Files\InstallShield Installation Information\{548D52A1-5620-4C11-8FA7-B95404FD9FCD}
+?		c:\win98\browserxtras
+?		c:\win98\cache329
+Kazaa		c:\win98\Start Menu\Programs\Kazaa Media Desktop
+CyDoor		c:\win98\SYSTEM\AdCache
+?		c:\win98\TEMP\ADMCache
+
+--
+
+=?=
+c:\Program Files\Common Files\updmgr\data1.dat
+c:\Program Files\Common Files\updmgr\data2.dat
+c:\Program Files\Common Files\updmgr\rvupdmgr.exe
+c:\Program Files\Common Files\updmgr\simgr.exe
+c:\Program Files\Common Files\updmgr\updmgr.exe
+=Kazaa=
+c:\Program Files\InstallShield Installation Information\{548D52A1-5620-4C11-8FA7-B95404FD9FCD}\data1.cab
+c:\Program Files\InstallShield Installation Information\{548D52A1-5620-4C11-8FA7-B95404FD9FCD}\data1.hdr
+c:\Program Files\InstallShield Installation Information\{548D52A1-5620-4C11-8FA7-B95404FD9FCD}\layout.bin
+c:\Program Files\InstallShield Installation Information\{548D52A1-5620-4C11-8FA7-B95404FD9FCD}\setup.boot
+c:\Program Files\InstallShield Installation Information\{548D52A1-5620-4C11-8FA7-B95404FD9FCD}\setup.exe
+c:\Program Files\InstallShield Installation Information\{548D52A1-5620-4C11-8FA7-B95404FD9FCD}\setup.ilg
+c:\Program Files\InstallShield Installation Information\{548D52A1-5620-4C11-8FA7-B95404FD9FCD}\setup.ini
+c:\Program Files\InstallShield Installation Information\{548D52A1-5620-4C11-8FA7-B95404FD9FCD}\setup.inx
+c:\Program Files\InstallShield Installation Information\{548D52A1-5620-4C11-8FA7-B95404FD9FCD}\_setup.dll
+c:\Program Files\Kazaa\Db\ctx4-040510.cab
+c:\Program Files\Kazaa\Db\k7tqkgkk_tssv125.dat
+c:\Program Files\Kazaa\Db\tss4.cab
+c:\Program Files\Kazaa\Help\icon_gold_kap.gif
+c:\Program Files\Kazaa\Help\myKapsules.gif
+c:\Program Files\Kazaa\Help\mykapsules.htm
+c:\Program Files\Kazaa\magnet.exe
+c:\Program Files\Kazaa\My Channels\Bin\emerging_artists.kcd
+c:\Program Files\Kazaa\My Channels\Bin\ringtonechannel.kcd
+c:\Program Files\Kazaa\My Channels\Bin\skilledgames.kcd
+c:\Program Files\Kazaa\My Channels\Images\emerging_artists.bmp
+c:\Program Files\Kazaa\My Channels\Images\ringtonechannel.bmp
+c:\Program Files\Kazaa\My Channels\Images\skilledgames.bmp
+c:\Program Files\Kazaa\My Shared Folder\Audio - Fine Arts Militia Album.kpl
+c:\Program Files\Kazaa\My Shared Folder\Audio - Public Enemy Revolverlution Album.kpl
+c:\Program Files\Kazaa\My Shared Folder\Audio - The Honey Palace Album.kpl
+=Kazaa=
+c:\win98\Application Data\Microsoft\Internet Explorer\Quick Launch\Launch Kazaa Media Desktop.lnk
+=?=
+c:\win98\browserxtras\pn\remove.exe
+c:\win98\cache329\B_329_0_1_520400.gif
+c:\win98\cache329\B_329_0_2_677800.gif
+c:\win98\cache329\B_329_0_2_680000.gif
+c:\win98\cache329\B_329_2_1_520400.gif
+c:\win98\cache329\B_329_2_2_677800.gif
+c:\win98\cache329\B_329_2_2_680000.gif
+c:\win98\cache329\B_329_3_1_520400.gif
+c:\win98\cache329\B_329_3_2_677800.gif
+c:\win98\cache329\B_329_3_2_680000.gif
+c:\win98\cache329\B_329_4_1_506300.htm
+c:\win98\cache329\B_329_4_1_669500.htm
+c:\win98\cache329\B_329_4_1_711700.htm
+c:\win98\cache329\B_329_4_1_780800.htm
+c:\win98\cache329\B_329_4_1_784400.htm
+c:\win98\cache329\B_329_4_2_503500.htm
+c:\win98\cache329\B_329_4_2_730500.htm
+c:\win98\cache329\B_329_4_2_784300.htm
+c:\win98\cache329\B_500600.htm
+c:\win98\cache329\B_557000.htm
+c:\win98\cache329\B_563200.htm
+c:\win98\cache329\B_670400.htm
+c:\win98\cache329\B_782900.htm
+c:\win98\cache329\t_B_329_4_1_506300.htm
+c:\win98\cache329\t_B_329_4_1_669500.htm
+c:\win98\cache329\t_B_329_4_1_711700.htm
+c:\win98\cache329\t_B_329_4_1_780800.htm
+c:\win98\cache329\t_B_329_4_1_784400.htm
+c:\win98\cache329\t_B_329_4_2_503500.htm
+c:\win98\cache329\t_B_329_4_2_730500.htm
+c:\win98\cache329\t_B_329_4_2_784300.htm
+c:\win98\cache329\t_B_500600.htm
+c:\win98\cache329\t_B_557000.htm
+c:\win98\cache329\t_B_563200.htm
+c:\win98\cache329\t_B_670400.htm
+c:\win98\cache329\t_B_782900.htm
+=Kazaa=
+c:\win98\Desktop\Kazaa Media Desktop.lnk
+c:\win98\Desktop\My Shared Folder.url
+=?=
+c:\win98\FONTS\acrsec.fon
+c:\win98\FONTS\acrsecB.fon
+c:\win98\FONTS\acrsecI.fon
+c:\win98\smdat32a.sys
+c:\win98\smdat32m.sys
+=Kazaa=
+c:\win98\Start Menu\Programs\Kazaa Media Desktop\Kazaa Media Desktop.lnk
+c:\win98\Start Menu\Programs\Kazaa Media Desktop\Kazaa Website.url
+=Cydoor=
+c:\win98\SYSTEM\AdCache\B_329_0_1_520400.gif
+c:\win98\SYSTEM\AdCache\B_329_0_2_677800.gif
+c:\win98\SYSTEM\AdCache\B_329_0_2_680000.gif
+c:\win98\SYSTEM\AdCache\B_329_2_1_520400.gif
+c:\win98\SYSTEM\AdCache\B_329_2_2_677800.gif
+c:\win98\SYSTEM\AdCache\B_329_2_2_680000.gif
+c:\win98\SYSTEM\AdCache\B_329_3_1_520400.gif
+c:\win98\SYSTEM\AdCache\B_329_3_2_677800.gif
+c:\win98\SYSTEM\AdCache\B_329_3_2_680000.gif
+c:\win98\SYSTEM\AdCache\B_329_4_1_506300.htm
+c:\win98\SYSTEM\AdCache\B_329_4_1_669500.htm
+c:\win98\SYSTEM\AdCache\B_329_4_1_711700.htm
+c:\win98\SYSTEM\AdCache\B_329_4_1_780800.htm
+c:\win98\SYSTEM\AdCache\B_329_4_1_784400.htm
+c:\win98\SYSTEM\AdCache\B_329_4_2_503500.htm
+c:\win98\SYSTEM\AdCache\B_329_4_2_730500.htm
+c:\win98\SYSTEM\AdCache\B_329_4_2_784300.htm
+c:\win98\SYSTEM\AdCache\B_500600.htm
+c:\win98\SYSTEM\AdCache\B_557000.htm
+c:\win98\SYSTEM\AdCache\B_563200.htm
+c:\win98\SYSTEM\AdCache\B_670400.htm
+c:\win98\SYSTEM\AdCache\B_782900.htm
+c:\win98\SYSTEM\cd_clint.dll
+=?=
+c:\win98\TEMP\873101.TMP
+c:\win98\TEMP\ADMCache\admA350.TMP
+=?=
+c:\win98\TEMP\c871B9.TMP
+=Kazaa=
+c:\win98\TEMP\kmdA195.TMP
+c:\win98\TEMP\kmdA196.TMP
+c:\win98\TEMP\kmdA197.TMP
+c:\win98\TEMP\kmdA198.TMP
+c:\win98\TEMP\kmdA199.TMP
+c:\win98\TEMP\kmdA19A.TMP
+c:\win98\TEMP\kmdA19B.TMP
+c:\win98\TEMP\kmdA19C.TMP
+=?=
+c:\win98\TEMP\msxml_cabinstall.exe
+=?=
+c:\win98\TEMP\y98w0t0~n0nkon.tmp

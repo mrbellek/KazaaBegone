@@ -1,0 +1,88 @@
+// CommonName stuff
+// 25-12-2002
+// Taken from Kazaa v1.3.3 through v2.0.2
+
+CommonnameProcess=%PROGRAMFILES%\CommonName\Toolbar\CNForm.exe
+
+CommonnameFile=%PROGRAMFILES%\CommonName\Toolbar\arrow.gif
+CommonnameFile=%PROGRAMFILES%\CommonName\Toolbar\BabeIE.dll
+CommonnameFile=%PROGRAMFILES%\CommonName\Toolbar\CNBarIE.dll
+CommonnameFile=%PROGRAMFILES%\CommonName\Toolbar\CNForm.exe
+CommonnameFile=%PROGRAMFILES%\CommonName\Toolbar\createbookmark.htm
+CommonnameFile=%PROGRAMFILES%\CommonName\Toolbar\createnote.htm
+CommonnameFile=%PROGRAMFILES%\CommonName\Toolbar\emaillink.htm
+CommonnameFile=%PROGRAMFILES%\CommonName\Toolbar\license.txt
+CommonnameFile=%PROGRAMFILES%\CommonName\Toolbar\navigate.htm
+CommonnameFile=%PROGRAMFILES%\CommonName\Toolbar\NewsBar.htm
+CommonnameFile=%PROGRAMFILES%\CommonName\Toolbar\unins000.dat
+CommonnameFile=%PROGRAMFILES%\CommonName\Toolbar\unins000.exe
+CommonnameFile=%STARTMENU%\CommonName Toolbar 3.1\Commonname Toolbar.lnk
+CommonnameFile=%STARTMENU%\CommonName Toolbar 3.1\Uninstall Commonname Toolbar 3.1.lnk
+CommonnameFile=%STARTMENU%\CommonName Toolbar\Commonname Toolbar.lnk
+
+CommonnameFolder=%PROGRAMFILES%\CommonName
+CommonnameFolder=%PROGRAMFILES%\CommonName\Toolbar
+CommonnameFolder=%STARTMENU%\CommonName Toolbar
+CommonnameFolder=%STARTMENU%\CommonName Toolbar 3.1
+
+CommonnameRegkey=HKCR\AppID\{AE6DDEB6-5683-4F5D-AD53-0F93B02A3F93}
+CommonnameRegkey=HKCR\AppID\CNForm.EXE
+CommonnameRegkey=HKCR\BabeIE.AgentIE
+CommonnameRegkey=HKCR\BabeIE.AgentIE.1
+CommonnameRegkey=HKCR\CNBar.Activater
+CommonnameRegkey=HKCR\CNBar.Activater.1
+CommonnameRegkey=HKCR\CNBar.BandSink
+CommonnameRegkey=HKCR\CNBar.BandSink.1
+CommonnameRegkey=HKCR\CNBar.CNBarBand
+CommonnameRegkey=HKCR\CNBar.CNBarBand.1
+CommonnameRegkey=HKCR\CNBar.ExplorerBar
+CommonnameRegkey=HKCR\CNBar.ExplorerBar.1
+CommonnameRegkey=HKCR\CNForm.CNBarHelper
+CommonnameRegkey=HKCR\CNForm.CNBarHelper.1
+CommonnameRegkey=HKCR\CNForm.History
+CommonnameRegkey=HKCR\CNForm.History.1
+CommonnameRegkey=HKCU\Software\CommonName
+CommonnameRegkey=HKCU\Software\Microsoft\Internet Explorer\MenuExt\Add A Page Note
+CommonnameRegkey=HKCU\Software\Microsoft\Internet Explorer\MenuExt\Bookmark This Page
+CommonnameRegkey=HKCU\Software\Microsoft\Internet Explorer\MenuExt\Email This Link
+CommonnameRegkey=HKCU\Software\Microsoft\Internet Explorer\MenuExt\Search using CommonName
+CommonnameRegkey=HKLM\Software\CommonName
+CommonnameRegkey=HKLM\Software\Microsoft\Internet Explorer\AdvancedOptions\CommonName
+CommonnameRegkey=HKLM\Software\Microsoft\Windows\CurrentVersion\Uninstall\CommonName Toolbar 3.1_is1
+CommonnameRegkey=HKLM\Software\Microsoft\Windows\CurrentVersion\Uninstall\CommonName Toolbar_is1
+CommonnameRegkey=HKCR\CLSID\{0E5C2CC6-72DA-4342-94B3-76B47A1C6D14}
+CommonnameRegkey=HKCR\CLSID\{1E1B2879-88FF-11D2-8D96-D7ACAC95951F}
+CommonnameRegkey=HKCR\CLSID\{4F9CA775-2C5F-4E2A-B157-CB440564F7F4}
+CommonnameRegkey=HKCR\CLSID\{882F36A6-5178-477B-A00A-2E1D3B7E8E80}
+CommonnameRegkey=HKCR\CLSID\{A3E3F04C-F98C-4295-95EF-41C57425B077}
+CommonnameRegkey=HKCR\CLSID\{A6475E6B-3C2E-4B1F-82FD-8F1C0B1D8AD0}
+CommonnameRegkey=HKCR\CLSID\{ECB81A15-365C-4953-827F-6E848634C1F0}
+CommonnameRegkey=HKCR\Interface\{1E1B2878-88FF-11D2-8D96-D7ACAC95951F}
+CommonnameRegkey=HKCR\Interface\{4F476E6B-1ECA-4A3B-845A-505D8892DA1A}
+CommonnameRegkey=HKCR\Interface\{53B1B977-193E-4A9F-B9FC-E1DCC24016A1}
+CommonnameRegkey=HKCR\Interface\{64809B75-D8C3-4052-A7AD-6A3ECC39218E}
+CommonnameRegkey=HKCR\Interface\{99908473-1135-4009-BE4F-32B921F86ED9}
+CommonnameRegkey=HKCR\Interface\{A7FE5E20-9866-4C49-B5ED-3991954A2ACD}
+CommonnameRegkey=HKCR\Interface\{FB68CC40-C725-491A-AAC3-F37DDE794EDB}
+CommonnameRegkey=HKCR\TypeLib\{541A3704-4320-4E2D-9371-E4A4C9803191}
+CommonnameRegkey=HKCR\TypeLib\{AC04DC43-28E9-4746-9164-C200A04B8921}
+CommonnameRegkey=HKCR\TypeLib\{D879D743-E2CC-4161-8034-2234203681C9}
+CommonnameRegkey=HKLM\Software\Microsoft\Windows\CurrentVersion\explorer\Browser Helper Objects\{1E1B2879-88FF-11D2-8D96-D7ACAC95951F}
+CommonnameRegkey=HKLM\Software\Microsoft\Windows\CurrentVersion\explorer\Browser Helper Objects\{A6475E6B-3C2E-4B1F-82FD-8F1C0B1D8AD0}
+
+CommonnameRegkey=HKLM\Software\Microsoft\Internet Explorer\Toolbar,{A3E3F04C-F98C-4295-95EF-41C57425B077}
+
+CommonnameRegval=HKLM\Software\Microsoft\Internet Explorer\Main,Search Bar
+// CommonnameRegval=HKLM\Software\Microsoft\Internet Explorer\Main,Search Page
+
+CommonnameRegval=HKLM\Software\Microsoft\Windows\CurrentVersion\SharedDLLs,%PROGRAMFILES%\CommonName\Toolbar\BabeIE.dll
+CommonnameRegval=HKLM\Software\Microsoft\Windows\CurrentVersion\SharedDLLs,%PROGRAMFILES%\CommonName\Toolbar\CNBarIE.dll
+CommonnameRegval=HKLM\Software\Microsoft\Windows\CurrentVersion\SharedDLLs,%PROGRAMFILES%\CommonName\Toolbar\CNForm.exe
+
+// spybot additions
+CommonnameFolder=%STARTMENU%\CommonName
+CommonnameFolder=%WINDIR%\Temp\CommonName
+CommonnameRegkey=HKCR\CLSID\{6656b666-992f-4d74-8588-8ca69e97d90c}
+CommonnameRegkey=HKLM\Software\Microsoft\Windows\CurrentVersion\Uninstall\CommonName
+CommonnameRegkey=HKCR\CLSID\{9346A6BB-1ED0-4174-AFB4-13CD4EC0AA40}
+CommonnameRegval=HKLM\Software\Microsoft\Windows\CurrentVersion\Run,Zenet

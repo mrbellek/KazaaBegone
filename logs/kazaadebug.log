@@ -1,0 +1,117 @@
+
+Logging started (KLONT) 02-06-2002 15:21:07
+kazaa: initing adult filter phrases (102/36)
+Download: A.Beautiful.Mind.SCREENER.DVDivX.CD1-QiX.avi Restored from temp file
+Download: Mission to Mars.avi Restored from temp file
+LocalContentManager: Deleted from database H:\FastTrack\Soundtrack - The Matrix Reloaded\tracklist.txt
+Download: A.Beautiful.Mind.SCREENER.DVDivX.CD2-QiX.avi Restored from temp file
+Download: DBZ 123 - Closing In.avi Restored from temp file
+LocalContentManager: New file kmd15.exe
+Video: DBZ#236 - Gotenks is Born.avi 320x240 Len: 1162 Rate: 681 div4
+LocalContentManager: New file DBZ#236 - Gotenks is Born.avi
+LocalContentManager: File changed tracklist.txt
+LocalContentManager: New file kmd15_en.exe
+LocalContentManager: New file kmd160_en.exe
+LocalContentManager: New file kmd14_en.exe
+Download: Buffy 5x01 - Buffy vs Dracula.mpg Restored from temp file
+LocalContentManager: File removed Betty Everett - It's in his kiss (1).mp3
+LocalContentManager: File removed Everly Brothers - Let it be me (1).mp3
+LocalContentManager: File removed Frankie Avalon - Why (1).mp3
+LocalContentManager: File removed Louis Armstrong - Blueberry Hill.mp3
+LocalContentManager: File removed The Chordettes - Born To Be With You.mp3
+LocalContentManager: File removed The Platters - My prayer (1).mp3
+LocalContentManager: File removed Johnny & the Hurricanes - Beatnick Fly.mp3
+LocalContentManager: File removed kmd140_en.exe
+LocalContentManager: File removed -download10221523901347045.dat
+LocalContentManager: File removed -download10221452478751425.dat
+LocalContentManager: File removed Superhits of Rock & Roll.txt
+LocalContentManager: File removed -download10221458039307629.dat
+LocalContentManager: File removed -download10221523911348653.dat
+LocalContentManager: File removed -download10225046797010046.dat
+LocalContentManager: File removed -download10225046807010697.dat
+LocalContentManager: File removed Bobby Vee - The Night Has A Thousand Eyes (1).mp3
+LocalContentManager: Hashing file kmd15.exe
+LocalContentManager: Hashing file DBZ#236 - Gotenks is Born.avi
+Download: Ice Age CD1.mpg Restored from temp file
+Download: Ice Age CD2.mpg Restored from temp file
+Download: DBZ - 125 - Seized With Fear.avi Restored from temp file
+Download: MTV Celebrity DeathMatch - Britney Spears vs Christina Aguilera.mpg Restored from temp file
+Download: Celebrity Deathmatch - Beavis vs Butthead(1).avi Restored from temp file
+Download: Celebrity Deathmatch - MIB VS X-Files.mpeg Restored from temp file
+Download: How The Grinch Stole Christmas - DVD - DivX.avi Restored from temp file
+LocalContentManager: Hashing file kmd15_en.exe
+LocalContentManager: Hashing file kmd160_en.exe
+LocalContentManager: Hashing file kmd14_en.exe
+LocalContentManager: Scan completed
+kazaa: set new network_config, ver 82, 2489 bytes
+kazaa: listening on TCP port 1214
+kazaa: node state 3-->1
+KazaaServerConnector: Status 0->1 (-1 0 0)
+SpeedDetector: Starting trace to 204.152.95.195
+SpeedDetector: Starting trace to 130.244.25.57
+SpeedDetector: Starting trace to 202.139.19.169
+SpeedDetector: Starting trace to 202.232.109.9
+TraceRoute: Hop 1 failed (0:11010) 1371.51
+TraceRoute: Hop 2 failed (0:11010) 1499.09
+TraceRoute: Hop 3 195.241.3.13, status 11013 time: 62.9478
+TraceRoute: Hop 4 failed (0:11010) 1440.52
+TraceRoute: Hop 2 failed (0:11010) 1492.21
+TraceRoute: Hop 3 failed (0:11010) 1499.16
+TraceRoute: Hop 4 195.241.4.82, status 11013 time: 72.6336
+TraceRoute: Hop 1 failed (0:11010) 1428.66
+TraceRoute: Hop 3 failed (0:11010) 1426.06
+TraceRoute: Hop 4 195.241.4.86, status 11013 time: 61.5289
+TraceRoute: Hop 1 failed (0:11010) 1437.73
+TraceRoute: Hop 2 failed (0:11010) 1499.43
+Socket: Address/gethostbyname error 11001
+Socket: Address/gethostbyname error 11001
+Socket: Address/gethostbyname error 11001
+Socket: Address/gethostbyname error 11001
+kazaa: set new network_config, ver 82, 2489 bytes
+Socket: Address/gethostbyname error 11001
+Socket: Address/gethostbyname error 11001
+kazaa: listening on TCP port 1214
+kazaa: node state 3-->1
+KazaaServerConnector: Status 0->1 (-1 0 0)
+KazaaServerConnector: Status 1->1 (1 0 0)
+KazaaServerConnector: Status 1->5 (2 0 0)
+SpeedDetector: Starting trace to 204.152.157.187
+SpeedDetector: Starting trace to 130.244.79.31
+SpeedDetector: Starting trace to 202.139.151.97
+SpeedDetector: Starting trace to 202.232.59.21
+Socket: Address/gethostbyname error 11001
+Socket: Address/gethostbyname error 11001
+TraceRoute: Hop 1 failed (0:11010) 1237.88
+TraceRoute: Hop 2 failed (0:11010) 1499.46
+TraceRoute: Hop 3 195.241.3.13, status 11013 time: 74.9292
+TraceRoute: Hop 4 195.241.4.86, status 11013 time: 79.62
+TraceRoute: Hop 4 195.241.3.13, status 11013 time: 80.9509
+TraceRoute: Hop 3 failed (0:11010) 1373.25
+TraceRoute: Hop 2 failed (0:11010) 1469.55
+TraceRoute: Hop 1 failed (0:11010) 1245.71
+TraceRoute: Hop 4 195.241.4.82, status 11013 time: 65.9808
+kazaa: node state 1-->2
+TraceRoute: Hop 2 failed (0:11010) 1497.65
+TraceRoute: Hop 1 failed (0:11010) 1434.23
+TraceRoute: Hop 3 failed (0:11010) 1500.22
+TraceRoute: Hop 4 195.241.3.13, status 11013 time: 113.294
+TraceRoute: Hop 3 failed (0:11010) 1499.5
+TraceRoute: Hop 2 failed (0:11010) 1498.92
+TraceRoute: Hop 1 failed (0:11010) 1384.95
+SpeedDetector: Trace completed, common hop 4, ave time 84.9614
+KazaaServerConnector: Status 5->1 (-1 0 0)
+KazaaServerConnector: Status 1->1 (1 0 0)
+KazaaServerConnector: Status 1->5 (2 0 0)
+TraceRoute: Hop 4 195.241.3.13, status 0 time: 425.471
+LocalContentManager: Sharing: deleted 0, added 101 files
+TraceRoute: Hop 4 195.241.3.13, status 0 time: 426.512
+TraceRoute: Hop 4 195.241.3.13, status 0 time: 440.14
+SpeedDetector: Pinging completed, recd: 3 ave time: 430.708 bps: 6863.13
+kazaa: node state 2-->3
+client_connector_t: host list exhausted, trying kaasupernode 1
+client_connector_t: host list exhausted, trying kaasupernode 0
+client_connector_t: connecting failed
+client_connector_t: connecting failed
+LocalContentManager: Scan completed
+LocalContentManager: Scan completed
+LocalContentManager: Scan completed

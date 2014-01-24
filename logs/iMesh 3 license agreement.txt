@@ -1,0 +1,314 @@
+iMesh License Agreement
+
+IMPORTANT - PLEASE READ CAREFULLY 
+
+This Beta License Agreement ("Agreement") is a legal agreement between you (either an individual or a single entity, called the "Licensee") and iMesh.com, Inc. ("iMesh") for the limited use of the beta site version iMesh software product, which includes computer software, and as applicable, associated media, printed materials, and online electronic documentation (the "Product").
+
+By clicking the acceptable button or installing, copying, or otherwise using the Product, you are consenting to be bound by and are becoming a party to this Agreement. If you do not agree to all the terms of this Agreement, the button indicating non-acceptance must be selected, and you must not install the Product or return the unused Product to the place from which you obtained it.
+
+FEES There is no license fee for the Product.
+
+GENERAL The "Beta Test" as further described herein, will last approximately 90 days, and will commence upon your installation of the Product. During the Beta Test, the Licensee shall be entitled to use the Product for Licensee’s personal or internal needs for test and evaluation purposes only.
+
+iMesh RESPOSIBILITIES 
+
+iMesh shall: (a) furnish the Product and all modifications or additions produced in the Beta Test to the Licensee for trial use and testing in connection with the Beat Test; (b) provide corrections and/or enhancements to the Product at no charge.
+ 
+LICENSEE’S RIGHTS 
+
+This Agreement grants the Licensee the right to install and use one copy of the Product on a single computer, and if the Product includes a function that enable your computer to act as a network server, any number of computers or workstation may access or otherwise utilize the network services of that server.
+
+CERTAIN RESERVATIONS 
+
+(a) Because the product may contain defects, Licensee is responsible for establishing back-up, log, batch, review, and other procedures and controls appropriate to maintain the integrity and continuity of Licensee’s operations; 
+(b) iMesh is under no obligation to make any changes or modifications to the Product suggested by the Licensee. IMesh reserves the right, with or without prior notice, to discontinue work on the Product or to revise the Product so it provides different features, features in different combinations, and/or different environment configurations.
+
+RESTRICTIONS 
+
+Except as otherwise expressly permitted in this Agreement, Licensee may not: 
+(a) modify or create any derivative works of the Product or documentation; 
+(b) decompile, disassemble, reverse engineer, or otherwise attempt to derive the source code for the Product; 
+(c) redistribute, encumber, sell, rent, lease, sublicense, or otherwise transfer rights to the Product; 
+(d) remove or alter any trademark, logo, copyright or other proprietary notices, legends, symbols or labels in the Product; 
+(e) use the Product to identify or capture data on other users of this software, including names, addresses, e-mail addresses, phone numbers, IP addresses or any other proprietary identifying user characteristics. Use hereby acknowledges and accepts that engaging in any of these activities will cause iMesh irreparable damages in excess of 150 million United States dollars.   
+
+TERMINATION 
+
+Without prejudice to any other rights, either party may terminate this Agreement at any time. Upon termination, Licensee shall destroy all copies of the Product and all its component parts.
+
+UPGRADES 
+
+If the Product is an upgrade from another product, Licensee may use or transfer the Product only in conjunction with that upgraded product. The upgraded product may be used only in accordance with the terms of this Agreement.
+
+PROPRIETARY RIGHTS 
+
+Title, ownership rights, and intellectual property rights in and to the Product (including but not limited to any images, photographs, animations, video, audio, music, text, and applets, incorporated into the Product), the accompanying printed materials and any copies of the Product shall remain in iMesh and/or its suppliers. Licensee acknowledges such ownership and intellectual property rights and will not take any action to jeopardize, limit or interfere in any manner with iMesh ownership of rights with respect to the Product. The Product is protected by copyright and other intellectual property laws and international treaties. The Product is licensed and not sold. Title and related rights in the content accessed through the Product is the property of the applicable content owner and is protected by applicable law. The license granted under this Agreement gives Licensee no rights to such content.  
+
+DISCLAIMER WARRANTY 
+
+The product is provided free of charge, and, therefore, on an "as is" basis, without warranty of any kind, including without limitation the warranties that it is free of defects, merchantable, fit for particular purpose or non-infringing. The entire risk as to the quality and performance of the Product is borne by the Licensee. Should the Product prove defective in any respect, Licensee and not iMesh or its suppliers assumes the entire cost of any service and repair. In addition, the security mechanisms implemented by the product have inherent limitations, and Licensee must determine that the Product sufficiently meets its requirements. This disclaimer of warranty constitutes an essential part of this Agreement. No use of the product is authorized hereunder except under this Disclaimer.
+
+LIMITATION OF LIABILITY 
+
+To the maximum extent permitted by applicable law, in no event will iMesh or its suppliers be liable for any indirect, special, incidental or consequential damages whatsoever arising out of the use of or inability to use the Product, including without limitation, damages for loss of business profits, goodwill, workstoppage, business information, computer failure or malfunction, or any and all other commercial damages or losses, even if advised of the possibility thereof, and regardless of the legal or equitable theory (contract, tort or otherwise) upon which the claim is based. 
+To the extent applicable law prohibits the limitation of damages, the above exclusion may not apply to a particular Licensee.
+iMesh is not responsible for any liability arising out of content provided by the Licensee or third party that is accessed through the Product and or any material linked through such content.
+
+HIGH RISK ACTIVITIES 
+
+The Product is not fault-tolerant and is not designed, manufactured or intended for use as on-line control equipment in hazardous enviroment requiring fail-safe performance. Accordingly, iMesh and its suppliers specifically disclaim any express or implied warranty of fitness for High Risk Activities. Licensee agrees that iMesh and its suppliers will not be liable for any claims or damages arising from the use of the Product in such applications.
+
+MISCELLANEOUS 
+
+(a) This Agreement constitutes the entire Agreement between the parties hereto; 
+(b) This Agreement may be amended only by writing signed by both parties;
+(c) Except to the extent applicable law, if any, This Agreement shall be governed by the laws of the State of New York, USA, excluding its conflict of law provisions; 
+(d) If any provision in this Agreement should be held illegal or unenforceable by a court having jurisdiction, such provision shall be modified to the extent necessary to render it enforceable without losing its intent, or severed from this Agreement if no such modification is possible and other provisions of this Agreement shall remain in full force and effect; 
+(g) A waiver by either party of any term or condition of this Agreement or any breach thereof, in any one instance, shall not waive such term or condition or any subsequent breach thereof.
+
+--------------------------------------------------------------------------------------------
+
+TERMS OF USE AND END USER LICENSE AGREEMENT
+FOR HOTBAR SOFTWARE AND WEB SITE 
+
+Hotbar is committed to your privacy!
+
+
+HOTBAR COLLECTS AND STORES INFORMATION ABOUT THE WEB PAGES YOU VIEW AND THE DATA YOU ENTER IN SEARCH ENGINE SEARCH FIELDS WHILE USING THE SOFTWARE. HOTBAR USES THIS INFORMATION TO DETERMINE WHICH ADS AND BUTTONS TO DISPLAY ON YOUR HOTBAR TOOLBAR AND WHICH ADS TO SHOW YOUR BROWSER. HOWEVER, HOTBAR DOES NOT (A) ASSOCIATE OR STORE SUCH WEB USAGE DATA OR SEARCH INFORMATION WITH ANY PERSONALLY IDENTIFIABLE INFORMATION SUCH AS NAME OR EMAIL ADDRESS OR (B) ANALYZE SUCH WEB USAGE DATA OR SEARCH INFORMATION TO DETERMINE THE IDENTITY OF ANY HOTBAR USER. SOME INFORMATION COLLECTED BY THE HOTBAR SOFTWARE IS PERSONALLY IDENTIFIABLE, SUCH AS NAME AND EMAIL ADDRESS. THIS PERSONALLY IDENTIFIABLE INFORMATION IS STORED SEPARATELY FROM THE INFORMATION ABOUT THE WEB PAGES YOU VIEW AND THE DATA YOU ENTER IN SEARCH ENGINE SEARCH FIELDS AND THE TWO TYPES OF INFORMATION CANNOT BE CORRELATED OR LINKED. FURTHERMORE, HOTBAR DOES NOT USE THIS PERSONALLY IDENTIFIABLE INFORMATION TO DETERMINE WHICH ADS AND BUTTONS TO DISPLAY ON YOUR HOTBAR TOOLBAR OR WHICH ADS TO SHOW YOUR BROWSER. PLEASE READ THE FOLLOWING AGREEMENT AND PRIVACY POLICY CAREFULLY BEFORE DOWNLOADING AND USING THIS SOFTWARE. IF YOU DOWNLOAD AND USE THIS SOFTWARE, YOU WILL BE BOUND BY THE TERMS OF THIS AGREEMENT, INCLUDING THE PRIVACY POLICY. 
+
+
+ACCEPTANCE OF TERMS
+
+THIS AGREEMENT GOVERNS YOUR USE OF HOTBAR'S SOFTWARE
+
+
+Any person who wishes to use Hotbar's Service must agree to the terms and conditions of this Terms of Use and End User License Agreement, which includes the Hotbar Privacy Policy (collectively, the "Agreement"), as well as all other policies and guidelines incorporated by reference in this Agreement. The Agreement is a binding agreement between you and Hotbar. 
+
+BY DOWNLOADING OR INSTALLING, REGISTERING FOR, OR USING THE SERVICE, YOU AGREE TO BE BOUND BY ALL TERMS AND CONDITIONS OF THIS AGREEMENT AND ALL POLICIES AND GUIDELINES INCORPORATED BY REFERENCE. PLEASE READ THIS AGREEMENT CAREFULLY. IF YOU DO NOT WISH TO BE BOUND BY THIS AGREEMENT, DO NOT INDICATE YOUR ACCEPTANCE, AND DO NOT USE HOTBAR'S SERVICE. 
+
+License. Hotbar.com, Inc. ("Hotbar") hereby grants to you ("Licensee") a personal, non-exclusive, non transferable and royalty-free license to use the accompanying software product, in machine executable object code form (the "Software") subject to the terms and conditions set forth below. For the sole purpose of using the Software, the Licensee is granted with a limited non-exclusive non transferable and royalty-free license to access the skin images ("Skins") and other information provided by Hotbar on the Hotbar web site (the "Service"), subject to the terms and conditions set forth below. 
+
+The Software and Service. The Software and the Service are intended to enable downloading and installing of Skins as the background of your Browser toolbar to enhance your Browser functionality by adding dynamic services to your toolbar and enabling it to receive various information and services including data, links, software and images from the Hotbar and third parties' servers on an ongoing basis. 
+
+
+Scope of License.
+
+(a)  Licensee may use the Software on any computer under his/her full control, provided however that any copy of the Software must contain all of the original Software's proprietary notices and this Agreement. 
+
+(b)  Licensee may not use the Service and/or the Software to: (i) perform any activity which is or may be, directly or indirectly unlawful, harmful, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful, or racially, ethnically or otherwise objectionable; (ii) perform any activity which will or may breach the rights of any third party (iii) engage in commercial activities including, but not limited to, offering for sale any products or services, soliciting for advertisers or sponsors or selling, licensing or granting public access to any Skins or other information offered on the Service. 
+
+(c)  Without limiting the foregoing section, Licensee acknowledges that the Service may contain features enabling users to transmit various types of communications (e.g. Skins) to other users; provided, however, that Licensee shall not use the Service to engage in spamming, junk mail, any form of harassing activities, imposturing or activities which are intended or may result in invasion of privacy or damages to other users. The Licensee shall refrain from such activities and shall be solely liable for any consequence of the referenced forbidden actions. 
+
+(d)  All services and features offered at the Hotbar web site for use with the Software (such as Skin download or offering Skins by email) are part of the Service and the use of such services/features is governed by this Agreement. Such services/features however may be subject to additional specific Terms of Use posted on the page in which such features are offered. Such Terms of Use shall supplement to the terms set forth herein. In the event of a conflict, the terms provided under this License Agreement shall govern. The Licensee agrees that his/her use of such feature/service also constitutes his/her consent to its applicable Terms of Use. 
+
+Change of License. Hotbar is permitted, at any time and for whatever reason, to limit, deny, create different priorities to different users, modify, or cancel some or all of the functionality or content of the Software or the Service without prior notice. Hotbar may elect in its sole discretion to condition the continuation of this license on the Licensee accepting software improvements, corrections, adaptations, conversions to more recent Software versions or any other changes to the Software or the Service. 
+
+
+Protection of Proprietary Rights. 
+
+(a)  Complete title, ownership rights, intellectual property rights and all other proprietary rights in and to the Software and the Service shall remain at all times in Hotbar and/or its licensors and suppliers and nothing in this Agreement shall be deemed as a grant of any such rights to Licensee. Licensee may not modify, translate, reverse engineer, decompile or disassemble the Software, Service or information on the Service, create derivative works based on the Software, the Service or information on the Service, copy the Software (except as specified above), export, sell, license, rent, lease, transfer or otherwise transfer rights to the Software, the Service, or information on the Service, or remove any proprietary notices or labels on the Software. 
+
+(b)  If you believe that your information or any other material has been used on the Service in a manner that constitutes copyright infringement, please provide our Copyright Agent with a written notice (e-mail is sufficient) that includes the following information: 
+
+
+an electronic or physical signature of a person authorized to act on behalf of the owner of the exclusive right that is allegedly infringed; 
+identification of the copyrighted work claimed to have been infringed; 
+a description of where the material that you claim is infringing is located on the Site; 
+your address, telephone number, and e-mail address; 
+a statement by you that have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; 
+a statement by you, under penalty of perjury, that the information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf. 
+Our Copyright Agent for notice of claims of copyright infringement on this Site is Oren Dobronsky, and all questions regarding copyright should be directed to Legal@Hotbar.com. 
+
+Disclaimer of Warranties. Licensee's acknowledgments relating to Software and the Service. Licensee expressly acknowledges and agrees that: 
+
+(a)  By using the Internet and/or the Software and/or the Service, Licensee may be exposed to contaminated files, computer viruses, eavesdropping, harassment, electronic trespassing, hacking and other harmful acts or consequences that might lead to unauthorized invasion of privacy, loss of data and other damages. Furthermore, by installing the Software on Licensee's computer, Licensee understands that: (i) certain system non-personally identifiable information, including Statistical Data, stored on Licensee's computer will be made available and transmittable to Hotbar servers; (ii) other information available now or in the future on the Service including, links, services, messages advertisements, cookies and the like may be installed on Licensee's computer and; (iii) Hotbar may automatically transmit to and install on Licensee's computer, Software improvements, corrections, adaptations, conversions to more recent Software versions or any other changes to the Software. 
+
+(b)  The functionality of the Software and/or the Service depends, among other things, on the availability of Internet connectivity, information by Hotbar servers, net congestion and other factors. Hotbar makes no warranties or guarantees as to the availability or reliability of the Service or the information provided to Licensee or to any other user nor makes any commitment to provide Licensee with any information or to provide an on-going operational Service. Hotbar at any time may suspend or cancel the Service for any reason without prior notice. 
+
+(c)  The Software or the Service is not specifically licensed for use in circumstances in which the malfunction of the Software or the Service or the unavailability of information by Hotbar servers, may causepersonal injury or death or damage to property. Neither Hotbar nor its licensors or suppliers shall be liable for any claims or damages arising from such events. 
+
+(d)  The Software and the Service is in a pre-release beta state only and may contain errors or inaccuracies that could cause failures or loss of data. Hotbar does not guarantee or assume responsibility for any consequence of using the product. Licensee agrees that due to the experimental nature of the Software and the Service as a beta product, the Licensee will not rely on the Software or the Service for any reason. 
+
+(e)  THE SOFTWARE AND THE SERVICE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. HOTBAR AND ITS LICENSORS AND SUPPLIERS MAKE NO WARRANTIES OR CONDITIONS, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION THE IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON INFRINGEMENT, REGARDING THE SOFTWARE OR THE SERVICE. NEITHER HOTBAR NOR ITS LICENSORS OR SUPPLIERS WARRANT, GUARANTEE OR MAKE ANY REPRESENTATIONS REGARDING THE USE OR THE RESULTS OF THE USE OF THE SOFTWARE OR THE SERVICE IN TERMS OF ITS CORRECTNESS, ACCURACY, RELIABILITY, OR CURRENCY OR THAT THE OPERATION OF THE SOFTWARE OR THE SERVICE WILL BE UNINTERRUPTED OR ERROR FREE. 
+
+Licensee's acknowledgments relating to Information and Skins. Licensee expressly acknowledges and agrees that: 
+
+(a)  The information Licensee will be exposed to, or receives, or uses with the Software and/or the Service, including images, Skins, links, bookmarks, WWW sites, advertisements, products, goods or services, is not reviewed, controlled, examined, verified or endorsed by Hotbar in any way (even if Hotbar receives remuneration for such information) and are the sole responsibility of the person from whom such information originated. Licensee will be entirely responsible for all information that Licensee downloads, uploads, sends or otherwise accesses via the Service. Licensee will responsible for securing adequate legal rights to store, link to, browse in, or otherwise make use of such information and for ensuring that such information complies with any legal rule, including but not limited to, rules of copyright, secrecy, defamation, decency, privacy, security and export laws. Hotbar will not be liable for any such information available through the Software and/or the Service and cannot provide any guarantee as to the accuracy, integrity or quality of such information nor, any guarantee that such information is not subject to damage, deletion, erasure or other change of such information for any reason whatsoever. 
+
+(b)  Participation in promotions or advertising of products and services found on the Service, including order, purchase, payment and delivery of any related goods or services, and any other terms, conditions, warranties or representations associated with such dealings, are solely between the Licensee and the specific advertiser or merchant. Licensee agrees that Hotbar will not liable in any way for any loss or damage of any sort incurred as the result of any such dealings with a specific advertiser or merchant or as the result of the presence of such promotion or advertising materials on the Service. 
+
+
+Limitation Of Liability. 
+
+(a)  HOTBAR'S LIABILITY TO LICENSEE OR ANY THIRD PARTY ARISING OUT OF OR RELATED TO THIS AGREEMENT HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE WILL NOT EXCEED $100 (ONE-HUNDRED DOLLARS) OR THE FEE, IF ANY, PAID BY LICENSEE FOR THE SOFTWARE, WHICHEVER IS GREATER. 
+
+(b)  IN NO EVENT SHALL HOTBAR BE LIABLE TO ANYONE FOR ANY UNAVAILABILITY, DELAYS, INACCURACIES, ERRORS OR OMISSIONS WITH RESPECT TO ANY INFORMATION USED RECEIVED OR TRANSMITTED BY THE SOFTWARE AND/OR SERVICE, OR FOR ANY DAMAGE ARISING THEREFROM OR OCCASIONED THEREBY, OR FOR THE RESULTS OBTAINED FROM THE USE OF SUCH INFORMATION, INCLUDING WITHOUT LIMITATION ANY RISK OF THE INTRODUCTION OF COMPUTER VIRUSES, INVASION OF PRIVACY AND ANY RISK ARISING OUT OF ANY CONTENT TRANSMITTED OR RECEIVED IN CONNECTION WITH THE USE OF THE SOFTWARE OR THE SERVICE. LICENSEE ASSUMES THE ENTIRE RISK FOR THE ACCURACY, ADEQUACY, COMPLETENESS, CORRECTNESS, VALIDITY AND QUALITY OF ANY INFORMATION. 
+
+(c)  IN NO EVENT WILL HOTBAR OR ITS LICENSORS OR SUPPLIERS BE LIABLE TO LICENSEE OR ANY THIRD PARTY FOR ANY INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES (INCLUDING DAMAGES FOR COST OF OBTAINING SUBSTITUTE GOODS, LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF DATA AND EQUIPMENT, AND OTHER SUCH DAMAGE OR LOSS), HOWEVER CAUSED (INCLUDING WITHOUT LIMITATION ANY LOSS CAUSED BY THE INTRODUCTION OF COMPUTER VIRUSES OR CONTENT TRANSMITTED OR RECEIVED IN CONNECTION WITH THE USE OF THE SOFTWARE OR THE SERVICE) AND ON ANY THEORY OF LIABILITY, WHETHER BASED IN TORT (INCLUDING NEGLIGENCE), CONTRACT, OR OTHERWISE, EVEN IF HOTBAR OR ITS LICENSORS OR SUPPLIERS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+
+
+System Integrity. 
+
+(a)  You may not use any device, software or routine to interfere or attempt to interfere with the proper working of the Service or any transaction conducted on our site. You may not take any action which imposes an unreasonable or disproportionately large load on our infrastructure. You may not disclose or share your password with any third parties or use your password for any unauthorized purpose. 
+
+(b)  The site contains robot exclusion headers and you agree that you will not use any robot, spider, other automatic device, or manual process to monitor or copy our Web pages or the content contained herein without our prior written permission. You agree that you will not use any device, software or routine to interfere or attempt to interfere with the proper working of the site. 
+
+Termination. Hotbar and Licensee shall have the right to terminate this Agreement at any time for any reason whatsoever and without any obligation to specify the reasons for such termination. Without limiting the foregoing, the Agreement, including all of Licensee's right to use the Software and the Service, will terminate automatically and immediately if (i) Licensee fails to comply with the provisions of this agreement; (ii) Licensee uses the Software or the Service for illegal unlawful or abusive purposes; or (iii) Licensee's Hotbar account is not used at least once in the preceding six (6) month period. Upon termination, Licensee agrees to immediately stop using the Software and/or the Service and destroy all copies of the Software. 
+
+Export Law Assurances. Licensee agrees not to export the Software outside the country in which the Software was downloaded except as permitted by the laws and regulations of such country. 
+
+Changes of License Terms. Hotbar may change any of the terms and conditions contained in this Agreement, including the Privacy Policy and other policies and guidelines governing the Service, at any time in its sole discretion. Notice of material changes to this agreement will be posted on Hotbar's web site or on the service . You are responsible for reviewing the notice and any applicable changes. 
+
+You agree that your continued use of the Service following any changes to this agreement and after the changes take effect will constitute your acceptance of such changes. 
+
+If you do not agree to future changes to this agreement, do not continue to use the service after the effective date of such changes and uninstall all Hotbar software. 
+
+Miscellaneous. This Agreement represents the complete agreement between Licensee and Hotbar concerning the subject matter hereof and supersedes all prior agreements and representations between them. If any provision of this Agreement is held to be unenforceable for any reason, such provision shall be reformed to the extent necessary to make it enforceable to the highest extent. Except as specifically set forth herein, this Agreement cannot be amended, modified, or waived, unless the change is written and signed by an authorized Hotbar representative. Hotbar may transfer, assign sublicense or pledge in any manner whatsoever, any of its rights and obligations under this agreement to any third party whatsoever, without notice and without the need to receive Licensee's consent. Licensee shall not transfer, assign, sublicense nor pledge in any manner whatsoever, any of Licensee's rights or obligations under this agreement. This Agreement is governed by the laws of the State of New York, without reference to its conflict of law principles and the exclusive jurisdiction for any dispute arising hereunder shall be submitted to the competent courts in New York. Any questions concerning this Agreement may be directed by email to 'legal@Hotbar.com'. 
+
+
+Children 13 and Under. 
+
+If you are thirteen years old or younger, we will not collect, store or use your personally identifiable information. In addition, parents or guardians of children over the age of thirteen should be aware that the Service is designed to appeal to a broad audience. Accordingly, it is your responsibility to determine whether any portion of the Service is inappropriate for your child. 
+ 
+--------------------------------------------------------------------------------------------
+
+SOFTWARE USE AGREEMENT
+FOR NEW.NET SOFTWARE
+
+This Software Use Agreement (this "Agreement" governs your use of the software produced by or on behalf of New.net™, Inc. ("New.net") which you are installing or install (including any updates, enhancements or upgrades thereto) (the "Product"). Please read this Agreement carefully because it constitutes a legally binding contract between you and New.net and governs your use of the Product. In addition, should you choose to access and/or use New.net's web site which has its homepage located at www.new.net (the "Site"), such access and use will be governed by the Site's policies and agreements in effect at that time. 
+
+Address and Contact Information.
+New.net is a Delaware corporation. New.net's business address is: 15260 Ventura Blvd., Sherman Oaks, CA 91403. You may send email to New.net at info@new.net.
+
+
+Acceptance of Terms, Agreement.
+By installing the Product, you agree to be bound by all of the terms and conditions stated in this Agreement . If you do not wish to be bound by this Agreement, you must not install or otherwise access the Product. New.net may amend this Agreement at any time without notice and such modifications shall be deemed effective immediately upon posting on the Site the modified terms or this Agreement as so modified. You should review the Site from time to time to look for any such modified terms. Your continued access to or use of the Product shall be deemed conclusive acceptance by you of the modified terms of this Agreement. If any changes or modifications to this Agreement are unacceptable to you, you must cease using the Product. Should a conflict between this Agreement as set forth here and this Agreement as posted to the Site arise, you understand and agree that the Agreement as posted on the Site will control and govern your use of the Product. 
+
+
+Rights; Restrictions; Ownership.
+This Agreement allows you to use the Product. New.net grants to you a nonexclusive, nontransferable, royalty-free license permitting you to download and install the Product solely for your personal use. The rights granted to you by New.net shall not be assigned, sublicensed or otherwise conveyed or transferred by you to any other person, organization or entity. Any rights not expressly granted to you herein by New.net are reserved. You shall not decompile, reverse engineer, disassemble, or otherwise reduce the Product to a human-perceivable form. You shall not modify, sell, rent, transfer, resell, distribute, duplicate, reproduce, copy, license or modify, or create derivative works based upon, the Product or any part thereof. You will not export or re-export, directly or indirectly, the Product into any country prohibited by the United States Export Administration Act and the regulations thereunder. The foregoing license gives you limited rights to use the Product. You do not become the owner of the Product. As between you and New.net, New.net retains all title to the Product and all copies thereof. All rights not specifically granted in this Agreement are reserved by New.net. You acknowledge and agree that New.net holds all rights to, title to and interest in all tangible and intangible incidents of the Product, including all patents, copyrights and trade secrets pertaining thereto, and that this Agreement conveys to you only a limited right to access and use the Product. You acknowledge that the Product, including, without limitation, all code therein, contains proprietary and confidential information, are owned by New.net, and are protected by applicable intellectual property and other laws. You shall not infringe or violate any such rights or laws.
+
+Automatic Update Feature.
+The Product may automatically communicate with New.net's, or third party's, servers on the Internet to check for and install updates to the Product, such as bug fixes, patches, enhanced functions, and new versions. You consent to your receipt and installation of all of the foregoing and agree that all of the foregoing shall be governed by this Agreement, unless other terms are provided with the update.
+
+
+Content.
+You understand that all content, including, without limitation all data, links, articles, graphic or video messages and all information, text, software, music, sound, graphics or other materials ("Content") made available through the Product, whether publicly posted or privately transmitted, are the sole responsibility of the person from which such Content originated. You understand and agree that by using the Product you may be exposed to Content that is offensive, indecent or objectionable. You agree that you must evaluate and bear all risks associated with the use of any Content, including any reliance on the accuracy or completeness of such Content. Under no circumstances will New.net be liable in any way for any Content, including, but not limited to, for any errors or omissions in any Content, or for loss or damage of any kind incurred as a result of the use of any Content posted or transmitted via the Product.
+
+
+Privacy.
+New.net does not collect any Personally Identifiable Information about you via the Product. "Personally Identifiable Information" means information that would allow the collector to determine, without reference to any other information, your name, address or telephone number. However, New.net may collect non-personally identifiable technical or distribution information that may include, without limitation, information regarding your Internet service provider, the IP address or other source from which the Product was downloaded or installed, and certain operating metrics such as which Product number belongs to your Product.
+
+
+Modifications to Product or Site; Termination.
+New.net has the right at any time to disable, modify or discontinue, temporarily or permanently, the Site or the Product (or any part thereof), or the term of the license granted by this Agreement, with or without notice or obligation to you or any third party. You agree that New.net shall not be liable to you or to any third party for any modification, suspension or discontinuance of the Site, the Product or any license.
+
+THIRD PARTIES.
+YOU AGREE AND UNDERSTAND THAT ANY THIRD PARTY SOFTWARE, INCLUDING ANY THIRD PARTY'S PLUG-IN, THAT MAY BE PRO VIDED WITH THE PRODUCT IS INCLUDED FOR USE AT YOUR OPTION. IF YOU CHOOSE TO USE SUCH THIRD PARTY SOFTWARE, THEN SUCH USE SHALL BE GO VERNED BY SUCH THIRD PARTY'S LICENSE AGREEMENT OR OTHER CONTRACT. NEW.NET IS NOT RESPONSIBLE FOR ANY THIRD PARTY'S SOFTWARE, PRODUCT S, OR SERVICES AND SHALL HAVE NO LIABILITY FOR YOUR USE OF THIRD PARTY SOFTWARE, PRODUCTS, OR SERVICES.
+
+
+WAIVER OF CLAIMS; LIMITATION OF LIABILITY; NO WARRANTIES.
+BY INSTALLING, DOWNLOADING OR USING THE PRODUCT, YOU HEREBY AND FOREVER WAIVE ANY AND ALL CLAIMS YOU HAVE NOW OR MAY HAVE IN THE FUTURE AGAINST NEW.NET RELATING TO YOUR DOWNLOAD, INSTALLATION OR USE OF THE PRODUCT. YOU HEREBY WAIVE ANY CLAIM THAT THE FOREGOING LIMITATION OF LIABILITY DEPRIVES YOU OF AN ADEQUATE REMEDY. YOUR SOLE REMEDY FOR DISSATISFACTION WITH THE PRODUCT IS TO STOP USING THE PRODUCT. YOU SPECIFICALLY AGREE THAT NEW.NET SHALL NOT BE LIABLE FOR LOSSES OR LIABILITIES ARISING IN CONNECTION WITH YOUR DOWNLOAD, INSTALLATION OR USE OF THE PRODUCT, INCLUDING, BUT NOT LIMITED TO LOSS OR LIABILITY: (A) ARISING IN CONNECTION WITH SOFTWARE CONFLICTS RELATED TO THE PRODUCT; (B) RESULTING FROM DATA NON-DELIVERY, DATA MIS-DELIVERY OR UNAUTHORIZED ACCESS TO TRANSMISSIONS OR DATA; (C) ARISING IN CONNECTION WITH YOUR INFRINGEMENT OF A THIRD PARTY'S RIGHT; OR (D) RESULTING FROM DEFECTS OR VIRUSES IN, OR DISTRIBUTED WITH, THE PRODUCT. WITHOUT LIMITING THE FOREGOING, NEW.NET SHALL NOT BE LIABLE TO YOU FOR ANY ACTUAL, DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR PUNITIVE DAMAGES OR LOST OR IMPUTED PROFITS OR ROYALTIES ARISING OUT OF OR RE LATING IN ANY WAY TO THE PRODUCT OR THIS AGREEMENT, IRRESPECTIVE OF WHETHER YOU HAVE ADVISED NEW.NET OF THE POSSIBILITY OF ANY SUCH LOSS OR DAMAGE. THE PRODUCT IS PROVIDED "AS IS" AND "AS AVAILABLE" WITH NO TECHNICAL SUPPORT OR REPRESENTATIONS OR WARRANTIES OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, SYSTEM INTEGRATION, TITLE AND NON-INFRINGEMENT.
+
+
+Indemnification.
+You agree to release, indemnify, defend and hold harmless New.net, its parent, shareholders, subsidiaries, affiliates, officers, directors, employees, agents and advisors, from and against any and all losses, liabilities, claims (including claims without legal merit or brought in bad faith), demands, damages, costs or expenses, causes of action, suits, proceedings, judgments, awards, executions and liens, including reasonable attorneys' fees and costs (whether brought by third parties or otherwise) due to or arising out of your use, installation or download of the Product or your breach of this Agreement. New.net reserves the right, at its own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you hereunder, and in such event, you shall have no further obligation to provide indemnification for such matter.
+
+Notice to Government End Users.
+The Software and Documentation are "Commercial Items," as that term is defined at 48 C.F.R. § 2.101, consisting of "Commercial Computer Software" and "Commercial Computer Software Documentation," as such terms are used in 48 C.F.R. §12.212 or 48 C.F.R. §227.7202, as applicable. Consistent with 48 C.F.R. §12.212 or 48 C.F. R. §§227.7202-1 through 227.7202-4, as applicable, the Commercial Computer Software and Commercial Computer Software Documentation are being licensed to U.S. Government end users (A) only as Commercial Items and (B) with only those rights as are granted to all other end users pursuant to the terms and conditions herein.
+
+
+Limited Distribution and Territorial Considerations.
+New.net controls and operates the Product from its offices within the State of California, U.S.A., and all transactions conducted regarding the Product are conducted in the State of California. New.net makes no representation that materials in the Product are appropriate or available for use in other locations. Those users who choose to access the Product from other locations do so on their own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable. European Union users understand and consent to the processing of personal information (if any) in the United States. Use of or access to the Product should not be construed as the purposeful availment of the benefits or privilege of doing business in any state other than the State of California by New.net.
+
+
+General Provisions.
+If any part of this Agreement is determined to be invalid or unenforceable pursuant to applicable law including, but not limited to, the warranty disclaimers and liability limitations set forth above, then the invalid or unenforceable provision will be deemed superseded by a valid, enforceable provision that most closely matches the intent of the original provision and the remainder of the Agreement shall continue in effect. If no enforceable provision can be substituted, then that provision shall be deemed severable from the Agreement and shall not affect the validity and enforceability of any remaining provisions. This Agreement shall be governed by, construed and enforced in accordance with the laws of the State of California, without regard to conflicts of law principles. With respect to all matters pertaining to this Agreement or the Product, you shall bring all actions, and you consent to jurisdiction, in either the state or federal courts located in Los Angeles County, California. This Agreement will not be governed by the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded. Use of the Product is unauthorized in any jurisdiction that does not give effect to all provisions of this Agreement, including without limitation this paragraph.
+
+
+--------------------------------------------------------------------------------------------
+
+
+eZula TopText iLookup- TERMS AND CONDITIONS OF USE Agreement (“Agreement”)
+
+
+This service (the "Service") and the software enabling the use thereof (the "Software") is currently provided as a free service to any User thirteen (13) years of age or older (collectively "User" or "Users") that agrees to abide by these Terms and Conditions. 
+
+Downloading the Service means that you are at least thirteen (13) years of age and accept and agree to be bound by the Terms and Condition and to receive the Service and the Software. From time to time eZula may update or transfer new versions of the Software or Service, in whole or part. Your use of the updated or new versions of the Software and/or subsequent use of the Service is subject to these Terms and Conditions. If you do not agree to abide by these terms, you may not use the Service. 
+
+EZula, Inc. is providing you a Service and a Software that, when downloaded on your computer system will notify you of offers and or information that may be of interest to you, by adding an overlay to text of Web sites you visit or by opening new browser windows with various offers and information.  Upon the opening of any World Wide Web Page, the Software scans the Web Page, marks on top of those pages words and/or phrases with a yellow underlines and or highlights, for which there are associated Web sites, and creates active links to such sites.  This highlighting and underlining are not part of the Web page you are on, but are overlays provided by the Service.  When you click on the marked word or phrase, you will be directed to a third party Web site, and if the marked word or phrase is part of a pre-existing link, a pop-up display will ask you if you would like to go to the original link or to the third party Web site, or other promotions will be presented to you.  Links to the associated third party Web sites are provided by the Service are clearly marked and are not provided by the Web site you are visiting.  If you follow any link and wish to return to the site where you were, simply click the Back button.  
+
+1. General Terms and Conditions: While eZula strives to protect any personal information, you acknowledge that you are aware of security and privacy limitations including without limitation: (i) the limitation of security, privacy and authentication measures and features in the Service; and (ii) that data and information on the Service may be subject to eavesdropping, forgery, spamming, tampering, breaking passwords, harassment, fraud, electronic trespassing, hacking, and system contamination, including without limitation, viruses, worms, and Trojan horses, causing unauthorized, damaging or harmful access and/or retrieval of information or data on your computer or other security or privacy hazards. If you do not wish to be subjected to these risks, you are advised not to use the Software or the Service. 
+
+2. License Restrictions. eZula grants to you a non-exclusive, limited license, pursuant to the terms hereof, to (a) install and use the Software solely for the purpose of accessing the eZula Service and (b) use eZula for your personal purposes. Your license to use the Service may, at eZula's discretion, expire when new versions of that eZula are released. eZula reserves the right to add additional features or functions to its Service, or to add new Services to the Service, at any time, without asking your approval. When installed on your computer, eZula communicates with its servers periodically. Additionally, eZula may require the update of its Software on your computer when a new version of the Software is released to the general public, when new features are available and/or to add new services to the Service. This update or new download may occur automatically or through other means. 
+
+3. Access and Registration: In order to use the Service, you must provide your own equipment to establish a connection to, and access, to the World Wide Web. You are responsible for any fees associated with such connection or access. 
+
+4. Disclaimer of Warranties: THE SOFTWARE AND SERVICE ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED WITHOUT LIMITATION OF THE FOREGOING, EZULA SPECIFICALLY DISCLAIMS ANY AND ALL WARRANTIES, INCLUDING, BUT NOT LIMITED TO: (i) ANY WARRANTIES CONCERNING THE AVAILABILITY, ACCURACY, SECURITY, USEFULNESS, INTEROPERABILITY, OR CONTENT OF THE SOFTWARE OR SERVICE; AND (ii) ANY WARRANTIES OF TITLE, WARRANTY OF NON-INFRINGEMENT, WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. THIS DISCLAIMER OF LIABILITY APPLIES TO ANY DAMAGES OR INJURY CAUSED BY THE SOFTWARE OR THE SERVICE, INCLUDING WITHOUT LIMITATION AS A RESULT OF ANY FAILURE OF PERFORMANCE, ERROR, OMISSION, INTERRUPTION, DELETION, DEFECT, VIRUS, OR UNAUTHORIZED ACCESS, WHETHER FOR BREACH OF CONTRACT, TORT, NEGLIGENCE, OR UNDER ANY OTHER CAUSE OF ACTION EZULA DOES NOT WARRANT OR GUARANTEE (1) THAT ANY PROGRAM OR PORTION OF THE SERVICE WILL BE FREE OF INFECTION BY VIRUSES, WORMS, TROJAN HORSES OR ANY OTHER MANIFESTING, CONTAMINATING OR DESTRUCTIVE PROPERTIES; (2) THAT ANY INFORMATION OR OTHER CONTENT PROVIDED BY EZULA, ITS PARTNERS OR AFFILIATES, USERS OF THE SERVICE OR ANY WEB SITE ACCESSED WHILE USING THE SERVICE WILL NOT CONTAIN DEFAMATORY OR ADULT-ORIENTED MATERIAL, OR MATERIAL WHICH SOME INDIVIDUALS MAY DEEM OBJECTIONABLE; OR (3) THAT THE FUNCTIONS OR SERVICES PERFORMED BY EZULA WILL BE UNINTERRUPTED OR ERROR-FREE OR THAT DEFECTS IN THE SOFTWARE AND THE SERVICE WILL BE CORRECTED. IT IS YOUR SOLE RESPONSIBILITY TO ISOLATE THE SOFTWARE AND INFORMATION, EXECUTE ANTI-CONTAMINATION SOFTWARE AND OTHERWISE TAKE STEPS TO ENSURE THAT SOFTWARE OR OTHER INFORMATION OBTAINED FROM THE SERVICE, IF CONTAMINATED OR INFECTED, WILL NOT DAMAGE YOUR INFORMATION OR SYSTEM. 
+
+5.User Conduct: 
+
+While using Service, you may not:
+
+1.
+ Harass, threaten, embarrass or cause distress or discomfort upon another User, or any other individual or entity.
+ 
+2.
+ restrict or inhibit any other User from using and enjoying the Service.
+ 
+3.
+ Impersonate any other person or entity, including without limitation any eZula official, or misrepresent your affiliation with any other person or entity.
+ 
+4.
+ Upload, post, publish, transmit, reproduce, or distribute in any way, information, software or other material obtained through the Service that is protected by copyright or other proprietary or intellectual property right, or derivative works with respect thereto, without obtaining permission of the copyright owner or right holder.
+ 
+5.
+ Upload, post, publish, reproduce, transmit or distribute in any way any component of the Service itself or derivative works with respect thereto, as the Service is copyrighted under applicable copyright laws and may be covered under one or more patents pending.
+ 
+6.
+ Upload, post, publish or transmit any unlawful, fraudulent, libelous, defamatory, obscene, pornographic, profane, threatening, abusive, racist, or otherwise objectionable information of any kind, including without limitation any transmissions constituting or encouraging conduct that would constitute illegal activity, give rise to civil liability, or otherwise violate any local, state, national or foreign law, including without limitation the US export laws and regulations.
+ 
+7.
+ Translate, decompile, reverse engineer, disassemble, modify, copy, alter, merge into other software, reproduce, rent, lease, lend, distribute, remarket, or otherwise dispose of the Service or the Software. You agree to immediately notify us of any unauthorized use of your membership or any other breach of security known or suspected by you.
+ 
+8.
+ Post or transmit any bulk e-mails, advertisements, solicitations, offers for sale of goods or services, chain letters, pyramid schemes, investment opportunities or schemes or other unsolicited commercial communication (except as otherwise expressly permitted by the Service) or engage in spamming or flooding.
+ 
+9.
+ Post or transmit any information or software which contains a virus, Trojan horse, worm or other harmful component.
+ 
+10.
+ Use any robot, spider, other automatic or manual device or process to interfere or attempt to interfere with the proper working of eZula Service and /or Software.
+ 
+
+6. eZula's Rights and Duties: You understand and acknowledge that eZula has no obligation to monitor any portion of the Service and/or Software. You acknowledge and agree, however, that eZula does retain the right to monitor the Service/Software and to disclose any information as necessary or appropriate to satisfy any law, regulation or other governmental request.
+
+7. Links from and to the Service: The Software and Service contain features that may link you to third parties' web sites, directories, servers or services ("Linked Services"). eZula is not responsible for the content of any such Linked Services. The offering of these features does not imply endorsement of the Linked Services by eZula. It is your sole responsibility to comply with the appropriate terms of service of the Linked Services. In no event shall eZula be liable to anyone for any damage arising from or occasioned by the creation or use of the Linked Services or the information or material accessed through these Linked Services. 
+
+8. Intellectual Property Rights: As between eZula and you, eZula is the sole owner of the Software and Service, including without limitation, all applicable US and non-US copyrights, patents, trademarks, and trade secrets, and other intellectual property rights appurtenant thereto Except as otherwise specifically provided in these Terms and Conditions, You may, however, print a copy of individual screens appearing as part of the Service solely for your personal non-commercial use or records All title and intellectual property rights in and to the content of any third party web site, which may be linked to or viewed in connection with the Service, is the property of the respective content owner and may be protected by applicable copyright or other intellectual property laws and treaties This Agreement grants you no rights to use such content except as allowed by such third party.
+
+9. Unsolicited Materials: eZula does not solicit nor does it wish to receive any confidential, secret or proprietary information or other material from you through the Service, the website located at http://www.ezula.com ("eZula Web Site") or in any other way.  Any information or material submitted or sent to eZula will be deemed not to be confidential.
+
+10. Limitation of Liability: IN NO EVENT WILL EZULA, ITS OFFICERS, DIRECTORS, EMPLOYEES, AFFILIATES, DISTRIBUTORS, SUCCESSORS OR ASSIGNS, BE LIABLE TO ANY PARTY (i) FOR ANY INDIRECT, DIRECT, SPECIAL, PUNITIVE, INCIDENTAL OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF PROGRAMS OR INFORMATION, AND THE LIKE), OR ANY OTHER DAMAGES ARISING IN ANY WAY OUT OF THE AVAILABILITY, USE, RELIANCE ON, OR INABILITY TO USE THE SOFTWARE, SERVICE, VARIOUS DIRECTORIES AND LISTINGS OR ANY OTHER SOFTWARE OR OTHER CONTENT INCLUDED AS PART OF THE SERVICE, EVEN IF EZULA SHALL HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT, TORT, OR OTHERWISE; OR (ii) FOR ANY CLAIM ATTRIBUTABLE TO ERRORS, OMISSIONS, OR OTHER INACCURACIES IN, OR DESTRUCTIVE PROPERTIES OF ANY OTHER SOFTWARE OR OTHER CONTENT INCLUDED AS PART OF THE SERVICE IN NO EVENT WILL EZULA'S LIABILITY WITH RESPECT TO THE USE OF THE SOFTWARE AND SERVICE EXCEED FIVE HUNDRED ($500) US DOLLARS 
+
+Because some states or jurisdictions do not allow the exclusion or the limitation of liability for consequential or incidental damages, in such states or jurisdictions, eZula's liability shall be limited to the extent permitted by law. 
+
+11. Indemnification: By agreeing to use the Service, you agree to defend, indemnify and hold eZula, its affiliates, officers, directors, distributors, and employees harmless from any and all claims, liabilities, costs and expenses, including reasonable attorneys' fees, arising in any way from the use of the Service, the placement or transmission of any message, information, software or other materials through the Service or the violation of any these Terms and Conditions by you or any User authorized by you. 
+
+12. Cancellation and Termination: eZula may, at its sole discretion, terminate the Service or your use of the Service, permanently or temporarily, at any time and without cause. You may at any time cancel your use of the Service by sending an e-mail message to support@eZula.com requesting that we cancel your membership in the Service or by simply uninstalling it though the add/remove program. These Terms and Conditions will continue to apply to all past use of the Service or the Software by you, even if you are no longer using it. Users who violate the terms of these Terms and Conditions may be permanently or temporarily banned from using the Service, at eZula's sole discretion.
+
+13. Privacy: Your privacy is important to eZula. Any information in connection with your use of Service, will be governed by the provision of the eZula Privacy Policy. 
+
+14.Third Party Software: During the process of downloading and or using the Software and Service, you may also be offered the possibility to download software from third party software vendors pursuant to license agreements or other arrangements between such vendors and yourself ("Third Party Software"). In the event you do not wish to download this THIRD PARTY SOFTWARE you should uncheck the appropriate boxes. Please note that the THIRD PARTY SOFTWARE is subject to different license agreements or other arrangements, which you should read carefully, compared to the Terms of Service of eZula. By downloading and using this THIRD PARTY SOFTWARE you accept these THIRD PARTY SOFTWARE license agreements or other arrangements and acknowledge that you have read them and understand them. eZula does not sell, resell, or license any of this THIRD PARTY SOFTWARE, and eZula disclaims to the maximum extent permitted by applicable law, any responsibility for or liability related to the THIRD PARTY SOFTWARE. Any questions, complaints or claims related to the THIRD PARTY SOFTWARE should be directed to the appropriate vendor. THE THIRD PARTY SOFTWARE IS PROVIDED BY EZULA "AS IS" AND "WITH ALL FAULTS". EZULA MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE QUALITY, SAFETY OR SUITABILITY OF THIS SOFTWARE, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL EZULA BE LIABLE FOR ANY INDIRECT, PUNITIVE, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES HOWEVER THEY MAY ARISE AND EVEN IF EZULA HAS BEEN PREVIOUSLY ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+There are inherent dangers in the use of any software available for downloading on the Internet, and eZula cautions you to make sure that you completely understand the potential risks before downloading any of the THIRD PARTY SOFTWARE. You are solely responsible for adequate protection and backup of the data and equipment used in connection with any of the THIRD PARTY SOFTWARE, and eZula will not be liable for any damages that you may suffer in connection with using, modifying or distributing any of the THIRD PARTY SOFTWARE.
+
+14. Miscellaneous: If any part of this Agreement is held invalid or unenforceable, that portion shall be construed in a manner consistent with applicable law to reflect, as nearly as possible, the original intentions of the parties, and the remaining portions shall remain in full force and effect.
+
+eZula may transfer, assign sublicense or pledge in any manner whatsoever, any of its rights and obligations under this agreement to a subsidiary, affiliate successor thereof or to any third party whatsoever, without notifying you or receiving your consent. You shall not transfer, assign, sublicense nor pledge in any manner whatsoever, any of your rights or obligations under this agreement 
+
+eZula may change the Terms and Conditions from time to time and at any time, with or without a release of a new version of the Software, without notice to you, by posting such changes on the eZula Web Site. You agree that your continued use of the Software and/or the Service after such notice has been posted on the eZula Web Site for the first time shall constitute your consent to the new or revised set of Terms and Conditions. 
+
+You agree that the laws of the State of California, excluding its conflicts-of-law rules, shall govern this Terms and Conditions Agreement Please note that your use of the Software as well as the Service may be subject to other local, state, national, and international laws.
+
+To the extent permitted by law, you agree not to bring, join or participate in any class action as to any claim, dispute or controversy you may have against us or our agents, services, directors, officers and employees. You agree to the entry of injunctive relief to stop such a lawsuit or to remove you as a participant in the suit. You agree to pay the attorney's fees and court costs we incur in seeking such relief. This agreement is not a waiver of any of your rights and remedies to pursue a claim individually and not as a class action in binding arbitration as provided above. This agreement not to bring or participate in class action suits is an independent agreement and shall survive other relationships.

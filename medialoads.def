@@ -1,0 +1,26 @@
+// MediaLoads stuff
+// 25-12-2002
+// Taken from Kazaa v1.3.3 through v2.0.2
+
+MedialoadsProcess=%WINDIR%\temp\Adware\WebInstall.exe
+
+MedialoadsFile=%WINDIR%\temp\Adware\WebInstall.exe
+
+MedialoadsFolder=%WINDIR%\temp\Adware
+
+MedialoadsRegkey=HKCU\Software\DownloadWare
+MedialoadsRegkey=HKCU\Software\WebInstall
+MedialoadsRegkey=HKLM\Software\DownloadWare
+//MedialoadsRegkey=HKLM\Software\Microsoft\DownloadManager - this is a standard winxp regkey
+
+MedialoadsRegval=HKLM\Software\Microsoft\Windows\CurrentVersion\Run,WebInstall
+MedialoadsRegval=HKLM\Software\Microsoft\Windows\CurrentVersion\Run,WebInstall2
+
+// spybot additions
+MedialoadsRegkey=HKCU\Software\ActiveInstall
+MedialoadsRegkey=HKCU\Software\Updater
+MedialoadsRegkey=HKLM\Software\ActiveInstall
+MedialoadsRegkey=HKLM\Software\Updater
+MedialoadsRegval=HKLM\Software\Microsoft\Windows\CurrentVersion\Run,Downloadware
+MedialoadsRegkey=HKLM\Software\Microsoft\Windows\CurrentVersion\Uninstall\DownloadWare
+MedialoadsFolder=%PROGRAMFILES%\DownloadWare

@@ -1,0 +1,25 @@
+// SaveNow stuff
+// 25-12-2002
+// Taken from Kazaa v1.3.3 through v2.0.2
+
+SavenowProcess=%PROGRAMFILES%\SaveNow\SaveNow
+SavenowProcess=%PROGRAMFILES%\Save\Save.exe
+
+SavenowFile=%PROGRAMFILES%\SaveNow\ReadMe.txt
+SavenowFile=%PROGRAMFILES%\SaveNow\SaveNow.exe
+SavenowFile=%PROGRAMFILES%\SaveNow\savenow.htm
+SavenowFile=%PROGRAMFILES%\SaveNow\Uninst.exe
+SavenowFile=%PROGRAMFILES%\Save\ReadMe.txt
+SavenowFile=%PROGRAMFILES%\Save\Save.exe
+SavenowFile=%PROGRAMFILES%\Save\save.htm
+SavenowFile=%PROGRAMFILES%\Save\SaveUninst.exe
+
+SavenowFolder=%PROGRAMFILES%\SaveNow
+SavenowFolder=%PROGRAMFILES%\Save
+
+SavenowRegkey=HKLM\Software\Microsoft\Windows\CurrentVersion\Uninstall\SaveNow
+SavenowRegkey=HKLM\Software\WhenU
+SavenowRegkey=HKCR\WUSN.1
+SavenowRegkey=HKCR\WUSN
+
+SavenowRegval=HKLM\Software\Microsoft\Windows\CurrentVersion\Run,SaveNow

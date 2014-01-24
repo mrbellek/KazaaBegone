@@ -1,0 +1,37 @@
+// CyDoor stuff
+// 25-12-2002
+// Taken from Kazaa v1.3.3 through v2.0.2
+
+CyDoorProcess=%WINDIR%\TEMP\Adware\cd_install_291.exe
+CyDoorProcess=%WINDIR%\cd_load.exe
+
+CydoorFile=%WINSYSDIR%\cd_clint.dll
+CydoorFile=%WINSYSDIR%\cd_htm.dll
+
+// added since K 2.0.2
+CydoorFile=%PROGRAMFILES%\InstallShield Installation Information\{A2756524-E9F9-4AC1-AF4E-15F3460ACB3E}\data1.cab
+CydoorFile=%PROGRAMFILES%\InstallShield Installation Information\{A2756524-E9F9-4AC1-AF4E-15F3460ACB3E}\data1.hdr
+CydoorFile=%PROGRAMFILES%\InstallShield Installation Information\{A2756524-E9F9-4AC1-AF4E-15F3460ACB3E}\layout.bin
+CydoorFile=%PROGRAMFILES%\InstallShield Installation Information\{A2756524-E9F9-4AC1-AF4E-15F3460ACB3E}\Setup.exe
+CydoorFile=%PROGRAMFILES%\InstallShield Installation Information\{A2756524-E9F9-4AC1-AF4E-15F3460ACB3E}\setup.ilg
+CydoorFile=%PROGRAMFILES%\InstallShield Installation Information\{A2756524-E9F9-4AC1-AF4E-15F3460ACB3E}\Setup.ini
+CydoorFile=%PROGRAMFILES%\InstallShield Installation Information\{A2756524-E9F9-4AC1-AF4E-15F3460ACB3E}\setup.inx
+
+CydoorFolder=%PROGRAMFILES%\InstallShield Installation Information\{A2756524-E9F9-4AC1-AF4E-15F3460ACB3E}
+CydoorFolder=%WINSYSDIR%\AdCache
+CydoorFolder=%WINSYSDIR%\cache329
+
+CydoorRegkey=HKCU\Software\Cydoor
+CydoorRegkey=HKCU\Software\Cydoor Services
+CydoorRegkey=HKLM\Software\Cydoor
+CydoorRegkey=HKLM\Software\Microsoft\Windows\CurrentVersion\Uninstall\AdSupport_253
+CydoorRegkey=HKLM\Software\Microsoft\Windows\CurrentVersion\Uninstall\{7D50E972-F2C4-4327-AA79-88FA868A4507}
+CydoorRegkey=HKLM\Software\Microsoft\Windows\CurrentVersion\Uninstall\{A2756524-E9F9-4AC1-AF4E-15F3460ACB3E}
+
+CyDoorFile=%WINDIR%\TEMP\Adware\cd_install_291.exe
+
+// spybot additions
+CydoorRegkey=HKLM\Software\Microsoft\Windows\CurrentVersion\Uninstall\AdSupport
+//CydoorRegval=HKLM\Software\Microsoft\Windows\CurrentVersion\Run,?? = cd_load.exe
+CydoorFile=%WINSYSDIR%\cd_gif.dll
+CydoorFile=%WINSYSDIR%\cd_swf.dll

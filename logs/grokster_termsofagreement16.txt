@@ -1,0 +1,187 @@
+PLEASE READ THE GATOR CORPORATION PRIVACY STATEMENT AND END USER LICENSE AGREEMENT (COLLECTIVELY "Terms and Conditions") CAREFULLY AND MAKE SURE YOU UNDERSTAND THEM. THEY CONTAIN IMPORTANT INFORMATION THAT YOU SHOULD KNOW BEFORE ACCEPTING ANY GAIN-Supported Software (DEFINED BELOW).
+
+THESE Terms and Conditions MAY BE TERMINATED AT ANY TIME BY UNINSTALLING ALL GAIN-Supported Software FROM THE COMPUTER ON WHICH THEY RESIDE USING THE ADD/REMOVE PROGRAMS MENU IN THE MICROSOFT(r) WINDOWS(r) CONTROL PANEL, AND DESTROYING ANY OTHER COPIES OF GAIN-Supported Software THAT MAY HAVE BEEN MADE. SOON AFTER ALL GAIN-Supported Software HAS BEEN REMOVED THE GAIN AdServer WILL REMOVE ITSELF AUTOMATICALLY. http://webpdp.gator.com/gain/32/about-gain-01.html, INCORPORATED HEREIN BY REFERENCE, GENERATES A LIST OF GAIN-Supported Software THAT RESIDES ON THE COMPUTER THAT IS USED TO ACCESS THE LINK. 
+
+
+--- The Gator Corporation Privacy Statement and End User License Agreement ("Terms and Conditions") ---
+
+The Gator Corporation ("TGC") provides personal computer users with a winning proposition: the ability to get advertising-supported versions of popular software applications (often valued at up to $30) free-of-charge or at a reduced cost.  Downloading/installing these ad-supported software applications requires acceptance of these Terms and Conditions which allows TGC to download and install the "Gain AdServer" software, which delivers ads, other software, and informational messages ("Advertisements").  
+
+The GAIN AdServer is patent-pending technology that anonymously identifies the interests of computer users based on their computer usage, and the URLs associated with the Web pages viewed.  Often, such ads and informational messages will be published to computer screens on behalf of those who are competitors of the Web pages users may be viewing, or may have recently viewed.  
+
+"GAIN-Supported Software" is published by TGC, as well as third-party software publishers.  GAIN-Supported Software that is published by TGC includes the Gator eWallet(SM), Offer Companion, Precision Time, and Date Manager.  At any time, you can see a list of all GAIN-Supported Software residing on a computer by displaying http://webpdp.gator.com/gain/32/about-gain-01.html in a browser on that computer.
+ 
+Unless otherwise specified, these Terms and Conditions apply to the GAIN AdServer and GAIN-Supported Software published by TGC ("TGC GAIN-Supported Software") and do not apply to GAIN-Supported Software published by third parties.  Third-party GAIN-Supported Software is governed by that third-party's legal agreements. 
+
+These Terms and Conditions shall control in the event of any inconsistency between these Terms and Conditions and any prior Gator Corporation terms and conditions agreed to.
+
+--- Privacy Statement  ---
+
+We don't know who our users are...
+TGC does not know the identity of Gain-Supported Software users.  We do not transmit to our servers personally identifiable information like email addresses, last name, street addresses, or phone numbers. Nor do we have any other sensitive or personal financial information, such as credit card numbers, login IDs, passwords or bank account numbers. Any such information entered into any TGC GAIN-Supported Software application (such as the Gator(SM) eWallet) will remain on the personal computer upon which it was entered, and will not be sent to our servers. 
+
+Here's what we do know...
+While we don't know the identity of GAIN-Supported Software users, the GAIN AdServer and TGC does anonymously collect and use the following kinds of information:
+
+- Some of the Web pages viewed
+- The amount of time spent at some Web sites 
+- Response to the ads displayed 
+- Standard web log information (excluding IP Addresses) and system settings 
+- What software is on the personal computer 
+- First name, country, and five digit ZIP code
+- Non-personally identifiable information on Web pages and forms 
+- GAIN-Supported Software usage characteristics and preferences
+
+We associate such information with a particular personal computer through a randomly generated Anonymous ID number and use it to accomplish the following: 
+
+- Enable the functionality provided in TGC GAIN-Supported Software applications (for example, when to offer help filling in a form or when to reset the personal computer's clock to the accurate time)
+- Select and deliver installation files for optional new software applications
+- Deliver ads and informational messages to a computer screen on behalf of advertisers who may be competitors of the Web pages viewed by a user.
+
+Any information provided to any TGC employees or contractors, such as our technical support department, may be stored on our servers in archives of our support and customer service communications. This information, however, will not be associated with the information we may store and use listed above. http://www.gatorcorporation.com/help/psdocs/datause.html, incorporated herein by reference, provides a more detailed description of the information collected by TGC and how it is used. 
+
+We share anonymous aggregate information about what Web pages users view on the Internet. For example, we might tell a merchant that we have 50,000 users who buy books. We do not disclose information associated with any individual user to that merchant.
+
+We sometimes use third party contractors who may be given access to any information we have so they may perform tasks that might otherwise be done by our employees. These contractors, however, have no rights to use such information for purposes other than those described herein; and they are subject to the same restrictions as our employees. In the event that TGC merges with another company, transfers or sells substantially all of its assets or capital stock to a third party, all collected information would be included in the merger, transfer or sale and that company would be bound by these Terms and Conditions just as we are bound today.
+
+If legally required to do so, we will disclose to a third party any information we have.
+
+Distribution of GAIN(SM)-Supported Software and the GAIN(SM) AdServer. 
+
+All GAIN-Supported Software comes with the GAIN AdServer. The distribution of GAIN-Supported Software may occur in several different ways including: a) by downloading software from a Web site; b) by clicking to download software from online ads (patent-pending); and c) through trial programs in which GAIN-Supported Software are included as an "opt-out" option with other software products one might choose to download. http://www.gatorcorporation.com/help/psdocs/distribution.html, incorporated herein by reference, provides more detail about the distribution of GAIN-Supported Software and the GAIN AdServer.
+
+Delivery of GAIN(SM) Advertising
+Advertisements will be delivered to a computer's screen or storage media if one or more GAIN-Supported Software programs reside on that computer.  To stop receiving Advertisements, one must uninstall all of the GAIN-Supported Software applications residing on the computer using the Add/Remove Programs menu in the Microsoft Windows control panel. http://webpdp.gator.com/gain/32/about-gain-01.html, generates a list of GAIN-Supported Software on the computer used to access the link along with more detailed removal instructions.
+
+We deliver ads and informational messages to computer screens in a variety of ways. Some GAIN ad delivery vehicles offer user preference settings that allow consumers to control some aspects of the delivery of the advertisements. http://www.gatorcorporation.com/help/psdocs/advehicles.html, incorporated herein by reference, more fully describes the GAIN ad delivery vehicles, including the following:
+
+- Pop-Up Windows appear as windows on top of or beneath other windows on the computer screen.
+- Pop-Up Slider Windows appear as floating images on top other windows on the computer screen.  
+- Embedded Ads are displayed within some GAIN-Supported Software applications. 
+- Desktop icons and installation files may be placed on the computer that link to other products and services. 
+
+Many GAIN ads and informational messages are published to computer screens on behalf of advertisers who compete with the company whose Web pages may be viewed. The GAIN(SM) brand is displayed on ads and informational messages to, among other things, inform consumers that the ads and informational messages are delivered by TGC and are not associated, sponsored, or affiliated in any way with any of the companies whose Web pages may have been viewed. 
+
+How TGC GAIN-Supported Software and the GAIN(SM) AdServer Work
+When running on a computer, TGC GAIN-Supported Software and/or the GAIN AdServer regularly communicate with TGC servers, and in some cases, third party servers, among other reasons, to: 
+
+1. maintain/update the GAIN-Supported Software or the GAIN AdServer;   
+2. facilitate installing and uninstalling the GAIN-Supported Software or the GAIN AdServer; 
+3. retrieve content and ads for display; 
+4. facilitate various TGC GAIN-Supported Software or GAIN AdServer features; 
+5. collect computer user usage information in an anonymous manner; and/or 
+6. update user information. 
+
+http://www.gatorcorporation.com/help/psdocs/communications.html, incorporated herein by reference, provides more detail regarding communications between a computer and other computers arising from use of TGC GAIN-Supported Software and the GAIN AdServer.
+
+To introduce new software applications and services, we may occasionally download an installation file. After the installation file has completely downloaded, we will display a message to ask the computer user if they wish to install the new software application.  Upon acceptance, the new software application or service will be installed. Periodically, the GAIN AdServer will automatically delete installation files for declined software applications. 
+
+To improve the features or functions of the GAIN(SM) AdServer, or TGC or third-party GAIN-Supported Software, we may occasionally install technologies, such as certain rich media player applications, browser plugins, virtual machines, and runtime environments (collectively "Enhancement Technologies"). For example, these Enhancement Technologies may be used to deliver audio and visual effects such as animation, video and sound, or to provide enhanced services such as secure coupon printing. In the event that we install on a computer Enhancement Technologies developed by a third party, that third party's privacy statement for those Enhancement Technologies will be at least as protective of privacy as TGC's Privacy Statement; otherwise we will display to the computer screen a notification message  describing the technology we installed with a link or reference to the applicable privacy statement, or utilize a click-through agreement to obtain user consent, as appropriate. 
+http://www.gatorcorporation.com/help/psdocs/enhancementtechnologies.html, incorporated herein by reference, contains a list of current Enhancement Technologies distributed by TGC and links to their respective policies. Note that soon after all GAIN-Supported Software has been removed from a computer, the GAIN AdServer removes itself automatically.  Any Enhancement Technologies that were previously installed (such as browser plug-ins and audio/video players) will remain on the computer because other programs may rely on these Enhancement Technologies to function correctly. 
+
+Cookies and Web Beacons
+TGC GAIN-Supported Software and/or the GAIN AdServer uses cookies for the following purposes: 
+
+- To identify the business associate that was responsible for introducing GAIN-Supported Software so that we can pay that business associate a fee; 
+- To identify the GAIN-Supported Software on the computer; and/or 
+- To limit how often we display certain ads and informational messages. 
+
+In order to enable certain third parties to display targeted ads and informational messages on our behalf, the GAIN AdServer or TGC GAIN-Supported Software may read cookie information that those third parties stored on the computer. That information may be sent to our servers so that we can include it in advertisement display requests that we send to those third parties. Please note that when any third party service providers, such as ad serving companies, set and access cookies at our request, they do so in accordance with their own privacy statements. http://www.gatorcorporation.com/help/psdocs/thirdparties.html, incorporated herein by reference, provides a list of any third parties who set and access cookies on the computer in order to facilitate a feature or service associated with GAIN-Supported Software. This list also includes links to their privacy statements. 
+
+Third party service providers that serve ads to users, at our request, may use web beacons. Some GAIN(SM) ads and informational messages include "web beacons," which allow third party service providers to access cookies on a computer to target ads and provide campaign analysis for their clients who use our services. Some third party service providers who access cookies in this way allow consumers to opt-out of their use of these cookies.  http://www.gatorcorporation.com/help/psdocs/naisite.html, is a third party Web site that allows consumers to inform some advertisers they wish to revoke the right of those advertisers to access cookies on a computer.
+
+Some third parties offer visitors the opportunity to download TGC GAIN-Supported Software from their Web sites. TGC hosts some of the Web pages for these third parties. We use web beacons on these pages to count the number of people who have viewed these pages so that we can pay the third parties for any downloads of TGC GAIN-Supported Software that originate from their Web sites. 
+
+Optional Surveys
+Users who uninstall TGC GAIN-Supported Software may be asked why the software is being removed.  Also, from time to time, we may display a GAIN branded pop-up advertisement from Feedback Research, a division of TGC, inviting users to join a survey panel or participate in a survey.  A survey panel is a group of people that meet a certain criteria that are periodically asked for their opinions. Participation in a survey panel is completely voluntary and optional.
+
+Eligibility for joining a panel or taking a survey may require a person to answer demographic "screening" questions such as gender, age, employment status, income range, educational level, head of household, the number of people in their family, and/or whether they own or rent their home.  Answers to these screening questions and/or to the Feedback Research survey questions are often stored on Feedback Research servers, and anonymous individual responses to these questions may be provided to our clients.  Answers to both screening questions and survey questions may be associated with an Anonymous ID, but not with a user's identity which remains unknown to Feedback Research and TGC. 
+
+Finally, Feedback Research may offer users the opportunity to provide an email address in order to enter a sweepstakes.  The sole purpose of collecting this email is to contact them if they win.  To ensure their privacy, any email address provided to Feedback Research for this reason are sent directly to a third party contractors' servers to ensure they are stored separate from, and cannot be associated in any way with, Anonymous IDs or the answers to Feedback Research screening or survey questions.
+
+Changes to our Privacy Statement and End User License Agreement
+If these Terms and Conditions change in the future, we will not, collect, use, or store any personally identifiable information without first obtaining permission.  As we issue subsequent revisions to these Terms and Conditions that do not involve personally identifiable information, we will provide notice by displaying an online pop-up message. We will also continue to publish the current Terms and Conditions on our web site. 
+
+For support questions contact us at support@gatorcorporation.com.  For specific questions regarding the specific terms of these Terms and Conditions, contact us at privacy@gatorcorporation.com.
+ 
+--- End User License Agreement ("Agreement") ---
+
+Terms defined in the TGC Privacy Statement used in this Agreement will retain the definition provided in the TGC Privacy Statement. The GAIN AdServer and TGC GAIN-Supported Software shall be collectively referred to as "Licensed Materials."  Licensed Materials, any Web sites owned and operated by us, and any content available therefore shall be collectively referred to as "Gator Supplied Materials."
+
+Ownership; All Users of This Computer Bound. 
+You represent and warrant that you are the owner of the computer that you have authorized the download and installation of the GAIN(SM) AdServer and GAIN-Supported Software, or the owner of the computer has authorized you to do so. You agree, with respect to all other users of the computer that you have caused the GAIN AdServer and GAIN-Supported Software to reside, to (i) provide a copy of the TGC Privacy Statement and End User License Agreement; and (ii) to obtain their consent to same before allowing them to use the computer to view Web sites on the Internet. Also, you agree not to use the GAIN AdServer, or GAIN-Supported Software, in a manner prohibited by law, or in violation of any contractual provision by which you are bound. You agree to comply with all applicable laws, rules and regulations in your use of the GAIN(SM) AdServer and GAIN-Supported Software. 
+
+Access and Interference. 
+You agree that you will not use, or encourage others to use, any unauthorized means for the removal of the GAIN AdServer, or any GAIN-Supported Software from a computer.  For a list of authorized means for the removal of GAIN-Supported Software, view http://webpdp.gator.com/gain/32/about-gain-01.html.  You also agree that you will not use, or encourage others to use, any robot, spider, other automatic or non-automatic manual device or process intended to interfere or attempt to interfere with the proper working of any Gator Supplied Materials, or third party GAIN-Supported Software. You agree not to use any means to avoid the delivery of any advertising with GAIN(SM) branding while retaining the ability to use any GAIN-Supported Software.
+
+Voluntary Software and Right to Uninstall. 
+You understand that GAIN-Supported Software are voluntary software programs and you may uninstall any of them at any time by using the Microsoft(r) Windows(r) Add/Remove Programs menu in your Microsoft Windows control panel. Thereafter, the GAIN AdServer will remove itself.  Please note that uninstalling all GAIN-Supported Software does not uninstall any Enhancement Technologies.
+
+Termination. 
+These Terms and Conditions may be terminated at any time, by any user, by uninstalling all GAIN-Supported Software from the computer using the Add/Remove Programs menu in your Microsoft(r) Windows(r) control panel, and destroying any other copies of the GAIN AdServer and GAIN-Supported Software you may have made. http://webpdp.gator.com/gain/32/about-gain-01.html, incorporated herein by reference, provides a list of GAIN-Supported Software on your computer and more detailed removal instructions. 
+
+Security. 
+Users of the Gator(SM) eWallet, are solely responsible for maintaining the confidentiality of their Gator(SM) eWallet master password. They are also responsible for all uses of their Gator(SM) eWallet master password and any and all related uses of their information stored in any TGC GAIN-Supported Software, whether or not authorized by them. 
+
+Links. 
+Gator Supplied Materials and GAIN(SM) advertising vehicles that are displayed on a computer's screen may contain links to web sites operated by other parties. The linked web sites are not under the control of TGC, and TGC is not responsible for the content available on any other Internet sites so linked. Unless otherwise stated, such links do not imply TGC's endorsement of material on any other web site. Access to any other Internet sites linked as herein described is at the users own risk. 
+
+Unless otherwise set forth in a written agreement between you and TGC, you must adhere to TGC's linking statement as follows: (i) any link to TGC's Web Site must be a text only link clearly marked "TGC Web Site," (ii) the appearance, position and other aspects of the link may not be such as to damage or dilute the goodwill associated with TGC's names and trademarks, (iii) the link must "point" to the URL http://www.gatorcorporation.com/ and not to other pages within TGC Web Site, (iv) the appearance, position and other attributes of the link may not create the false appearance that your organization or entity is sponsored by, affiliated with, or associated with TGC, Inc., (v) when selected by a user, the link must display TGC Web Site on full-screen and not within a "frame" on the linking web site, and (vi) TGC reserves the right to revoke its consent to the link at any time and in its sole discretion. 
+
+Scope of License. 
+TGC grants a non-exclusive, limited license, pursuant to the terms hereof, to (a) install and use the most current versions of Licensed Materials solely for the purpose of accessing and using GAIN-Supported Software available through our Web site or servers, or the Web sites and servers of our business associates, and (b) use Licensed Materials for your personal, non-commercial purposes. 
+
+License Restrictions. 
+Your license to an existing version of Licensed Materials may, at TGC's discretion, expire when new versions of Licensed Materials are released. TGC reserves the right to add additional features or functions to existing Licensed Materials, or to add new applications to the Licensed Materials, at any time. When installed on your computer, all Licensed Materials that communicate with TGC or third party servers do so as described in TGC Privacy Statement. Additionally, TGC may require the update or automatic distribution of Licensed Materials on your computer when a new version of the Licensed Materials is released to the general public, when new features are available, to deliver promotional offers, and/or to add new applications to the applications that comprise Licensed Materials. This update or new download may occur automatically or through other means. You understand that TGC and/or one of our business associates may require your review and acceptance of TGC's or their then current privacy statement and/or license agreement before you will be permitted a limited license to any subsequent versions of Licensed Materials. 
+
+Notwithstanding the foregoing, TGC and its business associates have no obligation to make available to you any subsequent versions of Licensed Materials. You may not distribute or copy (other than for backup purposes) Licensed Materials. You may not modify, reverse-engineer, decompile, disassemble, or otherwise discover or disassemble Licensed Materials equivalent of Licensed Materials in any way. You do not have the right to create derivative works of Licensed Materials, and you agree not to attempt, or allow others to attempt, to reverse engineer Licensed Materials and/or modify Licensed Materials source code. Any and all such modifications or enhancements to Licensed Materials by you, TGC, or TGC business associates remain the sole property of TGC or its business associate. You further agree not to access TGC or TGC business associate services or software application by any means other than the interface provided by TGC or such business associate to access the relevant service. Without limiting TGC's rights, you understand that TGC, in its discretion, may modify, discontinue, or suspend your right to access any of the Licensed Materials at any time. 
+
+TGC reserves all rights in Licensed Materials not expressly granted to you in this Agreement.
+
+Other Restrictions. 
+You may not rent, lend, assign, or lease Licensed Materials, but you may transfer your rights under these Terms and Conditions on a permanent basis provided (i) you transfer all copies of the Licensed Materials and these Terms and Conditions; and (ii) the recipient agrees to be bound to these Terms and Conditions. Any transfer must include the most recent product upgrade. Prior to transferring Licensed Materials you must remove the Licensed Materials to be transferred from your machine. 
+
+Ownership. 
+You agree that all Licensed Materials are licensed, not sold to you. You agree that Licensed Materials belong to TGC, including all intellectual and proprietary rights, unless otherwise specified. TGC retains all right, title and interest in and to Licensed Materials at all times, and regardless of the form or media in or on which the original or other copies may subsequently exist. Additionally, all content accessed through Licensed Materials is the property of the applicable content owner and may be protected by applicable intellectual property laws. This Agreement gives you no rights to such content. Finally, any suggestions, ideas or inventions that you voluntarily and optionally disclose to us through any means will be used, or not used, by TGC at TGC's sole discretion; and, TGC will have no obligation to you regarding any ideas or inventions that you disclose through such means.
+
+Disclaimer of Warranty. 
+USE OF Gator Supplied Materials IS AT YOUR OWN RISK. TGC PROVIDES Gator Supplied Materials ON AN "AS IS," "WHERE IS," BASIS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, OR NON-INFRINGEMENT. TGC ALSO DISCLAIMS ALL LIABILITY WITH REGARD TO YOUR VIEWING OF ANY WEB SITES THAT MAY BE LINKED FROM ANY GATOR SUPPLIED MATERIALS. THIS DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL PART OF THIS AGREEMENT. TGC MAKES NO WARRANTY THAT (i) THE Gator Supplied Materials ARE ACCURATE, TIMELY, UNINTERRUPTED OR ERROR-FREE; (ii) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE Gator Supplied Materials WILL BE RELIABLE; (iii) THE Gator Supplied Materials WILL IDENTIFY ANY IDENTITY THEFT, (iv) THE QUALITY OF ANY PRODUCTS OBTAINED OR PURCHASED THROUGH THE USE OF THE Gator Supplied Materials WILL MEET YOUR EXPECTATIONS; OR (v) ANY ERRORS IN THE Gator Supplied Materials WILL BE CORRECTED. The above exclusions may not apply in jurisdictions that do not allow the exclusion of certain implied warranties. 
+
+Limitation of Liability. 
+IN NO EVENT WILL TGC, DISTRIBUTORS, DISTRIBUTEES, SUPPLIERS, MERCHANT BUSINESS ASSOCIATES, ADVERTISERS, THIRD PARTY DEVELOPERS OR DISTRIBUTORS OF GAIN-SUPORTED SOFTWARE, OR ANY OF THE FOREGOING ENTITIES OFFICERS, DIRECTORS, EMPLOYEES, OR AGENT (COLLECTIVELY "Protected Parties") BE LIABLE FOR ANY INDIRECT DAMAGES, INCLUDING, BY WAY OF ILLUSTRATION AND NOT LIMITATION, LOST PROFITS, LOST BUSINESS OR LOST OPPORTUNITY, OR ANY INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING LEGAL FEES, ARISING OUT OF TGC PRIVACY STATEMENT, END USER LICENSE AGREEMENT, OR YOUR USE OR INABILITY TO USE Licensed Materials, OR Gator Supplied Materials EVEN IF A Protected Party HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT WILL Protected Parties MAXIMUM CUMULATIVE LIABILITY UNDER THIS AGREEMENT, OR TGC PRIVACY STATEMENT, EXCEED THE LESSER OF $100 OR THE REVENUE ACTUALLY RECEIVED BY TGC DIRECTLY ATTRIBUTABLE TO THE GAIN AdServer. 
+
+Because some states or jurisdictions do not allow the exclusion or the limitation of liability for consequential or incidental damages, in such states or jurisdictions, Protected Parties liability shall be limited to the extent permitted by law. 
+
+No Protected Parties Liability. 
+Protected Parties assume no liability hereunder for, and shall have no obligation to defend you or to pay costs, damages or attorneys' fees for, any claim arising from: (i) any method or process in which Licensed Materials may be used by you; (ii) any results of using Licensed Materials; (iii) any use of other than a current unaltered release of Licensed Materials; or (iv) the combination, operation or use of any Licensed Materials furnished hereunder with non-Licensed Materials if such infringement would have been avoided by avoidance of the combination, operation, or use of the Licensed Materials with other programs, data, or other materials. 
+
+Privacy Statement and Other Policies. 
+You agree to be bound by and comply with the TGC Privacy Statement applicable to any Licensed Materials, the privacy statements applicable to third party GAIN-Supported Software, and any other policies governing the use of Licensed Materials for which, as appropriate, you have accepted via a click-thru agreement; or have been provided notice. Visit http://www.gatorcorporation.com/help/psdocs/thirdparties.html to view a list of any third parties, if any, who set and access cookies on your computer in order to facilitate a feature or service of the GAIN AdServer or TGC GAIN-Supported Software. This list will also include links to their privacy statements.
+
+Export Controls. 
+The GAIN AdServer, GAIN-Supported Software, and the underlying information and technology may not be downloaded or otherwise exported or re-exported (i) into (or to a national or resident of) Cuba, Iraq, Libya, Yugoslavia, North Korea, Iran, Syria or any other country to which the U.S. has embargoed goods; or (ii) to anyone on the U.S. Treasury Department's list of Specially Designated Nationals or the U.S. Commerce Department's Table of Deny Orders. By downloading or using the GAIN AdServer or GAIN-Supported Software, you are agreeing to the foregoing and you represent and warrant that you are not located in, under the control of, or a national or resident of any such country or on any such list, and that you will otherwise comply with all applicable export control laws. 
+
+Applicable Law. 
+The laws of the State of California will govern this Agreement, without reference to conflicts of law principles. The parties hereby submit to the jurisdiction of, and waive any venue objections against, the state and federal courts in Santa Clara or San Mateo County, California. The United Nations Convention on Contracts for the Sale of Goods does not apply to this Agreement. 
+
+Arbitration. 
+Any claim or controversy arising out of or related to these Terms and Conditions, Licensed Materials, Gator Supplied Materials, or any GAIN-Supported Software shall be settled by binding arbitration in accordance with the rules of the American Arbitration Association. Any such claim or controversy shall be arbitrated on an individual basis and shall not be consolidated with a claim of any other party. The foregoing shall not preclude TGC from seeking any injunctive relief in State or Federal courts for protection of TGC's intellectual property rights. 
+
+Successor Agreements. 
+These Terms and Conditions may change in the future. In such case, and when appropriate, TGC will obtain your consent prior to the new document going into effect. 
+
+In most cases, TGC will provide you with an on-line pop-up window notice informing you that changes have been made to the documents and will provide you either with an active link, or inactive URL address, that you can use to view a web page containing the revised documents (or leading you to the appropriate documents). TGC will always post its most recent Privacy Statement and End User License Agreement on TGC's web site that can be accessed at http://www.gatorcorporation.com/help/psdocs/privacy-help.html. 
+
+You agree that after receipt of such change notice, you consent to TGC's revised Terms and Conditions unless you uninstall all GAIN-Supported Software from your computer, and destroy all copies of same you may have created. Failure to uninstall and destroy all GAIN-Supported Software from your computer will be deemed an acceptance of the terms of TGC's most current Terms and Conditions for which you have given your consent, or for which you have been given notice, as appropriate. Except as provided in this section, these Terms and Conditions may not be revised except in writing signed by all relevant parties. 
+
+U.S. Government Restricted Rights. 
+Licensed Materials are provided with Restricted Rights. Use, duplication, or disclosure by the United States Government is subject to restrictions set forth in subparagraph (c)(1)(ii) of The Rights in Technical Data and Computer Software clause at DFARS 252.227-7013 or subparagraphs (c)(1) and (2) of the Commercial Computer Software-Restricted Rights at 48 C.F.R. 52.227-19, as applicable. 
+
+General. 
+These Terms and Conditions, as modified from time to time as described above, and including the policies incorporated by reference, sets forth the entire understanding and agreement between you and TGC with respect to the subject matter hereof. If any provision or provisions hereof shall be held to be invalid, illegal, or unenforceable, the validity, legality, and enforceability of the remaining provisions shall not be in any way affected or impaired thereby. TGC shall not be liable for any delay or failure in performance under this Agreement or interruption of service resulting from acts of God, civil or military authority, war, labor disputes, materials provided by third parties, or any cause beyond the reasonable control of TGC. Except as described herein, you may not assign this Agreement without our explicit consent. 
+
+Effective: June 2002
+
+TGC, Gator, and GAIN are marks of The Gator Corporation.  The use of the mark Gator, alone, is strictly prohibited.
+
+Microsoft Windows is either a registered trademark or a trademark of Microsoft Corporation in the United States and/or other countries.

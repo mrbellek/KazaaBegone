@@ -1,0 +1,4 @@
+    sRegKeysCyDoor() = "HKEY_CURRENT_USER\Software\Cydoor Services"
+    sRegKeysCyDoor() = "HKEY_CURRENT_USER\Software\Cydoor"
+    sRegKeysCyDoor() = "HKEY_LOCAL_MACHINE\Software\Cydoor"
+    sRegKeysCyDoor() = "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\AdSupport_253"

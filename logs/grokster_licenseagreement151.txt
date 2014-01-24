@@ -1,0 +1,263 @@
+Legal Notice and Terms of Service for Grokster
+
+The software program you are about to install is an "adware" program, meaning that we have partnered with Cydoor Technologies to deliver small ads to the lower left corner of the main window of the application, in order for Grokster to bring targeted advertising to you. These ads will display web content such as banner ads, e-commerce offers, news headlines and other value-added content.  Cydoor Technologies created this technology, and provides it to software developers to implement in software programs.  In turn, software developers choose to display ads so that you can enjoy their products for FREE, and they can still earn revenue from advertising.  
+
+How does it work?
+
+The Cydoor component of this software is simply a caching mechanism, which stores ads on your hard drive, and displays them only while the software program is open.  When the ads have expired, the component deletes old ads and contacts Cydoor's servers in order to receive new ones. To do this, the Cydoor component uses your Internet connection, which was designed to take up the minimum bandwidth on your line. Each ad banner on your hard disc is about 10Kbytes.
+ 
+Finally, Cydoor Technologies wants you to feel comfortable using this software.  Be assured that respecting and maintaining your privacy is Grokster and Cydoor's top priority ethically and legally. If you have any questions or concerns, please visit the Cydoor website, www.cydoor.com, where you can review its privacy statement. 
+
+During installation, we will update your search button in IE to Search Gateway,
+in order to provide you with super fast & accurate search results.
+
+Use of the Grokster software and the Service is provided by Grokster, subject to the notices, terms, and conditions set forth below and on the Grokster client and Grokster web sites, including, but not limited to those in the Grokster License Agreement, the Terms of Service (as set forth below), and the Grokster Repeat Copyright Offender Policy (as set forth below). We may regularly amend these notices, terms and conditions at any time without prior notice by posting new or revised terms of use policies and other documents on the Grokster software or Grokster web sites. It is important for you to check this and other terms and conditions related to use of Grokster and other Grokster products and services from time to time. PLEASE READ THESE TERMS CAREFULLY BEFORE USING THE GROKSTER OR GROKSTER WEB SITE. USE OF GROKSTER PRODUCTS AND SERVICES CONSTITUTES YOUR ACCEPTANCE OF ALL SUCH NOTICES, TERMS AND CONDITIONS. 
+
+1. Violation of Copyright and Other Laws When Using Grokster 
+
+PLEASE NOTE THAT GROKSTER RESPECTS THE RIGHT OF COPYRIGHT OWNERS AND IS FULLY COMMITTED TO PROTECT THEIR RIGHTS. GROKSTER EXPECTS ALL GROKSTER DESKTOP USERS AND GROKSTER WEB SITE USERS TO DO THE SAME. WE, THEREFORE, ASK YOU TO PAY SPECIAL ATTENTION TO AVOID VIOLATING COPYRIGHT LAWS AND REGULATIONS. AS A CONDITION TO USE THE GROKSTER PRODUCTS AND SERVICES, YOU MUST AGREE THAT YOU WILL NOT USE GROKSTER TO INFRINGE THE INTELLECTUAL PROPERTY OR OTHER RIGHTS OF OTHERS IN ANY WAY. UNAUTHORISED COPYING, DISTRIBUTION, MODIFICATION, PUBLIC DISPLAY, OR PUBLIC PERFORMANCE OF COPYRIGHTED WORKS IS AN INFRINGEMENT OF THE COPYRIGHT HOLDERS' RIGHTS. 
+
+YOU SHOULD NOT USE THE GROKSTER'S SERVICE TO OBTAIN ANY PERSONAL INFORMATION ABOUT ANY GROKSTER USERS OR TO MODIFY, DELETE OR DAMAGE ANY INFORMATION CONTAINED ON THE PC OF ANY USER CONNECTED TO THE GROKSTER SERVICE. YOU ARE HEREBY PUT ON NOTICE THAT YOU ARE ENTIRELY RESPONSIBLE FOR YOUR CONTENT AND FOR ENSURING THAT IT COMPORTS WITH ALL APPLICABLE LAWS, INCLUDING ALL COPYRIGHT AND DATA-PROTECTION LAWS. IN CASE YOU FAIL TO COMPLY WITH LAWS REGARDING COPYRIGHTS OR OTHER INTELLECTUAL PROPERTY RIGHTS AND DATA-PROTECTION, YOU MAY, BY THE RELEVANT AUTHORITIES, BE EXPOSED TO CIVIL AND CRIMINAL LIABILITY, INCLUDING FINES AND JAIL TIME. 
+
+2. Terms of Service 
+
+If you are an adult, to use Grokster, you must first: (a) read and accept the Grokster License Agreement of which this Notice and Terms of Service are part, (b) agree to be bound by the terms of that License by pressing the 'Yes' button on the Grokster download screen and (c) pay the applicable fees, if any. 
+
+If you are a minor you will become eligible to use Grokster upon your parent: (a) reading and accepting the Grokster License Agreement of which this Notice and Terms of Service are part, (b) agreeing to be bound by the terms of that license by pressing the 'Yes' button on the Grokster download screen and (c) paying the applicable fees, if any. You understand and agree that Grokster is provided "AS-IS" and that we assume no responsibility for the failure or inaccuracy of Grokster. You are responsible for paying all applicable taxes and for all hardware, software, service and other costs you may incur in connection with your use of Grokster, and providing all equipment and software necessary to connect to our web site and to use Grokster via the Internet. We may add, delete or change some or all of our services provided in connection Grokster at any time. This may include download of necessary software modules. Any new features that augment or enhance Grokster will be subject to these notices, terms and conditions and will also be subject to all other applicable Grokster policies, terms, notices and conditions as discussed above. We may establish general practices and limits concerning use of Grokster. For example, we may limit the number of files that you may make accessible to other Grokster users or the number of files of other Grokster users that you may access. You agree to accept these general practices and limits as they may be in effect from time to time. In addition, we reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, Grokster (or any portion thereof), or your access to Grokster (or any portion thereof), for any reason or no reason, with or without notice. You agree that we will not be liable to you or to any third party for any modification, suspension or discontinuance of Grokster or your access to Grokster. 
+
+3. Agreement to Provide True, Correct and Accurate Information for Your Use of Grokster 
+
+In consideration of your use of Grokster, you agree that the information you provide to us is and will be true, correct and accurate in all respects, and you agree to update such information as necessary to keep it true, correct and accurate in all respects. If you provide any information that is not true, correct and accurate in all respects, or we have reasonable grounds to suspect that such information is not true, correct and accurate in all respects, we have the right to suspend or terminate your use of Grokster. You will be asked to establish a user name and password when registering as a Grokster user. You are responsible for maintaining the confidentiality of your password and are fully responsible for all activities that occur under your Grokster account. You agree (i) that you will not provide your Grokster password to any third party, and you will not allow any third party to access your Grokster account, (ii) to immediately notify us of any unauthorized use of your Grokster account or any other breach of security and (iii) that you will establish and maintain only one Grokster registration at a time. 
+
+4. Registration Obligations for Your Use of Grokster 
+
+GROKSTER DOES NOT CONTROL OR HAVE KNOWLEDGE OF ANY OF THE AVAILABLE CONTENT SHARED THROUGH GROKSTER. ALL CONTENT, SUCH AS MUSIC, AUDIO, VIDEO, PHOTOGRAPHS, TEXT, MESSAGES, OR OTHER MEDIA MATERIALS, WHETHER PUBLICLY POSTED OR PRIVATELY TRANSMITTED, IS THE ENTIRE RESPONSIBILITY OF THE PERSON FROM WHICH SUCH CONTENT ORIGINATED. 
+
+Grokster does not guarantee the accuracy, integrity, quality or legality of such content. You may be exposed to content that is offensive, indecent or objectionable. Under any circumstances, Grokster will not be liable in any way for any errors or omissions in any content, or for any loss or damage of any kind incurred as a result of any content transmitted via the Service. 
+
+You agree to not use the Service to: 
+
+Transmit any content that is unlawful, harmful, threatening, abusive, harassing, defamatory, vulgar, obscene, invasive of another's privacy, hateful, or racially, ethnically or otherwise objectionable; 
+
+Harm minors in any way; 
+
+Impersonate any person or entity or falsely state or otherwise misrepresent your affiliation with a person or entity; 
+
+Forge headers or otherwise manipulate identifiers in order to disguise the origin of any content transmitted through the Service; 
+
+Transmit any content that you do not have a right to transmit under any law or under contractual or fiduciary relationships (such as inside information, proprietary and confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements); 
+
+Transmit any content that infringes any patent, trademark, trade secret, copyright or other proprietary rights ("Rights") of any party; 
+
+Transmit any material that contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment; 
+
+Disrupt the normal flow of dialogue, cause a screen to "scroll" faster than other users of the Service are able to type, or otherwise act in a manner that negatively affects other users' ability to engage in real time exchanges; 
+
+Interfere with or disrupt the Service or servers or networks connected to the Service, or disobey any requirements, procedures, policies or regulations of networks connected to the Service; 
+
+Intentionally or unintentionally violate any applicable local, state, national or international law, including securities exchange and any regulations having the force of law; 
+
+"Stalk" or otherwise harass another; or 
+
+Collect or store personal data about other users. You acknowledge and agree that Grokster may preserve content and may also disclose content if required to do so by law or in the good faith belief that such preservation or disclosure is reasonable necessary to: 
+
+(a) Comply with legal process; 
+
+(b) Enforce the License Agreement; 
+
+(c) Respond to claims that any content violates the rights of third-parties; or 
+
+(d) Protect the rights, property, or personal safety of Grokster, its users and the public. 
+
+Monitor network traffic or make search requests in order to accumulate information about individual users.
+
+5. Payment and fees 
+
+Certain features of Grokster may require payment in the future. You shall pay all fees and charges incurred through your account at the rates in effect for the billing period in which such fees and charges are incurred. All fees and charges shall be billed to you, and you shall be solely responsible for their payment. You shall pay all applicable taxes relating to the use of the Service through your account. Certain portions of the Service or the Service as a whole may require a prepaid fee ("Prepaid Fee"). The Prepaid Fee, and all taxes and other fees related thereto will be paid by you in advance. In no event will you receive any portions of the Service or the Service as a whole if a Prepaid Fee is required unless Grokster receives all fees and charges payable by you, including the Prepaid Fee. If you do not pay the applicable fees within the prescribed period of time your account will be terminated immediately, without limiting Grokster's right to demand payment of fees and damages at a later time. 
+
+6. Grokster's Policy Against Child Pornography 
+
+We do not want child pornography on the Grokster Network. You should report any incidents to one of the non-profit organizations dedicated to fight the spread of child pornography. One such organization is at www.cybertipline.com. You can find a list of such organizations on http://www.meldpunt.org/NL/inhope.html. 
+
+PLEASE OBSERVE THAT, IN ADDITION TO BEING DISGUSTING, SPREADING CHILD PORNOGRAPHY IS A CRIMINAL OFFENCE IN MOST COUNTRIES. IF YOU SHARE CHILD PORNOGRAPHY, YOU RUN THE RISK OF BEING PROSECUTED, FINED OR IMPRISONED. A number of non-profit organizations and individuals are actively seeking out child pornography on the Internet and reporting the incidents to the authorities. 
+
+7. Grokster's Copyright Infringement Policy 
+
+Grokster respects and wants to protect the rights of copyright owners. We ask all users to pay special attention to avoid violating copyright laws and regulations. Unauthorized copying, distribution, modification, public display, or public performance of copyrighted works is an infringement of copyright holders' rights. You should be aware that some of the files other Grokster users designate to share may have been created or distributed without the copyright owners' authorization. Your license to use the Grokster software and access the Grokster Service is subject to the condition that you shall not infringe the intellectual property rights of others in any way. Grokster will terminate the account of any Grokster users with repeat copyright infringements. Please refer to the Grokster's Repeat Copyright Offender Policy (as set forth below). 
+
+Grokster reserves the right to unilaterally terminate the account of any person (a) upon any single act of infringement in conjunction with the use of Grokster, (b) if Grokster in its sole discretion believes that person's conduct is harmful to the interests of Grokster, other Grokster users, or other Grokster affiliate partners, or (c) for any other reason in Grokster's sole discretion, with or without cause. 
+
+If you are a copyright owner or are authorized to act on behalf of one and find that a Grokster user is infringing your copyright work, please make contact with us directly at abuse@Grokster.com.
+
+Grokster is technically not able to monitor the information users transmit or store via the Grokster network. Even if Grokster were in the position to monitor the information users transmit or store, which it is not, Grokster is not obliged under law to conduct such monitoring. To the contrary, monitoring users in any communications network would amount to an infringement of their privacy. We, however, are required by law, to comply with requests by judicial authorities for information about our users, in accordance with national legislation to safeguard national security, defense, and public security and for the prevention, investigation, detection and prosecution of criminal and civil offences. 
+
+8. Grokster's Repeat Copyright Offender Policy 
+
+Grokster will terminate the accounts of users who violate copyrights or other intellectual property rights of third parties if we receive "actual knowledge" of their infringing activities. "Actual knowledge" means a ruling from a judge stating that the user has infringed copyrights or other intellectual property rights. Those users deemed "repeat offenders" by Grokster will have their Grokster account permanently cancelled. Our repeat offender policy is as follows: 
+
+If any Grokster user who has been the subject of a complaint from or on behalf of a content owner that submits a detailed letter in writing stating a name and sufficient facts of repeat copyright infringement, we shall contact directly the user asking either (a) to stop violating copyright laws or (b) file a counter-argument in case the user feels that one has been unrightfully accused. 
+
+If the repeat copyright offender does not reply in writing within 48 hours after our notification, we shall permanently terminate the account without prior notice. 
+
+If the repeat copyright offender chooses not to comply, the copyright holder may sue the offender for copyright infringement directly. 
+
+Any Grokster user who has had its account terminated shall not be permitted to re-register to Grokster at any time. 
+
+Each Grokster user is allowed to have only one active registration or account at any given time. Any Grokster user found to have more than one active registration or account at any time shall have all their Grokster accounts permanently cancelled. 
+
+Grokster will enforce this policy to the extent it is technically feasible to do so. 
+
+In the event that a court of law holds that a Grokster user eliminated from Grokster under this policy did not in fact infringe another's rights or otherwise violate the law, Grokster may re-institute such person's account, upon receipt of the applicable court judgment or order. 
+
+9. License
+
+The Grokster Media Desktop software and documentation accompanying this License whether on disk, in read only memory, on any other media or in any other form are licensed to you by Grokster. You own the media on which the Grokster Desktop software is recorded but Grokster retains title to the Grokster Media Desktop software. The Grokster Desktop software in this package or that you have downloaded, as applicable, and any copies which this License authorizes you to make are subject to this License. 
+
+This License allows you to install and use the Grokster Desktop software on a single computer. This License does not permit you to install the software on more than one computer at a time. You may make one copy of the Grokster Desktop software in machine-readable form for backup purposes only. The backup copy must include all copyright information contained on the original. 
+
+Except as expressly permitted in this License, you agree not to reverse engineer, de-compile, disassemble, alter, duplicate, modify, rent, lease, loan, sublicense, make copies, create derivative works from, distribute or provide others with the Grokster software in whole or part or transmit the application over a network. You may, however, transfer your rights under this License provided you transfer the related documentation, this License and a copy of the Grokster software to a party who agrees to accept the terms of this License and destroy any other copies of the Grokster software in your possession. Your rights under this License will terminate automatically without prior notice from Grokster if you fail to comply with any term(s) of this License. 
+
+By accepting the terms of this License Agreement you agree that Grokster is permitted to limit, deny, create different priorities to different users, update or cancel some or all of the functionality of this application at any time, without prior notice. 
+
+10. Grokster's Right to Run Advertising Without Compensation to Users 
+
+Grokster reserves the right to run advertisements and promotions on all pages of the Grokster web sites and the Grokster client. By accessing your Grokster and Grokster accounts, you agree that we have the right to run such advertisements and promotions without compensation to you. The timing, frequency, placement and extent of advertising by us within the pages comprising your Grokster account is subject to change and shall be determined by us in our sole discretion. Your correspondence or business dealings with, or participation in promotions of, advertisers found on or through the Grokster web sites or Grokster client, including payment and delivery of related goods or services, and any other terms, conditions, warranties or representations associated with such dealings, are solely between you and such advertiser. You agree that Grokster will not be responsible or liable for any loss or damage of any sort incurred as the result of any such dealings or as the result of the presence of such advertisers on the Grokster web sites or Grokster. 
+
+11. Links to Third-Party Sites 
+
+The Grokster client and website may provide, or third parties may provide, links to other World Wide Web sites or other Internet resources. Any third-party sites to which Grokster may link are not under control of Grokster. Grokster does not have any responsibility or liability for any information, contents, communications or materials available on such third-party sites. 
+
+12. Third Party Software 
+
+During the process of installing Grokster, you may also be offered the possibility to download or install software from third party software vendors pursuant to license agreements or other arrangements between such vendors and yourself ("Third Party Software"). In the event you do not wish to download this THIRD PARTY SOFTWARE you should uncheck the appropriate boxes. Please note that the THIRD PARTY SOFTWARE is subject to different license agreements or other arrangements, which you should read carefully, compared to the Terms of Service of Grokster. By downloading and using this THIRD PARTY SOFTWARE you accept these THIRD PARTY SOFTWARE license agreements or other arrangements and acknowledge that you have read them and understand them. Grokster does not sell, resell, or license any of this THIRD PARTY SOFTWARE, and Grokster disclaims to the maximum extent permitted by applicable law, any responsibility for or liability related to the THIRD PARTY SOFTWARE. Any questions, complaints or claims related to the THIRD PARTY SOFTWARE should be directed to the appropriate vendor. 
+
+THE THIRD PARTY SOFTWARE IS PROVIDED BY GROKSTER "AS IS" AND "WITH ALL FAULTS". GROKSTER MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE QUALITY, SAFETY OR SUITABILITY OF THIS SOFTWARE, EITHER EXPRESS OR IMPLIED; INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL GROKSTER BE LIABLE FOR ANY INDIRECT, PUNITIVE, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES HOWEVER THEY MAY ARISE AND EVEN IF GROKSTER HAS BEEN PREVIOUSLY ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+
+There are inherent dangers in the use of any software available for downloading on the Internet, and Grokster cautions you to make sure that you completely understand the potential risks before downloading any of the THIRD PARTY SOFTWARE. You are solely responsible for adequate protection and backup of the data and equipment used in connection with any of the THIRD PARTY SOFTWARE, and Grokster will not be liable for any damages that you may suffer in connection with using, modifying or distributing any of the THIRD PARTY SOFTWARE. 
+
+13. Applicable law 
+
+This Legal and Terms of Service as well as all disputes arising out of or in connection with this terms shall be governed by the laws of Nevis, without regard to or application of choice of law rules or principles. 
+
+Any dispute arising out of or in connection with this Legal and Terms of Service, or in future agreements resulting there from, shall be exclusively resolved before the competent court in Nevis. 
+
+14. Special Admonitions for International Use 
+
+Recognizing the global nature of the Internet, you agree to comply with all local rules regarding online conduct and acceptable content. Specifically, you agree to comply with all applicable laws regarding copyright and the transmission of technical data exported from the country in which you reside. 
+
+15. Indemnification 
+
+Grokster users must agree to indemnify and hold Grokster, and its subsidiaries, affiliates, officers, agents, co-branders or other partners, and employees, harmless from any claim or demand, including reasonable attorneys' fees, made by any third party due to or arising out of content you submit, post to or transmit through the Service, your use of the Service, your connection to the Service, your violation of these notices, terms and conditions, or your violation of any rights of another. 
+
+BY USING GROKSTER, YOU ACKNOWLEDGE THAT YOU HAVE READ AND AGREE TO BE BOUND BY THESE NOTICES, TERMS AND CONDITIONS. YOU FURTHER AGREE THAT THE GROKSTER SOFTWARE AGREEMENT, WHICH INCLUDES THIS GROKSTER LEGAL NOTICE AND TERMS OF SERVICE AND THE OTHER POLICIES AND DOCUMENTS POSTED ON THE GROKSTER AND THE GROKSTER WEB SITES, WHICH MAY BE MODIFIED FROM TIME TO TIME BY GROKSTER, AND ANY OTHER MATERIALS EXPRESSLY INCORPORATED HEREIN BY REFERENCE, ARE THE COMPLETE AND EXCLUSIVE STATEMENT OF THE RIGHTS AND LIABILITIES OF THE PARTIES, AND SUPERSEDE ANY AND ALL PRIOR AND CONTEMPORANEOUS WRITTEN OR ORAL AGREEMENTS EXISTING BETWEEN THE PARTIES WITH RESPECT TO SUCH SUBJECT MATTER. 
+
+16. No Resale or Service 
+None of Grokster's users is allowed to reproduce, duplicate, copy, sell, resell or exploit for any commercial purposes, any portion of the Service, use of the Service, or access to the Service. 
+
+17. Modifications to or Suspension of Service 
+
+Grokster reserves the right to modify or discontinue the Service temporarily or permanently, at any time, with or without notice. Grokster will attempt to provide reasonable notice of such changes to the services or the site. 
+
+18. Grokster's Proprietary Rights 
+
+The Grokster name, the Grokster logo, and other Grokster related properties are trademarks of Grokster. All other trademarks appearing on the Service are trademarks of their respective owners. 
+
+19. Disclaimer of Warranties 
+
+The services, content, audio transmissions or other data of any kind or nature made available at the site are provided on an "AS IS" and "AS AVAILABLE" basis or at the specific providers own terms. All representations and warranties, either express or implied are disclaimed, including but not limited to, warranties of title, non-infringement, merchantability or fitness for a particular purpose. Grokster makes no warranty, representation or guaranty as to the content, accuracy, timeliness or completeness of the site or the information or that the information may be relied upon for any reason. Any material downloaded through the service is done at your own discretion and risk and that you will be solely responsible for any damage to your computer system or loss of data that results from the download or use of any such material. 
+
+20. Limitation of Liability 
+
+You understand and agree that Grokster shall not be liable for any direct, indirect, incidental, special, consequential, or exemplary damages, including but not limited to damages for loss of profits, goodwill, use, data or other intangible losses, resulting from: 
+
+(i) The use or the inability to use the service; 
+
+(ii) The cost of procurement of substitute goods, data, information or services purchased or obtained or messages received or transactions entered into through or from the service; 
+
+(iii) Unauthorized access to or alteration of your transmissions or data; 
+
+(iv) Statements or conduct of any third party on the service; or 
+
+(v) Any other matter relating to the service. 
+
+21. Willful misconduct and death or injury 
+
+The limitation of liability referred to in article 18 shall not apply in the event of (i) willful misconduct or gross negligence on the part of Grokster and/or (ii) in the event of claims for compensation as a result of death or injury. However, in no event shall Grokster's total liability to you for all damages exceed the amount of a $100.
+
+22. Notice 
+
+The Service may provide notices of changes to the License Agreement or other matters by displaying notices or links to notices to you generally on the Service. 
+
+You are obliged to update you knowledge hereto continuously. Lack of knowledge does not imply that these terms are not accepted by you. 
+
+23. Miscellaneous 
+
+These Terms of Service constitute the entire understanding of you and Grokster with respect to the subject matter hereof. There are no understandings, agreements, conditions or representations, oral or written, express or implied, with reference to the subject matter hereof that are not merged herein, expressly referenced herein, or superseded hereby. 
+
+You also may be subject to additional terms and conditions that may apply when you use affiliate services, third-party content or third-party software. 
+
+The failure or delay of Grokster to exercise or enforce any rights or provision of the Terms of Service may not constitute a waiver of such right or provision. 
+
+All provisions which must survive in order to give effect to their meaning, shall survive any expiration or termination of these Terms of Service, including without limitation all of your representations, warranties and indemnification obligations. 
+
+Should any part of these Terms of Service be held invalid by any court or tribunal, such invalidity shall not affect the validity of any remaining part, which will remain in full force and effect as if these Terms of Service had been executed without that part having been held to be invalid.
+
+January 2002
+
+------------------------------
+
+Grokster may come bundled with new.net. Its terms and conditions are:
+
+This Software Use Agreement (this "Agreement" governs your use of the software produced by or on behalf of New.net™, Inc. ("New.net") which you are installing or install (including any updates, enhancements or upgrades thereto) (the "Product"). Please read this Agreement carefully because it constitutes a legally binding contract between you and New.net and governs your use of the Product. In addition, should you choose to access and/or use New.net's web site which has its homepage located at www.new.net (the "Site"), such access and use will be governed by the Site's policies and agreements in effect at that time. 
+
+1. Address and Contact Information.
+New.net is a Delaware corporation. New.net's business address is: 130 West Union Street, Pasadena, CA 91103. You may send email to New.net at info@new.net.
+
+
+2. Acceptance of Terms, Agreement.
+By installing the Product, you agree to be bound by all of the terms and conditions stated in this Agreement . If you do not wish to be bound by this Agreement, you must not install or otherwise access the Product. New.net may amend this Agreement at any time without notice and such modifications shall be deemed effective immediately upon posting on the Site the modified terms or this Agreement as so modified. You should review the Site from time to time to look for any such modified terms. Your continued access to or use of the Product shall be deemed conclusive acceptance by you of the modified terms of this Agreement. If any changes or modifications to this Agreement are unacceptable to you, you must cease using the Product. Should a conflict between this Agreement as set forth here and this Agreement as posted to the Site arise, you understand and agree that the Agreement as posted on the Site will control and govern your use of the Product. 
+
+
+3. Rights; Restrictions; Ownership.
+This Agreement allows you to use the Product. New.net grants to you a nonexclusive, nontransferable, royalty-free license permitting you to download and install the Product solely for your personal use. The rights granted to you by New.net shall not be assigned, sublicensed or otherwise conveyed or transferred by you to any other person, organization or entity. Any rights not expressly granted to you herein by New.net are reserved. You shall not decompile, reverse engineer, disassemble, or otherwise reduce the Product to a human-perceivable form. You shall not modify, sell, rent, transfer, resell, distribute, duplicate, reproduce, copy, license or modify, or create derivative works based upon, the Product or any part thereof. You will not export or re-export, directly or indirectly, the Product into any country prohibited by the United States Export Administration Act and the regulations thereunder. The foregoing license gives you limited rights to use the Product. You do not become the owner of the Product. As between you and New.net, New.net retains all title to the Product and all copies thereof. All rights not specifically granted in this Agreement are reserved by New.net. You acknowledge and agree that New.net holds all rights to, title to and interest in all tangible and intangible incidents of the Product, including all patents, copyrights and trade secrets pertaining thereto, and that this Agreement conveys to you only a limited right to access and use the Product. You acknowledge that the Product, including, without limitation, all code therein, contains proprietary and confidential information, are owned by New.net, and are protected by applicable intellectual property and other laws. You shall not infringe or violate any such rights or laws.
+
+4. Automatic Update Feature.
+The Product may automatically communicate with New.net's, or third party's, servers on the Internet to check for and install updates to the Product, such as bug fixes, patches, enhanced functions, and new versions. You consent to your receipt and installation of all of the foregoing and agree that all of the foregoing shall be governed by this Agreement, unless other terms are provided with the update.
+
+
+5. Content.
+You understand that all content, including, without limitation all data, links, articles, graphic or video messages and all information, text, software, music, sound, graphics or other materials ("Content") made available through the Product, whether publicly posted or privately transmitted, are the sole responsibility of the person from which such Content originated. You understand and agree that by using the Product you may be exposed to Content that is offensive, indecent or objectionable. You agree that you must evaluate and bear all risks associated with the use of any Content, including any reliance on the accuracy or completeness of such Content. Under no circumstances will New.net be liable in any way for any Content, including, but not limited to, for any errors or omissions in any Content, or for loss or damage of any kind incurred as a result of the use of any Content posted or transmitted via the Product.
+
+
+6. Privacy.
+New.net does not collect any Personally Identifiable Information about you via the Product. "Personally Identifiable Information" means information that would allow the collector to determine, without reference to any other information, your name, address or telephone number. However, New.net may collect non-personally identifiable technical or distribution information that may include, without limitation, information regarding your Internet service provider, the IP address or other source from which the Product was downloaded or installed, and certain operating metrics such as which Product number belongs to your Product.
+
+
+7. Modifications to Product or Site; Termination.
+New.net has the right at any time to disable, modify or discontinue, temporarily or permanently, the Site or the Product (or any part thereof), or the term of the license granted by this Agreement, with or without notice or obligation to you or any third party. You agree that New.net shall not be liable to you or to any third party for any modification, suspension or discontinuance of the Site, the Product or any license.
+
+
+8. THIRD PARTIES.
+YOU AGREE AND UNDERSTAND THAT ANY THIRD PARTY SOFTWARE, INCLUDING ANY THIRD PARTY'S PLUG-IN, THAT MAY BE PRO VIDED WITH THE PRODUCT IS INCLUDED FOR USE AT YOUR OPTION. IF YOU CHOOSE TO USE SUCH THIRD PARTY SOFTWARE, THEN SUCH USE SHALL BE GO VERNED BY SUCH THIRD PARTY'S LICENSE AGREEMENT OR OTHER CONTRACT. NEW.NET IS NOT RESPONSIBLE FOR ANY THIRD PARTY'S SOFTWARE, PRODUCT S, OR SERVICES AND SHALL HAVE NO LIABILITY FOR YOUR USE OF THIRD PARTY SOFTWARE, PRODUCTS, OR SERVICES.
+
+
+9. WAIVER OF CLAIMS; LIMITATION OF LIABILITY; NO WARRANTIES.
+BY INSTALLING, DOWNLOADING OR USING THE PRODUCT, YOU HEREBY AND FOREVER WAIVE ANY AND ALL CLAIMS YOU HAVE NOW OR MAY HAVE IN THE FUTURE AGAINST NEW.NET RELATING TO YOUR DOWNLOAD, INSTALLATION OR USE OF THE PRODUCT. YOU HEREBY WAIVE ANY CLAIM THAT THE FOREGOING LIMITATION OF LIABILITY DEPRIVES YOU OF AN ADEQUATE REMEDY. YOUR SOLE REMEDY FOR DISSATISFACTION WITH THE PRODUCT IS TO STOP USING THE PRODUCT. YOU SPECIFICALLY AGREE THAT NEW.NET SHALL NOT BE LIABLE FOR LOSSES OR LIABILITIES ARISING IN CONNECTION WITH YOUR DOWNLOAD, INSTALLATION OR USE OF THE PRODUCT, INCLUDING, BUT NOT LIMITED TO LOSS OR LIABILITY: (A) ARISING IN CONNECTION WITH SOFTWARE CONFLICTS RELATED TO THE PRODUCT; (B) RESULTING FROM DATA NON-DELIVERY, DATA MIS-DELIVERY OR UNAUTHORIZED ACCESS TO TRANSMISSIONS OR DATA; (C) ARISING IN CONNECTION WITH YOUR INFRINGEMENT OF A THIRD PARTY'S RIGHT; OR (D) RESULTING FROM DEFECTS OR VIRUSES IN, OR DISTRIBUTED WITH, THE PRODUCT. WITHOUT LIMITING THE FOREGOING, NEW.NET SHALL NOT BE LIABLE TO YOU FOR ANY ACTUAL, DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR PUNITIVE DAMAGES OR LOST OR IMPUTED PROFITS OR ROYALTIES ARISING OUT OF OR RE LATING IN ANY WAY TO THE PRODUCT OR THIS AGREEMENT, IRRESPECTIVE OF WHETHER YOU HAVE ADVISED NEW.NET OF THE POSSIBILITY OF ANY SUCH LOSS OR DAMAGE. THE PRODUCT IS PROVIDED "AS IS" AND "AS AVAILABLE" WITH NO TECHNICAL SUPPORT OR REPRESENTATIONS OR WARRANTIES OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, SYSTEM INTEGRATION, TITLE AND NON-INFRINGEMENT.
+
+
+10. Indemnification.
+You agree to release, indemnify, defend and hold harmless New.net, its parent, shareholders, subsidiaries, affiliates, officers, directors, employees, agents and advisors, from and against any and all losses, liabilities, claims (including claims without legal merit or brought in bad faith), demands, damages, costs or expenses, causes of action, suits, proceedings, judgments, awards, executions and liens, including reasonable attorneys' fees and costs (whether brought by third parties or otherwise) due to or arising out of your use, installation or download of the Product or your breach of this Agreement. New.net reserves the right, at its own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you hereunder, and in such event, you shall have no further obligation to provide indemnification for such matter.
+
+
+11. Notice to Government End Users.
+The Software and Documentation are "Commercial Items," as that term is defined at 48 C.F.R. § 2.101, consisting of "Commercial Computer Software" and "Commercial Computer Software Documentation," as such terms are used in 48 C.F.R. §12.212 or 48 C.F.R. §227.7202, as applicable. Consistent with 48 C.F.R. §12.212 or 48 C.F. R. §§227.7202-1 through 227.7202-4, as applicable, the Commercial Computer Software and Commercial Computer Software Documentation are being licensed to U.S. Government end users (A) only as Commercial Items and (B) with only those rights as are granted to all other end users pursuant to the terms and conditions herein.
+
+
+12. Limited Distribution and Territorial Considerations.
+New.net controls and operates the Product from its offices within the State of California, U.S.A., and all transactions conducted regarding the Product are conducted in the State of California. New.net makes no representation that materials in the Product are appropriate or available for use in other locations. Those users who choose to access the Product from other locations do so on their own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable. European Union users understand and consent to the processing of personal information (if any) in the United States. Use of or access to the Product should not be construed as the purposeful availment of the benefits or privilege of doing business in any state other than the State of California by New.net.
+
+
+13. General Provisions.
+If any part of this Agreement is determined to be invalid or unenforceable pursuant to applicable law including, but not limited to, the warranty disclaimers and liability limitations set forth above, then the invalid or unenforceable provision will be deemed superseded by a valid, enforceable provision that most closely matches the intent of the original provision and the remainder of the Agreement shall continue in effect. If no enforceable provision can be substituted, then that provision shall be deemed severable from the Agreement and shall not affect the validity and enforceability of any remaining provisions. This Agreement shall be governed by, construed and enforced in accordance with the laws of the State of California, without regard to conflicts of law principles. With respect to all matters pertaining to this Agreement or the Product, you shall bring all actions, and you consent to jurisdiction, in either the state or federal courts located in Los Angeles County, California. This Agreement will not be governed by the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded. Use of the Product is unauthorized in any jurisdiction that does not give effect to all provisions of this Agreement, including without limitation this paragraph.
+
+

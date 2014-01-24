@@ -1,0 +1,141 @@
+?		HKCR\MSIEDe1egate.Application.1
+Other		HKLM\Software\Microsoft\Protected Storage System Provider\leo\Data\4d1fa410-6fd9-11d0-8c58-00c04fd9126b
+Kazaa (252)	HKLM\Software\Microsoft\Windows\CurrentVersion\Uninstall\{063E40F4-BA97-42CD-AD8A-21E495916231}
+
+---
+
+Other (Kazaa)	c:\Program Files\InstallShield Installation Information\{063E40F4-BA97-42CD-AD8A-21E495916231}
+?		c:\win98\cache329
+Kazaa		c:\win98\Start Menu\Programs\Kazaa Media Desktop
+CyDoor		c:\win98\SYSTEM\AdCache
+?		c:\win98\TEMP\ADMCache
+
+---
+
+=Kazaa=
+c:\Program Files\InstallShield Installation Information\{063E40F4-BA97-42CD-AD8A-21E495916231}\data1.cab
+c:\Program Files\InstallShield Installation Information\{063E40F4-BA97-42CD-AD8A-21E495916231}\data1.hdr
+c:\Program Files\InstallShield Installation Information\{063E40F4-BA97-42CD-AD8A-21E495916231}\layout.bin
+c:\Program Files\InstallShield Installation Information\{063E40F4-BA97-42CD-AD8A-21E495916231}\setup.boot
+c:\Program Files\InstallShield Installation Information\{063E40F4-BA97-42CD-AD8A-21E495916231}\setup.exe
+c:\Program Files\InstallShield Installation Information\{063E40F4-BA97-42CD-AD8A-21E495916231}\setup.ilg
+c:\Program Files\InstallShield Installation Information\{063E40F4-BA97-42CD-AD8A-21E495916231}\setup.ini
+c:\Program Files\InstallShield Installation Information\{063E40F4-BA97-42CD-AD8A-21E495916231}\setup.inx
+c:\Program Files\InstallShield Installation Information\{063E40F4-BA97-42CD-AD8A-21E495916231}\_setup.dll
+c:\Program Files\Kazaa\Db\tsi3-040521.cab
+c:\Program Files\Kazaa\plugins\java.cvd
+c:\Program Files\Kazaa\plugins\na.cvd
+c:\Program Files\Kazaa\plugins\unpack.ivd
+c:\Program Files\Kazaa\plugins\update.txt
+=Kazaa=
+c:\win98\Application Data\Microsoft\Internet Explorer\Quick Launch\Launch Kazaa Media Desktop.lnk
+=?=
+c:\win98\cache329\B_329_0_1_520400.gif
+c:\win98\cache329\B_329_0_1_663600.gif
+c:\win98\cache329\B_329_0_1_711800.gif
+c:\win98\cache329\B_329_0_2_677800.gif
+c:\win98\cache329\B_329_0_2_678500.gif
+c:\win98\cache329\B_329_0_2_680000.gif
+c:\win98\cache329\B_329_2_1_520400.gif
+c:\win98\cache329\B_329_2_1_663600.gif
+c:\win98\cache329\B_329_2_1_711800.gif
+c:\win98\cache329\B_329_2_2_677800.gif
+c:\win98\cache329\B_329_2_2_678500.gif
+c:\win98\cache329\B_329_2_2_680000.gif
+c:\win98\cache329\B_329_3_1_520400.gif
+c:\win98\cache329\B_329_3_1_663600.gif
+c:\win98\cache329\B_329_3_1_711800.gif
+c:\win98\cache329\B_329_3_2_677800.gif
+c:\win98\cache329\B_329_3_2_678500.gif
+c:\win98\cache329\B_329_3_2_680000.gif
+c:\win98\cache329\B_329_4_1_506300.htm
+c:\win98\cache329\B_329_4_1_622900.htm
+c:\win98\cache329\B_329_4_1_669500.htm
+c:\win98\cache329\B_329_4_1_711700.htm
+c:\win98\cache329\B_329_4_1_780800.htm
+c:\win98\cache329\B_329_4_1_784400.htm
+c:\win98\cache329\B_329_4_2_503500.htm
+c:\win98\cache329\B_329_4_2_730500.htm
+c:\win98\cache329\B_329_4_2_784300.htm
+c:\win98\cache329\B_500600.htm
+c:\win98\cache329\B_557000.htm
+c:\win98\cache329\B_563200.htm
+c:\win98\cache329\B_637900.htm
+c:\win98\cache329\B_670400.htm
+c:\win98\cache329\B_782900.htm
+c:\win98\cache329\t_B_329_4_1_506300.htm
+c:\win98\cache329\t_B_329_4_1_622900.htm
+c:\win98\cache329\t_B_329_4_1_669500.htm
+c:\win98\cache329\t_B_329_4_1_711700.htm
+c:\win98\cache329\t_B_329_4_1_780800.htm
+c:\win98\cache329\t_B_329_4_1_784400.htm
+c:\win98\cache329\t_B_329_4_2_503500.htm
+c:\win98\cache329\t_B_329_4_2_730500.htm
+c:\win98\cache329\t_B_329_4_2_784300.htm
+c:\win98\cache329\t_B_500600.htm
+c:\win98\cache329\t_B_557000.htm
+c:\win98\cache329\t_B_563200.htm
+c:\win98\cache329\t_B_637900.htm
+c:\win98\cache329\t_B_670400.htm
+c:\win98\cache329\t_B_782900.htm
+=Kazaa=
+c:\win98\Desktop\Kazaa Media Desktop.lnk
+c:\win98\Desktop\Kazaa Promotions.url
+c:\win98\Desktop\My Shared Folder.url
+=?=
+c:\win98\Readme.txt
+=Kazaa=
+c:\win98\Start Menu\Programs\Kazaa Media Desktop\Kazaa Media Desktop.lnk
+c:\win98\Start Menu\Programs\Kazaa Media Desktop\Kazaa Website.url
+=CyDoor=
+c:\win98\SYSTEM\AdCache\B_329_0_1_520400.gif
+c:\win98\SYSTEM\AdCache\B_329_0_1_663600.gif
+c:\win98\SYSTEM\AdCache\B_329_0_1_711800.gif
+c:\win98\SYSTEM\AdCache\B_329_0_2_677800.gif
+c:\win98\SYSTEM\AdCache\B_329_0_2_678500.gif
+c:\win98\SYSTEM\AdCache\B_329_0_2_680000.gif
+c:\win98\SYSTEM\AdCache\B_329_2_1_520400.gif
+c:\win98\SYSTEM\AdCache\B_329_2_1_663600.gif
+c:\win98\SYSTEM\AdCache\B_329_2_1_711800.gif
+c:\win98\SYSTEM\AdCache\B_329_2_2_677800.gif
+c:\win98\SYSTEM\AdCache\B_329_2_2_678500.gif
+c:\win98\SYSTEM\AdCache\B_329_2_2_680000.gif
+c:\win98\SYSTEM\AdCache\B_329_3_1_520400.gif
+c:\win98\SYSTEM\AdCache\B_329_3_1_663600.gif
+c:\win98\SYSTEM\AdCache\B_329_3_1_711800.gif
+c:\win98\SYSTEM\AdCache\B_329_3_2_677800.gif
+c:\win98\SYSTEM\AdCache\B_329_3_2_678500.gif
+c:\win98\SYSTEM\AdCache\B_329_3_2_680000.gif
+c:\win98\SYSTEM\AdCache\B_329_4_1_506300.htm
+c:\win98\SYSTEM\AdCache\B_329_4_1_622900.htm
+c:\win98\SYSTEM\AdCache\B_329_4_1_669500.htm
+c:\win98\SYSTEM\AdCache\B_329_4_1_711700.htm
+c:\win98\SYSTEM\AdCache\B_329_4_1_780800.htm
+c:\win98\SYSTEM\AdCache\B_329_4_1_784400.htm
+c:\win98\SYSTEM\AdCache\B_329_4_2_503500.htm
+c:\win98\SYSTEM\AdCache\B_329_4_2_730500.htm
+c:\win98\SYSTEM\AdCache\B_329_4_2_784300.htm
+c:\win98\SYSTEM\AdCache\B_500600.htm
+c:\win98\SYSTEM\AdCache\B_557000.htm
+c:\win98\SYSTEM\AdCache\B_563200.htm
+c:\win98\SYSTEM\AdCache\B_637900.htm
+c:\win98\SYSTEM\AdCache\B_670400.htm
+c:\win98\SYSTEM\AdCache\B_782900.htm
+c:\win98\SYSTEM\cd_clint.dll
+=?=
+c:\win98\TEMP\$bb.html
+c:\win98\TEMP\3641B9.TMP
+c:\win98\TEMP\873101.TMP
+c:\win98\TEMP\ADMCache\adm6343.TMP
+c:\win98\TEMP\ADMCache\adm7095.TMP
+c:\win98\TEMP\ADMCache\adm7190.TMP
+=?=
+c:\win98\TEMP\bundle.inf
+c:\win98\TEMP\m8g39040521.tmp
+c:\win98\TEMP\matchnet.ico
+c:\win98\TEMP\mySetp.exe
+c:\win98\TEMP\netflix.ico
+c:\win98\TEMP\readme.ico
+c:\win98\TEMP\readme.txt
+c:\win98\TEMP\shop.ico
+c:\win98\TEMP\tiscali_it_2.ico

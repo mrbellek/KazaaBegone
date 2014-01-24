@@ -1,0 +1,43 @@
+// MyWay styff
+// 30/07/06
+// Taken from Kazaa 2.5.2, 2.6.0, 2.6.2, 2.6.3
+
+MywayProcess=%TEMPDIR%\mySetp.exe
+
+MywayRegkey=HKCR\CLSID\{0494D0DE-F8E0-41ad-92A3-14154ECE70AC}
+
+MywayFolder=%PROGRAMFILES%\MyWay
+
+MywayFile=%TEMPDIR%\mySetp.exe
+
+// =====
+// myway
+// =====
+MywayRegval=HKCU\Software\Netscape\Netscape Navigator\Automation Shutdown,MyWayToolBar.NetscapeShutdown.1
+MywayRegval=HKCU\Software\Netscape\Netscape Navigator\Automation Startup,MyWayToolBar.NetscapeStartup.1
+MywayRegkey=HKCR\CLSID\{014DA6C9-189F-421a-88CD-07CFE51CFF10}
+MywayRegkey=HKCR\CLSID\{014DA6CD-189F-421a-88CD-07CFE51CFF10}
+MywayRegkey=HKCR\CLSID\{0494D0D1-F8E0-41ad-92A3-14154ECE70AC}
+MywayRegkey=HKCR\CLSID\{0494D0D2-F8E0-41ad-92A3-14154ECE70AC}
+MywayRegkey=HKCR\CLSID\{0494D0D3-F8E0-41ad-92A3-14154ECE70AC}
+MywayRegkey=HKCR\CLSID\{0494D0D5-F8E0-41ad-92A3-14154ECE70AC}
+MywayRegkey=HKCR\CLSID\{0494D0D7-F8E0-41ad-92A3-14154ECE70AC}
+MywayRegkey=HKCR\CLSID\{0494D0D9-F8E0-41ad-92A3-14154ECE70AC}
+MywayRegkey=HKCR\CLSID\{0494D0DB-F8E0-41ad-92A3-14154ECE70AC}
+
+// myway
+MywayRegkey=HKCR\CLSID\{66FC8717-EFA7-4546-8C4A-E224F3A80C76}
+MywayRegkey=HKCR\Interface\{0494D0D4-F8E0-41AD-92A3-14154ECE70AC}
+MywayRegkey=HKCR\Interface\{0494D0D6-F8E0-41AD-92A3-14154ECE70AC}
+MywayRegkey=HKCR\Interface\{0494D0DA-F8E0-41AD-92A3-14154ECE70AC}
+MywayRegkey=HKCR\Interface\{0494D0DC-F8E0-41AD-92A3-14154ECE70AC}
+MywayRegkey=HKCR\MyWayToolBar.NetscapeShutdown
+MywayRegkey=HKCR\MyWayToolBar.NetscapeShutdown.1
+MywayRegkey=HKCR\MyWayToolBar.NetscapeStartup
+MywayRegkey=HKCR\MyWayToolBar.NetscapeStartup.1
+MywayRegkey=HKCR\MyWayToolBar.SettingsPlugin
+MywayRegkey=HKCR\MyWayToolBar.SettingsPlugin.1
+MywayRegkey=HKCR\TypeLib\{0494D0D0-F8E0-41AD-92A3-14154ECE70AC}
+MywayRegkey=HKLM\Software\Microsoft\Windows\CurrentVersion\explorer\Browser Helper Objects\{0494D0D1-F8E0-41ad-92A3-14154ECE70AC}
+MywayRegkey=HKLM\Software\Microsoft\Windows\CurrentVersion\Uninstall\My Way Speedbar Uninstall
+MywayRegkey=HKLM\Software\MyWay

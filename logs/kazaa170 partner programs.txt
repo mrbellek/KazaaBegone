@@ -1,0 +1,83 @@
+We have partnered with selected software companies to offer you useful additional software. In the next screen you can opt out of installing any of these. By installing each program you accept the Terms Of Use and the Privacy Policy for that program. You can find the terms for each program below.
+
+========================================
+B3D PROJECTOR - Add to KaZaA brilliant video & hi-fi sound with the world's most popular 3D video player.
+
+Terms of Use : http://www.brilliantdigital.com/content.asp?ID=783
+Privacy Policy : http://www.brilliantdigital.com/content.asp?ID=780
+
+========================================
+MEDIALOADS - A great new way to download media to your computer.
+
+Terms Of Use :  http://www.medialoads.com/softwarelicense.html 
+Privacy Policy : http://www.medialoads.com/privacy.html
+
+========================================
+NEW.NET - A browser plug-in to access new cool domains, like .mp3, .sport etc.
+
+Terms Of Use :  http://www.new.net/policies_software.tp
+Privacy Policy : http://www.new.net/policies_privacy.tp
+
+========================================
+SAVENOW - A plug-in for great shopping offers (US Only) (See also below).
+
+Terms Of Use :  http://www.whenu.com/snla.html
+Privacy Policy : http://www.whenu.com/about_savenow.html
+
+========================================
+
+Icon Drops
+
+The icons in V1.7 have been hand picked to offer quality products and opportunities to save money. 
+
+1. Earn Cash - This offer redirects you to companies who offer excellent bonuses when you shop.
+
+2. NetFlix - Rent dvd movies through the mail.
+
+3. DIRECTV DSL - A special offer for high speed internet.
+
+========================================
+
+DISCLAIMER: These programs are provided by third party companies. Although we have evaluated and tested these programs, Sharman Networks Limited takes no responsibility for these programs whatsoever.
+
+========================================
+
+SaveNow, a free offer companion, is included with this update of KaZaA Media Desktop. It provides offers and information based on visited URLs and entered search words on web pages. SaveNow protects your privacy! It requires no personal information and doesn't collect or send your browsing activity anywhere. Brought to you by the makers of WhenUShop, the "must-have browser plug-in" according to CNet.
+
+By using SaveNow's convenient product to save money, you are helping us to continuously improve KaZaA and keep it FREE.
+
+Read more about SaveNow: http://www.whenu.com/about_savenow.html
+
+SAVE NOW LICENSE AGREEMENT
+
+PLEASE READ THE FOLLOWING TERMS AND CONDITIONS BEFORE DOWNLOADING, INSTALLING AND USING SAVENOW (THE "SOFTWARE") PROVIDED BY WHENU.COM, INC. ("WHENU.COM").  USE OF THE SOFTWARE IS SUBJECT TO THE TERMS AND CONDITIONS SET FORTH IN THIS LICENSE AGREEMENT (THE "LICENSE AGREEMENT").  BY INSTALLING THE SOFTWARE  YOU INDICATE YOUR ACCEPTANCE OF THE TERMS AND CONDITIONS SET FORTH HEREIN.  WHENU.COM RESERVES THE RIGHT TO REVISE THIS LICENSE AGREEMENT AT ANY TIME.
+
+Functionality
+
+SaveNow shows users relevant contextual information and offers as they surf the Web. There are a vast number of  offers and services available to Internet users that SaveNow may display.   In addition, WhenU.com negotiates exclusive offers to maximize value for SaveNow users.  SaveNow's goal is to show users information about these offers and services - right at the moment when they need it.  SaveNow's offers and information are provided to users by showing a limited number of relevant ads in the form of interstitials ("pop-up ads") and other ad formats.  These offers and ads are shown when users visit various sites across the Internet, based on URLs visited by the user and/or search terms typed into search engines and/or the HTML content of the page viewed by the user.  SaveNow's offers are delivered independently from the site the user happens to be visiting when they see a SaveNow offer and are not endorsed or affiliated with anyone other than SaveNow.
+
+
+The License
+
+The software is licensed to you for your personal, non-commercial use only. Other than the rights expressly granted to you hereunder, no other right is granted to you. Without limitation, you may not: (a) modify or create any derivative works of the software or documentation; (b) decompile, disassemble, reverse engineer, or otherwise attempt to derive the source code for the software; or, without limitation, redistribute, sublicense, or otherwise transfer rights to the software.
+
+Age Limitation
+
+WhenU.com products and services are not available to individuals below the age of 13. By accepting this installation, you are representing that you are not a minor below the age of 13.
+
+Disclaimer of Warranty
+
+You expressly agree that the use of this software is at your own risk. The software is provided on an "As Is" basis, without warranty of any kind, including without limitation the warranties that it is free of defects and errors, fit for a particular purpose, or non-infringing.   WhenU.com reserves the right to periodically update and/or upgrade the software at the company's discretion.   Your installation of the software indicates your acceptance of potential future updates and/or upgrades to the software.
+
+The information and services provided by the software and/or WhenU.com are similarly provided on an "As Is" basis, without warranty of any kind.   The accuracy and reliability of any information content or services provided by the software and or WhenU.com should be independently verified by you as the user prior to making purchase decisions and or any other decisions based on such information content and services.
+
+Privacy
+
+By downloading SaveNow you give permission to SaveNow to display relevant contextual information and offers.  In order to provide SaveNow users with such information, SaveNow delivers content based on the URL visited by the user and/or search terms entered by the user into a search engine and/or content on the web page being viewed by the user.   SaveNow protects users' privacy by determining on the client side whether or not to retrieve information from WhenU.com servers.  Client-server communication takes place only on an as-needed basis, and SaveNow does NOT transmit a full history of URLS visited by the user to the WhenU.com servers.  WhenU.com does NOT assemble personally-identifiable profiles of SaveNow users and personally identifiable information is not required in order to use the SaveNow software.   WhenU.com may update it's privacy policy and license agreement for SaveNow at any time at the discretion of the company.
+
+Limitation of Liability
+
+To the maximum extent permitted by law, in no event will WhenU.com or its agents be liable for any damages arising from the use of or inability to use the software, including, without limitation, damages to users' systems and/or software and/or data, computer failure or malfunction, computer virus transmission, performance delays or communication failures, security breaches or any and all other damages or losses.
+
+========================================
+

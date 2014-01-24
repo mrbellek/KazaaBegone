@@ -1,0 +1,45 @@
+// New.Net stuff
+// 25-12-2002
+// Taken from Kazaa v1.3.3 through v2.0.2
+
+NewdotnetProcess=%PROGRAMFILES%\FirstLook\FirstLook.exe
+
+NewdotnetFile=%WINDIR%\newdotnet3_23.dll
+NewdotnetFile=%WINDIR%\newdotnet3_36.dll
+
+// since K 2.0.1
+NewdotnetFile=%PROGRAMFILES%\FirstLook\FirstLook.exe
+NewdotnetFile=%PROGRAMFILES%\NewDotNet\newdotnet4_50.dll
+NewdotnetFile=%PROGRAMFILES%\NewDotNet\readme.txt
+NewdotnetFile=%PROGRAMFILES%\NewDotNet\uninstall4_50.exe
+NewdotnetFile=%WINDIR%\NDNuninstall4_50.exe
+// just in case
+NewdotnetFile=%WINDIR%\newdotnet4_50.dll
+
+// Firstlook got bundled with 4.5 version of New.Net, then dumped again
+NewdotnetFolder=%PROGRAMFILES%\FirstLook
+NewdotnetFolder=%PROGRAMFILES%\NewDotNet
+
+NewdotnetRegkey=HKLM\Software\Microsoft\Windows\CurrentVersion\Uninstall\New.net
+NewdotnetRegkey=HKLM\Software\New.net
+NewdotnetRegkey=HKLM\Software\Microsoft\Windows\CurrentVersion\Uninstall\FirstLook
+NewdotnetRegkey=HKCR\CLSID\{4A2AACF3-ADF6-11D5-98A9-00E018981B9E}
+NewdotnetRegkey=HKCR\Tldctl2.URLLink
+NewdotnetRegkey=HKCR\Tldctl2.URLLink.1
+NewdotnetRegkey=HKLM\Software\Microsoft\Windows\CurrentVersion\explorer\Browser Helper Objects\{4A2AACF3-ADF6-11D5-98A9-00E018981B9E}
+NewdotnetRegkey=HKCU\Software\FirstLook
+
+NewdotnetRegval=HKLM\Software\Microsoft\Windows\CurrentVersion\Run,New.Net Startup
+
+// spybot additions
+NewdotnetRegkey=HKCR\Tldctl2.SearchControl
+NewdotnetRegkey=HKCR\Tldctl2.SearchControl.1
+NewdotnetRegkey=HKCR\Tldctl2.Tldctl2c
+NewdotnetRegkey=HKCR\Tldctl2.Tldctl2c.1
+NewdotnetFile=%WINDIR%\Temp\newdotnet3_23.dll
+NewdotnetFile=%WINDIR%\Temp\newdotnet3_36.dll
+NewdotnetFile=%WINDIR%\Temp\newdotnet4_50.dll
+NewdotnetRegkey=HKCR\CLSID\{DD521A1D-1F98-11D4-9676-00E018981B9E}
+NewdotnetRegkey=HKCR\Interface\{4A2AACF1-ADF6-11D5-98A9-00E018981B9E}
+NewdotnetRegkey=HKCR\Interface\{DD521A1C-1F98-11D4-9676-00E018981B9E}
+NewdotnetRegkey=HKCR\TypeLib\{DD521A10-1F98-11D4-9676-00E018981B9E}

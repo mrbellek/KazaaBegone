@@ -1,0 +1,3 @@
+    sRegKeysOther() = "HKEY_LOCAL_MACHINE\Software\Microsoft\Protected Storage System Provider\chem9870\Data\4d1fa410-6fd9-11d0-8c58-00c04fd9126b"
+    sRegKeysOther() = "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\D:"
+    sRegKeysOther() = "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\{7D50E972-F2C4-4327-AA79-88FA868A4507}"

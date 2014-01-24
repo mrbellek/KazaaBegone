@@ -1,0 +1,220 @@
+KaZaA Privacy Statement
+
+This privacy statement covers the KaZaA Media Desktop (KMD) application 
+and the KaZaA website (www.kazaa.com).
+
+If users have questions or concerns regarding this statement, they should 
+contact privacy@sharmannetworks.com 
+ 
+Information Collection and Use
+
+Information Collection
+Sharman Networks is the sole owner of the information collected through the 
+KMD. Sharman Networks collects information from our users at several 
+different points.
+
+Installation of KMD
+
+When the KMD runs for the first time you are asked to provide a user name, 
+an email address and whether or not you would like to receive a newsletter. 
+Your email address only is transmitted to our web service at this time and 
+after you update your email address. This information is used solely to 
+provide you with service announcements (including new services and 
+upgrades) and newsletters which you can choose not to receive.
+
+Cookies
+A cookie is a piece of data stored on the user's computer tied to information 
+about the user. Usage of a cookie is in no way linked to any personally 
+identifiable information while on our site or using the KMD. Cookies can be 
+removed by following Internet browser help file directions. 
+Cookies are used within the KMD and on the website to help us to help you 
+ensure that you get the best out of KMD. For example, the cookie stores 
+which version number KMD you are currently using. When you try to launch 
+the KMD with an outdated version we are able to suggest at that time that 
+you upgrade to the latest version. 
+
+We do not store your name, your email address, your username or any other 
+personally identifiable data in the cookie.
+
+Some of our business partners use cookies on our site (for example, 
+advertisers). We have no access to or control over these cookies, once we 
+have given permission for them to set cookies for advertising. 
+
+The information collected and the uses to which that information can be put 
+are set out in our partners' privacy policies: 
+http://www.kazaa.com/en/privacy/bundles.htm
+
+Third Party Advertising
+
+The ads appearing on this Web site are delivered to users by Cydoor, our 
+Web advertising partner. Information about users' visit to this site, such 
+as number of times they have viewed an ad (but not user name, address, or 
+other personal information), is used to serve ads to users on this site. 
+This privacy statement covers the use of cookies by www.kazaa.com and use 
+of the KMD only and does not cover the use of cookies by any advertisers. 
+
+Log Files
+Like most Web site servers we use log files. This includes internet protocol 
+(IP) addresses, browser type, internet service provider (ISP), referring/exit 
+pages, platform type, date/time stamp, and number of clicks to analyze 
+trends, administer the site, track user's movement in the aggregate, and 
+gather broad demographic information for aggregate use. We do not collect 
+personal information from logfiles. We use a tracking utility called URCHIN 
+that uses log files to analyze user movement. 
+
+Clear Gifs (Web Beacons/Web Bugs)
+Like most email newsletters you will receive, we use clear gifs in our HTML-
+based emails to let us know which emails have been opened by the recipients. 
+This allows us to gauge the effectiveness of certain communications and the 
+effectiveness of our marketing campaigns. No personal information is 
+transmitted simply that an email was read. If users would like to opt-out of 
+these emails, please see the Opt-out section. 
+
+Altnet
+KaZaA Media Desktop regularly downloads an index of available Altnet 
+content. This index contains a list of available rights managed files and can 
+in no way alter KaZaA Media Desktop or any other part of your computer. 
+KaZaA Media Desktop downloads this file without collecting any information 
+about you or your computer.
+
+Please read the full Altnet Privacy Statement: http://www.altnet.com/privacy.asp
+
+Information Use
+
+Newsletter
+If a user wishes to subscribe to our newsletter, we ask for an email address 
+when you install the KMD. Out of respect for our users' privacy we provide a 
+way to opt-out of these communications. Please see the Choice and Opt-out 
+sections.
+
+Service Announcements
+On rare occasions it is necessary to send out a strictly service related 
+announcement. For instance, if our service is temporarily suspended for 
+maintenance we might send users an email. Generally, users may not opt-out 
+of these communications. However, these communications are not 
+promotional in nature. 
+
+Customer Service
+If you email us with queries relating to your KMD we will reply to you by 
+email.
+
+Sharing
+
+Legal Disclaimer
+
+We may need to disclose personal information if required by law. For 
+example, to comply with a current judicial proceeding, a court order or legal 
+process.
+
+Aggregate Information (non-personally identifiable)
+We share aggregated demographic information with our partners and 
+advertisers. This is not linked to any personally identifiable information. 
+For example, we might inform an advertiser what percentage of KMD users are in 
+the US. 
+
+Business Transitions
+
+In the event Sharman Networks goes through a business transition, such as a 
+merger, being acquired by another company, or selling a portion of its assets, 
+users' personal information will, in most instances, be part of the assets 
+transferred. Users will be notified via prominent notice on our Web site for 30 
+days prior to a change of ownership or control of personal information of 
+users held my Sharman Networks. If as a result of the business transition, 
+personally identifiable information will be used for a purpose different from 
+that stated, or implied, at the time of collection users will be given a choice 
+consistent with our notification of changes section.
+
+Choice/Opt-out
+
+Users are given the opportunity to 'opt-out' of having their information used 
+for purposes not directly related to our site at the point where we ask for 
+information. For example, the KMD registration screen has an 'opt-out' 
+mechanism so users who don't want any marketing material, can keep their 
+email address off our lists. 
+
+If you are currently receiving the newsletter and you would like to stop 
+receiving it, you simply need to change your preferences in the KMD. This will 
+transmit to our servers that you no longer want to receive the newsletter next 
+time you start your KMD.
+
+If you would like your details completely deleted you should email kazaa-
+remove@sharmannetworks.com with your email address in the subject 
+line.
+
+Users of our site are always notified when their information is being collected 
+by any outside parties. We do this so our users can make an informed choice 
+as to whether or not they should proceed with services that require an 
+outside party.
+
+Links
+
+This Web site contains links to other sites. Please be aware that Sharman 
+Networks are not responsible for the privacy practices of such other sites. We 
+encourage our users to read the privacy statements of each and every Web 
+site. 
+
+Surveys & Contests 
+
+From time-to-time our site requests information from users via surveys or 
+contests. Participation in these surveys or contests is completely voluntary 
+and the user therefore has a choice whether or not to disclose this 
+information. The requested information typically includes contact information 
+(such as name and shipping address), and demographic information (such as 
+zip code). Contact information will be shared with the contest or survey 
+sponsors to notify the winners and award prizes or otherwise in accorance 
+with the Terms and Conditions of each competition or survey. Anonymous 
+Survey information will be used for purposes of monitoring or improving the 
+use and satisfaction of this site. Though we may use an intermediary to 
+conduct these surveys or contests, they may not use users' personally 
+identifiable information for any other purposes. 
+
+Security
+
+We take every reasonable precaution to protect the security of our users' 
+information.
+Information is stored on secure, password protected servers and is only 
+accessible by employees who need the information to perform a specific job 
+(for example, a customer service representative). All employees are kept up 
+to date on our security and privacy practices. Finally, the servers that store 
+personally identifiable information are in a physically secure environment.
+If users have any questions about the security at our Web site, users can 
+send an email to security@sharmannetworks.com.
+
+Updating Personal Information
+
+Users may gain access to personally identifiable information that Sharman 
+Networks has collected about them by emailing us at 
+privacy@sharmannetworks.com. If a user's personally identifiable 
+information changes such as email address, or if a user no longer desires our 
+service, we provide a way to correct, update users' personally identifiable 
+information. Users have a responsibility to tell us if their information changes 
+as that is the only way we can ensure information is kept accurate and up to 
+date. This can be done by selecting Configure Username in the KMD Tools 
+menu. 
+
+Notification of Changes
+
+If we decide to change our privacy policy, or practices whether or not they 
+effect our handling of personally identifiable information we will post those 
+changes to this privacy statement, the homepage, and other places we deem 
+appropriate so our users are always aware of what information we collect, 
+how we use it, and under what circumstances, if any, we disclose it. We will 
+use information in accordance with the privacy policy under which the 
+information was collected. 
+
+If, however, we are going to use users' personally identifiable information for 
+a purpose different from that stated or implied at the time of collection we 
+will notify users via email. Users will have a choice as to whether or not we 
+use their information in this different manner. However, if users have opted out 
+of all communication with the site then they will not be contacted, nor will 
+their personal information be used in this new manner. 
+
+Contact Information
+If users have any questions or suggestions regarding our privacy policy, 
+please contact us at:
+privacy@sharmannetworks.com
+
+
+COPYRIGHT - KaZaA does not condone activities and actions that breach the 
+copyright of artists and copyright owners - as a KaZaA user you are bound by the 
+KaZaA Terms of Use and laws governing copyright in each country.

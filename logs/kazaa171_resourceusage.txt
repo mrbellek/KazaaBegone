@@ -1,0 +1,40 @@
+New In v1.7
+
+KaZaA Media Desktop regularly downloads an index of available Altnet content. This index contains a list of available rights managed files and can in no way alter KaZaA Media Desktop or any other part of your computer. KaZaA Media Desktop downloads this file without collecting any information about you or your computer.
+
+======================================
+
+Installation
+
+When you install KMD the install program, e.g. kmd170_en.exe, is saved to your My Shared Folder and shared out to other users. Other users may download this file from your computer and by doing so your Internet connection will be used. You can delete the file if you do not want this to happen. You can also right click the file and select 'Do Not Share This File'.
+
+======================================
+
+My Shared Folder
+
+Files that you save in My Shared Folder will be available for any other user of Kazaa Media Desktop and compatible programs. These users may find your files and subsequently download them from you. By doing so your Internet connection is being used.
+
+======================================
+
+Your Choices
+
+You have control of what is being shared and how much your Internet connection is being used. 
+
+- To disable sharing go to 
+  Tools->Options->Traffic and check Disable Sharing
+- To disable sharing of selected files 
+  right click the file in My KaZaA 
+  and select Stop Sharing this file.
+
+The KaZaA Media Desktop program is a so called "peer-to-peer" program, this means that it communicates with other peers (other KaZaA Media Desktops or compatible programs). Other users may download files that you have stored in the My Shared Folder and other folders you have specifically selected to be Shared.
+
+While your KaZaA Media Desktop is communicating with other peers it receives information of the status of interconnected peers, that information is stored on your computer. 
+
+======================================
+
+Supernode
+
+Your copy of KaZaA Media Desktop may serve as a SuperNode. The selection process is automated. When your computer is a SuperNode other peers will upload an index of files they are sharing to your computer and they will send search queries to your computer. Your computer will reply to these request and also forward the request to other SuperNodes. It is not harmful to be a SuperNode. No information about you or your computer is obtained by KaZaA. 
+
+If you do not want to serve as a SuperNode go to Tools -> Options -> Advanced and check 'Do not function as a SuperNode'. When you are a SuperNode your CPU and Internet connection is being used, but not more than 10% of the resources will be used.
+

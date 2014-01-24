@@ -1,0 +1,18 @@
+// Gator stuff
+// 30/07/06
+// Taken from Kazaa 2.5.2, 2.6.0, 2.6.2, 2.6.3
+
+GatorProcess=%PROGRAMFILES%\Common Files\GMT\gmt.exe
+GatorProcess=%PROGRAMFILES%\Common Files\CMEII\cmesys.exe
+
+GatorRegkey=HKCR\CLSID\{21FFB6C0-0DA1-11D5-A9D5-00500413153C}
+GatorRegkey=HKLM\Software\Gator.com
+
+GatorFolder=%PROGRAMFILES%\Common Files\CMEII
+GatorFolder=%PROGRAMFILES%\Common Files\GMT
+GatorFolder=%PROGRAMS%\GAIN Publishing
+GatorFolder=%TEMPDIR%\Adware
+GatorFolder=%TEMPDIR%\fsg_tmp
+
+GatorFile=%WINDIR%\GatorPdpSetup.log
+GatorFile=%PROGRAMS%\StartUp\GStartup.lnk

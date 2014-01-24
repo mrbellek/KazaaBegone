@@ -1,0 +1,38 @@
+// WebHancer stuff
+// 25-12-2002
+// Taken from Kazaa v1.3.3 through v2.0.2
+
+WebhancerProcess=%PROGRAMFILES%\webHancer\Programs\whAgent.exe
+WebhancerProcess=%WINDIR%\whInstaller.exe
+WebhancerProcess=%WINDIR%\temp\webhancer\whCC-KaZaa.exe
+
+WebhancerFile=%PROGRAMFILES%\webHancer\Programs\license.txt
+WebhancerFile=%PROGRAMFILES%\webHancer\Programs\readme.txt
+WebhancerFile=%PROGRAMFILES%\webHancer\Programs\sporder.dll
+WebhancerFile=%PROGRAMFILES%\webHancer\Programs\wbhshare.dll
+WebhancerFile=%PROGRAMFILES%\webHancer\Programs\whAgent.exe
+WebhancerFile=%PROGRAMFILES%\webHancer\Programs\whAgent.ini
+WebhancerFile=%PROGRAMFILES%\webHancer\Programs\whiehlpr.dll
+WebhancerFile=%PROGRAMFILES%\webHancer\Programs\whieshm.dll
+WebhancerFile=%WINDIR%\webhdll.dll
+WebhancerFile=%WINDIR%\whAgent.inf
+WebhancerFile=%WINDIR%\whInstaller.exe
+WebhancerFile=%WINDIR%\whInstaller.ini
+WebhancerFile=%WINDIR%\temp\webhancer\whCC-KaZaa.exe
+
+WebhancerFolder=%PROGRAMFILES%\webHancer
+WebhancerFolder=%PROGRAMFILES%\webHancer\Programs
+WebhancerFolder=%WINDIR%\temp\webhancer
+
+WebhancerRegkey=HKLM\Software\Microsoft\Windows\CurrentVersion\Uninstall\webHancer Agent
+WebhancerRegkey=HKLM\Software\webHancer
+WebhancerRegkey=HKCR\WhIeHelperObj.WhIeHelperObj
+WebhancerRegkey=HKCR\WhIeHelperObj.WhIeHelperObj.1
+WebhancerRegkey=HKCR\CLSID\{c900b400-cdfe-11d3-976a-00e02913a9e0}
+WebhancerRegkey=HKCR\Interface\{C89435B0-CDFE-11D3-976A-00E02913A9E0}
+WebhancerRegkey=HKCR\TypeLib\{C8CB3870-CDFE-11D3-976A-00E02913A9E0}
+WebhancerRegkey=HKLM\Software\Microsoft\Windows\CurrentVersion\explorer\Browser Helper Objects\{c900b400-cdfe-11d3-976a-00e02913a9e0}
+
+// spybot additions
+WebhancerFile=%WINDIR%\Temp\webhdll.dll
+WebhancerRegval=HKLM\Software\Microsoft\Windows\CurrentVersion\Run,webHancer Agent

@@ -1,0 +1,7 @@
+    sRegKeysOnFlow() = "HKEY_CLASSES_ROOT\CLSID\{0CEF79D8-D373-11D3-A7D3-00062962BF17}"
+    sRegKeysOnFlow() = "HKEY_CLASSES_ROOT\IEOnflow.IEOnflow1"
+    sRegKeysOnFlow() = "HKEY_CLASSES_ROOT\IEOnflow.IEOnflow1.7"
+    sRegKeysOnFlow() = "HKEY_CLASSES_ROOT\TypeLib\{0CEF79CB-D373-11D3-A7D3-00062962BF17}"
+    sRegKeysOnFlow() = "HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Plugins\Extension\.ofb"
+    sRegKeysOnFlow() = "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\Onflow"
+    sRegKeysOnFlow() = "HKEY_LOCAL_MACHINE\Software\Onflow"

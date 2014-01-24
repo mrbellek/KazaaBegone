@@ -1,0 +1,5 @@
+    sRegKeysKazaa() = "HKEY_CURRENT_USER\Software\Kazaa"
+    sRegKeysKazaa() = "HKEY_LOCAL_MACHINE\Software\KAZAA"
+    sRegKeysKazaa() = "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\App Paths\D:
+    sRegKeysKazaa() = "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\KaZaA Media Desktop_is1"
+    sRegKeysKazaa() = "HKEY_LOCAL_MACHINE\Software\Sharman Networks Ltd"

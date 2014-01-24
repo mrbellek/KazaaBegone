@@ -1,0 +1,3 @@
+    sRegKeysDelfin() = "HKEY_CURRENT_USER\Software\DelFin"
+    sRegKeysDelfin() = "HKEY_LOCAL_MACHINE\Software\DelFin"
+    sRegKeysDelfin() = "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\DelFin Media Viewer"

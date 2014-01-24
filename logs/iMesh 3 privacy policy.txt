@@ -1,0 +1,303 @@
+This software application is provided to you FREE OF CHARGE and is paid for by advertisements that appear within the user interface. Advertising technology is provided by Cydoor technologies.
+
+We adhere to strict privacy guidelines and do NOT collect personally  identifiable information unless it is voluntarily provided.
+Only information regarding the performance of advertising campaigns is aggregated and reported to advertisers and ad sales organizations. The demographic information is collected for the sole purpose of delivering you ads that are relevant to your interests. If you wish not to provide this information, don't worry- it is STRICTLY OPTIONAL. You may remain completely anonymous.
+
+This software will make occasional but low priority use of your Internet 
+connection to maintain updated advertisements and transfer advertising related information.
+
+If you have further questions or feedback, please visit us at: 
+http://www.iMesh.com
+
+----------------------------------------------------------------------------------------------
+Ads Licence Agreement
+
+The software program you are about to install is an "adware" program, 
+meaning that we have partnered with Cydoor Technologies to deliver 
+small ads to the main window of the application, in order for IMesh 
+to bring targeted advertising.
+The software will display web content such as banner ads, e-commerce offers,
+news headlines and other value-added content.  Cydoor Technologies created 
+this technology, and provides it to software developers to implement in 
+software programs.  In turn, software developers choose to display ads 
+so that you can enjoy their products for FREE, and they can still earn 
+revenue from advertising.  
+
+How does it work?
+The Cydoor component of this software is simply a caching mechanism, 
+which stores ads on your hard drive, and displays them only while the 
+software program is open.  When the ads have expired, the component deletes 
+old ads and contacts Cydoor's servers in order to receive new ones. To do 
+this, the Cydoor component uses your Internet connection, which was designed 
+to take up the minimum bandwidth on your line. Each ad banner on your hard 
+disc is about 10Kbyte.
+ 
+Finally, Cydoor Technologies, wants you to feel comfortable using this software.  Be assured that respecting and maintaining your privacy is IMesh and Cydoor's top priority ethically and legally. If you have any questions or concerns, please visit the Cydoor website, www.cydoor.com, where you can review its privacy statement
+
+----------------------------------------------------------------------------------------------------- 
+
+Privacy Policy
+
+Hotbar is committed to your privacy!
+
+This confirms that Hotbar.com, Inc. ("Hotbar") is a licensee of the TRUSTe Privacy Program. 
+
+TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the principles of fair information practices. Because Hotbar is committed to respecting and protecting your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed and audited for compliance by a third-party auditor at the direction of TRUSTe. These TRUSTe principles apply to personally identifiable information gathered on Hotbar Web site. This privacy statement will inform all visitors to our Web site regarding: 
+
+
+What personally identifiable information we collect/use about you on this Web site 
+What we do with personally identifiable information we collect/use on this Web site 
+Whether any of your personally identifiable information will be shared with any third party 
+Questions regarding this statement should be directed to the Hotbar site coordinator at privacy@Hotbar.com, or TRUSTe at http://www.truste.org/users/users_watchdog.html for clarification. To return to the site, please use the "Back" button on your browser. 
+
+HOTBAR COLLECTS AND STORES INFORMATION ABOUT THE WEB PAGES YOU VIEW AND THE DATA YOU ENTER IN SEARCH ENGINE SEARCH FIELDS WHILE USING THE SOFTWARE. HOTBAR USES THIS INFORMATION TO DETERMINE WHICH ADS AND BUTTONS TO DISPLAY ON YOUR HOTBAR TOOLBAR AND WHICH ADS TO SHOW YOUR BROWSER. HOWEVER, HOTBAR DOES NOT (A) ASSOCIATE OR STORE SUCH WEB USAGE DATA OR SEARCH INFORMATION WITH ANY PERSONALLY IDENTIFIABLE INFORMATION SUCH AS NAME OR EMAIL ADDRESS OR (B) ANALYZE SUCH WEB USAGE DATA OR SEARCH INFORMATION TO DETERMINE THE IDENTITY OF ANY HOTBAR USER. SOME INFORMATION COLLECTED BY THE HOTBAR SOFTWARE IS PERSONALLY IDENTIFIABLE, SUCH AS NAME AND EMAIL ADDRESS. THIS PERSONALLY IDENTIFIABLE INFORMATION IS STORED SEPARATELY FROM THE INFORMATION ABOUT THE WEB PAGES YOU VIEW AND THE DATA YOU ENTER IN SEARCH ENGINE SEARCH FIELDS AND THE TWO TYPES OF INFORMATION CANNOT BE CORRELATED OR LINKED. FURTHERMORE, HOTBAR DOES NOT USE THIS PERSONALLY IDENTIFIABLE INFORMATION TO DETERMINE WHICH ADS AND BUTTONS TO DISPLAY ON YOUR HOTBAR TOOLBAR OR WHICH ADS TO SHOW YOUR BROWSER. 
+
+
+HOTBAR AND YOUR PRIVACY 
+
+Hotbar is committed to your privacy. We will ask you for your personally identifiable information (such as name or email address) only when it is required to provide you with a specific service. We will never sell, rent or disclose your personally identifiable information to outside parties without your express consent unless we believe, in good faith, that such release is reasonably necessary to comply with law or enforce or apply the terms of our user agreement. 
+
+Hotbar is constantly evolving. New features are continuously being added to the site and Software. With these improvements, our privacy statement may evolve. If this should happen, we will inform you through our site's homepage and this privacy statement. Regardless of the aforementioned, we will never disclose your personally identifiable information to outside parties without your consent. 
+
+
+WHAT INFORMATION WE COLLECT 
+
+If you are only visiting the Hotbar Web site (www.Hotbar.com), we collect the following information: the full Uniform Resource Locator ("URL") of the Web page from which you came to www.Hotbar.com; your Internet Protocol ("IP") Address, which may include a domain name; the date and time for each page you view; the name of and information about any advertisement that brought you to the Hotbar Web site; Computer and connection information such as browser type and version, operating system, and platform. We also transmit cookies to your computer so we can track the pages of our Web site that you view and the order in which you view them. If you download and install the Hotbar toolbar software (the "Software"), we collect any information voluntarily provided by you during the installation and registration process, which can include your email address as well as demographic information such as gender, age, occupation, household income, zip code and country. We also collect the name of and information about any advertisement that brought you to the Hotbar Web site or download. Non-personally identifiable demographic information is correlated to Web usage information collected during use of the Service, but we do not attempt to determine your identity by analyzing this information. When you download the Software, and at times during your use of the Service, we transmit Hotbar cookies to the hard drive of your computer. These cookies assign your Web browser a unique series of numbers, letters, or characters (your "User ID") that enable Hotbar's servers to recognize and identify your Web browser when you are using the Service. They also enable Hotbar to track and store information about your Web usage path. 
+
+When you visit Web sites with the Software installed (the "Service"), we collect information about the Web sites you visit and the pages you view. This information allows us to display toolbar buttons that are related to the Web site you are currently visiting. For every Web page you view while using the Service, the Hotbar software transmits and stores the following information from your computer to Hotbar: Your IP Address, which may include a domain name; the full URL of the Web page you are visiting; general information about your browser; general information about your computer's operating system; your Hotbar cookie number(and through registry) and the date and time the above information is logged. When you type search terms into a search engine site while using the Service, the search term ("Search Term") you entered is transmitted from your computer and stored by Hotbar. This allows us to display buttons on the Hotbar toolbar that are related to the search term you entered. We also collect and store the following Hotbar Toolbar usage statistics: what Toolbar buttons you click on; what links within the Toolbar buttons you click on; the amount of time you have used the Software during each session; what browser skins you have downloaded during any given session. 
+
+
+Personally Identifiable Information 
+
+In general, we do not gather from you without your specific permission any personally identifiable information when you visit this site and download or use the Software. In any event, we will not knowingly collect any personal information from children 13 years old and under. 
+
+We ask you to provide personally identifiable information in specific events, in which it is essential in order to provide you with one of the following services: 
+
+1.  When you wish to obtain services offered through the Software or our site that require the completion of a registration form, either on this site or on one of our Affiliate Sites. In no event will we use the personally identifiable information entered into these registration forms without your consent. 
+
+2.  When you wish to send a message ("tell a friend") or ("send a skin") by email from our site to your acquaintance(s). Each such message will be sent only once. We will never use your personally identifiable information gathered this way without your consent. In any event, we will never use the recipients' personally identifiable information. 
+
+3.  When you wish to become a Hotbar Affiliate Site and integrate certain elements of our technology into your Web site (e.g. the ability to post skins on your site). We will use the personally identifiable information gathered this way (your name, email and site's URL address) to contact you with information and updates addressing Affiliate Sites. You may opt-out of this mailing list; see the "Opt-out" section below. It is not required to become a Hotbar Affiliate Site in order to use this site and the Software. 
+
+4.  When you wish to participate in contests that we conduct on this site, we ask you for your email so we can contact you when necessary. We will never use your personally identifiable information gathered this way for other purposes without your consent. 
+
+5.  When you opt-in to one or more of our mailing lists to receive direct emails from us, that may include some information regarding our sponsors. We will send you direct emails (newsletters, updates etc.) every once in a while. You can always opt-out of receiving future mailings; see the "Opt-out" section below. 
+
+Hotbar analyzes its logs of usage paths and stored Search Terms, collected from users to determine Web usage of users in the aggregate and to build anonymous web usage profiles. However, because Hotbar stores this Usage Path and Search Term information separately from users' personally identifiable registration information Hotbar cannot correlate or link a user's usage path/Search Term information and such personally identifiable information to each other. Hotbar uses these anonymous web usage profiles and stored Search Terms to determine which ads and buttons to display on your Hotbar Toolbar and which ads to show your browser. 
+
+In addition, the URLs we collect sometimes contain personal information about you. For example, when you enter information on a Web page (e.g., when you complete an online registration form or sign up for a contest), the operator of the Web site may insert that information into its URL for that or the next page. This information often appears after a question mark ("?") in the URL, although it can appear in other places. This means that your name, your address, your email address, or similar information you might consider private or personally identifiable which you enter into a Web page sometimes becomes part of a URL that is then transmitted to Hotbar and automatically stored in Hotbar's databases. This can also occur with words, topics, products, or phrases you enter into search engines - whether those engines are provided by the Service itself or found elsewhere on the Web - while using the Service. Hotbar has no control over what information third party Web sites put into their URLs or where they put it, but any information in each URL is collected and stored by Hotbar when you are using the Service. Other than by Storing Search terms as described above, Hotbar does not attempt to analyze or dissemble these URLs in any way. In addition, Hotbar does not attempt to determine the identity of any Hotbar user by analyzing these URLs. These URLs are only stored as a part of your Web usage path, which is stored separately from, and cannot be linked to, the personally identifiable information you have provided to Hotbar. 
+
+
+WHAT WE DO WITH THE INFORMATION WE GATHER AND TRACK 
+
+When we gather personally identifiable information, it is for the main purpose of providing you with a quality service. In addition to the use of the personally identifiable information when providing the service itself as described above, this information may be used to identify broad demographic trends and generate aggregated statistics of usage and popularity of the services, so we can improve them. We will not share your personal information with third parties unless we believe, in good faith, that such release is reasonably necessary to comply with law or enforce or apply the terms of our user agreement. 
+
+Hotbar also gathers certain non-personally identifiable demographic and other information from its users such as zip code and age. The non-personal information gathered and tracked through our system will not be used by us to attempt to identify you personally. 
+
+We employ other companies and individuals to perform functions on our behalf, such as technical support services. To perform those functions, it may be necessary for them to obtain access to Hotbar's databases and servers, which may contain personally identifying information about users. They may not use such access or information for any purpose other than that for which they are retained. 
+
+In the event that Hotbar or substantially all of its assets are sold or acquired, the Service and all information collected by the Service would be transferred to the acquiring party. In any such transfer, however, such information would remain subject to any terms and conditions applicable to the Service at the time the information was collected, including the terms of this Privacy Policy and any amendment thereto. 
+
+
+THIRD PARTY SITES AND SERVICES 
+
+This site may contain links or services to other sites not maintained by us. Hotbar is not responsible for the privacy practices or the content of such Web sites and recommend that you review such sites' privacy statements and terms of use. 
+
+These sites and services include: 
+
+1.  The "Click for more prices" feature of the Service provides comparative shopping information from www.clickthebutton.com. Please review the clickthebutton.com terms of use and privacy statement to learn about clickthebutton.com's data collection and data use practices. When you click the "Click for more prices" button on the Hotbar toolbar, Hotbar logs the fact that you selected the button and a new browser is launched that sends you to the clickthebutton.com website 
+
+2.  Hotbar works with third parties that serve ads to this site and to the toolbar. Two of these third parties are DoubleClick and Engage. To find out more about how DoubleClick manages the privacy of information in conjunction with serving ads on this site, please go to www.doubleclick.net/privacy_policy/. Hotbar also uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to http://www.engage.com/privacy/. 
+
+3.  Hotbar works with the email direct marketer Netcreations to offer users the opportunity to subscribe to various email newsletters subscriptions. Please review the Netcreations privacy statement before entering your email address into the "Newsletter Subscription" window. 
+
+
+SOFTWARE UPDATE 
+
+The Software is designed to check for the availability of software updates to ensure that you enjoy the latest improvements of the Software. When the Software checks for the availability of software update, anonymous information about the Software version and installed components are sent to our Web server. The information is used to determine whether new free Software is available for download and is not associated with your personally identifiable information. 
+
+
+CHOICES/OPT-OUT 
+
+Our site provides you the opportunity to opt-out of receiving communications from us at the point where we request information about you. To remove your email from our mailing lists, click here. 
+
+If you would like to remove the cookie installed on your computer by this site and Software, you need to uninstall the Software using the complete uninstaller. click here to download the complete uninstaller. 
+
+
+SECURITY 
+
+This site and Software have security measures in place to protect the loss, misuse and alteration of the information under our control. A limited number of senior employees have a password-protected access to the database that contains personal information. Such employees are instructed and trained to maintain the database while keeping the privacy of the users. 
+
+If you have any questions regarding the specific security measures in place, please contact us at privacy@Hotbar.com. 
+
+
+CHANGES 
+
+This site gives users the option of changing and modifying information previously provided. Email us at changes@Hotbar.com or opt-out and then opt-in with your updated information. 
+
+
+CONTACTING US ABOUT PRIVACY 
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at: 
+
+Privacy Team Hotbar.com, Inc. 226 West 37th St. New York, NY 10018 Or email us at: privacy@Hotbar.com 
+
+Internet Protocol Address 
+
+An Internet Protocol ("IP") address is a set of numbers that is automatically assigned to your computer each time you connect to the Internet. When you use your Web browser to request a Web page from another computer on the Internet, your Web browser automatically gives that computer your IP address so that the data you request can be sent to your computer. For many users who access the Internet from a dial-up Internet service provider (ISP), the IP address will be different every time they log on ("dynamic" IP addresses); others may be assigned only one IP address that remains the same from session to session ("static" IP addresses) (more common with broadband ISPs). 
+
+Uniform Resource Locator 
+
+A URL (or uniform resource locator) is the full Web address of a file or document you view when browsing the Internet. With most browsers, such as Microsoft Internet Explorer or Netscape Navigator, the URL of every Web page that you view is displayed in a window near the top of the screen. Typically, a URL consists of four parts: protocol, server (or domain) where the file is located, path, and filename. However, some URLs have no path or filename. 
+
+A usage path is the trail of requests automatically transmitted to and logged by Hotbar as a user surfs the Internet with the Software installed. Usage paths consist of the following data for each Web page visited by an Hotbar user: (a) the IP address assigned to the user; (b) the date and time the Web page is visited by the user; (c) the user's browser type and version; (d) the user's operating system and version; (e) the user's User ID; and (f) the full URL that the site assigns to the Web page. 
+
+These terms and conditions and privacy policy were last updated on August 7th, 2001.
+
+---------------------------------------------------------------------------------------------------------
+
+LICENSE AGREEMENT (WHENU)
+
+PLEASE READ THE FOLLOWING TERMS AND CONDITIONS BEFORE DOWNLOADING, INSTALLING AND USING SAVENOW (THE "SOFTWARE") PROVIDED BY WHENU.COM, INC. ("WHENU.COM").  USE OF THE SOFTWARE IS SUBJECT TO THE TERMS AND CONDITIONS SET FORTH IN THIS LICENSE AGREEMENT (THE "LICENSE AGREEMENT").  BY INSTALLING THE SOFTWARE  YOU INDICATE YOUR ACCEPTANCE OF THE TERMS AND CONDITIONS SET FORTH HEREIN.  WHENU.COM RESERVES THE RIGHT TO REVISE THIS LICENSE AGREEMENT AT ANY TIME.
+
+Functionality
+
+SaveNow shows users relevant contextual information and offers as they surf the Web. There are a vast number of  offers and services available to Internet users that SaveNow may display.   In addition, WhenU.com negotiates exclusive offers to maximize value for SaveNow users.  SaveNow’s goal is to show users information about these offers and services – right at the moment when they need it.  SaveNow’s offers and information are provided to users by showing a limited number of relevant ads in the form of interstitials (“pop-up ads”) and other ad formats.  These offers and ads are shown when users visit various sites across the Internet, based on URLs visited by the user and/or search terms typed into search engines and/or the HTML content of the page viewed by the user.  SaveNow’s offers are delivered independently from the site the user happens to be visiting when they see a SaveNow offer and are not endorsed or affiliated with anyone other than SaveNow.
+
+
+The License
+
+The software is licensed to you for your personal, non-commercial use only. Other than the rights expressly granted to you hereunder, no other right is granted to you. Without limitation, you may not: (a) modify or create any derivative works of the software or documentation; (b) decompile, disassemble, reverse engineer, or otherwise attempt to derive the source code for the software; or, without limitation, redistribute, sublicense, or otherwise transfer rights to the software.
+
+Age Limitation
+
+WhenU.com products and services are not available to individuals below the age of 13. By accepting this installation, you are representing that you are not a minor below the age of 13.
+
+Disclaimer of Warranty
+
+You expressly agree that the use of this software is at your own risk. The software is provided on an “As Is” basis, without warranty of any kind, including without limitation the warranties that it is free of defects and errors, fit for a particular purpose, or non-infringing.   WhenU.com reserves the right to periodically update and/or upgrade the software at the company’s discretion.   Your installation of the software indicates your acceptance of potential future updates and/or upgrades to the software.
+
+The information and services provided by the software and/or WhenU.com are similarly provided on an “As Is” basis, without warranty of any kind.   The accuracy and reliability of any information content or services provided by the software and or WhenU.com should be independently verified by you as the user prior to making purchase decisions and or any other decisions based on such information content and services.
+
+Privacy
+
+By downloading SaveNow you give permission to SaveNow to display relevant contextual information and offers.  In order to provide SaveNow users with such information, SaveNow delivers content based on the URL visited by the user and/or search terms entered by the user into a search engine and/or content on the web page being viewed by the user.   SaveNow protects users’ privacy by determining on the client side whether or not to retrieve information from WhenU.com servers.  Client-server communication takes place only on an as-needed basis, and SaveNow does NOT transmit a full history of URLS visited by the user to the WhenU.com servers.  WhenU.com does NOT assemble personally-identifiable profiles of SaveNow users and personally identifiable information is not required in order to use the SaveNow software.   WhenU.com may update it’s privacy policy and license agreement for SaveNow at any time at the discretion of the company.
+
+Limitation of Liability
+
+To the maximum extent permitted by law, in no event will WhenU.com or its agents be liable for any damages arising from the use of or inability to use the software, including, without limitation, damages to users’ systems and/or software and/or data, computer failure or malfunction, computer virus transmission, performance delays or communication failures, security breaches or any and all other damages or losses. 
+
+
+----------------------------------------------------------------------------------------------------------
+
+
+eZula TopText iLookup- TERMS AND CONDITIONS OF USE Agreement (“Agreement”)
+
+
+This service (the "Service") and the software enabling the use thereof (the "Software") is currently provided as a free service to any User thirteen (13) years of age or older (collectively "User" or "Users") that agrees to abide by these Terms and Conditions. 
+
+Downloading the Service means that you are at least thirteen (13) years of age and accept and agree to be bound by the Terms and Condition and to receive the Service and the Software. From time to time eZula may update or transfer new versions of the Software or Service, in whole or part. Your use of the updated or new versions of the Software and/or subsequent use of the Service is subject to these Terms and Conditions. If you do not agree to abide by these terms, you may not use the Service. 
+
+EZula, Inc. is providing you a Service and a Software that, when downloaded on your computer system will notify you of offers and or information that may be of interest to you, by adding an overlay to text of Web sites you visit or by opening new browser windows with various offers and information.  Upon the opening of any World Wide Web Page, the Software scans the Web Page, marks on top of those pages words and/or phrases with a yellow underlines and or highlights, for which there are associated Web sites, and creates active links to such sites.  This highlighting and underlining are not part of the Web page you are on, but are overlays provided by the Service.  When you click on the marked word or phrase, you will be directed to a third party Web site, and if the marked word or phrase is part of a pre-existing link, a pop-up display will ask you if you would like to go to the original link or to the third party Web site, or other promotions will be presented to you.  Links to the associated third party Web sites are provided by the Service are clearly marked and are not provided by the Web site you are visiting.  If you follow any link and wish to return to the site where you were, simply click the Back button.  
+
+1. General Terms and Conditions: While eZula strives to protect any personal information, you acknowledge that you are aware of security and privacy limitations including without limitation: (i) the limitation of security, privacy and authentication measures and features in the Service; and (ii) that data and information on the Service may be subject to eavesdropping, forgery, spamming, tampering, breaking passwords, harassment, fraud, electronic trespassing, hacking, and system contamination, including without limitation, viruses, worms, and Trojan horses, causing unauthorized, damaging or harmful access and/or retrieval of information or data on your computer or other security or privacy hazards. If you do not wish to be subjected to these risks, you are advised not to use the Software or the Service. 
+
+2. License Restrictions. eZula grants to you a non-exclusive, limited license, pursuant to the terms hereof, to (a) install and use the Software solely for the purpose of accessing the eZula Service and (b) use eZula for your personal purposes. Your license to use the Service may, at eZula's discretion, expire when new versions of that eZula are released. eZula reserves the right to add additional features or functions to its Service, or to add new Services to the Service, at any time, without asking your approval. When installed on your computer, eZula communicates with its servers periodically. Additionally, eZula may require the update of its Software on your computer when a new version of the Software is released to the general public, when new features are available and/or to add new services to the Service. This update or new download may occur automatically or through other means. 
+
+3. Access and Registration: In order to use the Service, you must provide your own equipment to establish a connection to, and access, to the World Wide Web. You are responsible for any fees associated with such connection or access. 
+
+4. Disclaimer of Warranties: THE SOFTWARE AND SERVICE ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED WITHOUT LIMITATION OF THE FOREGOING, EZULA SPECIFICALLY DISCLAIMS ANY AND ALL WARRANTIES, INCLUDING, BUT NOT LIMITED TO: (i) ANY WARRANTIES CONCERNING THE AVAILABILITY, ACCURACY, SECURITY, USEFULNESS, INTEROPERABILITY, OR CONTENT OF THE SOFTWARE OR SERVICE; AND (ii) ANY WARRANTIES OF TITLE, WARRANTY OF NON-INFRINGEMENT, WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. THIS DISCLAIMER OF LIABILITY APPLIES TO ANY DAMAGES OR INJURY CAUSED BY THE SOFTWARE OR THE SERVICE, INCLUDING WITHOUT LIMITATION AS A RESULT OF ANY FAILURE OF PERFORMANCE, ERROR, OMISSION, INTERRUPTION, DELETION, DEFECT, VIRUS, OR UNAUTHORIZED ACCESS, WHETHER FOR BREACH OF CONTRACT, TORT, NEGLIGENCE, OR UNDER ANY OTHER CAUSE OF ACTION EZULA DOES NOT WARRANT OR GUARANTEE (1) THAT ANY PROGRAM OR PORTION OF THE SERVICE WILL BE FREE OF INFECTION BY VIRUSES, WORMS, TROJAN HORSES OR ANY OTHER MANIFESTING, CONTAMINATING OR DESTRUCTIVE PROPERTIES; (2) THAT ANY INFORMATION OR OTHER CONTENT PROVIDED BY EZULA, ITS PARTNERS OR AFFILIATES, USERS OF THE SERVICE OR ANY WEB SITE ACCESSED WHILE USING THE SERVICE WILL NOT CONTAIN DEFAMATORY OR ADULT-ORIENTED MATERIAL, OR MATERIAL WHICH SOME INDIVIDUALS MAY DEEM OBJECTIONABLE; OR (3) THAT THE FUNCTIONS OR SERVICES PERFORMED BY EZULA WILL BE UNINTERRUPTED OR ERROR-FREE OR THAT DEFECTS IN THE SOFTWARE AND THE SERVICE WILL BE CORRECTED. IT IS YOUR SOLE RESPONSIBILITY TO ISOLATE THE SOFTWARE AND INFORMATION, EXECUTE ANTI-CONTAMINATION SOFTWARE AND OTHERWISE TAKE STEPS TO ENSURE THAT SOFTWARE OR OTHER INFORMATION OBTAINED FROM THE SERVICE, IF CONTAMINATED OR INFECTED, WILL NOT DAMAGE YOUR INFORMATION OR SYSTEM. 
+
+5.User Conduct: 
+
+While using Service, you may not:
+
+1.
+ Harass, threaten, embarrass or cause distress or discomfort upon another User, or any other individual or entity.
+ 
+2.
+ restrict or inhibit any other User from using and enjoying the Service.
+ 
+3.
+ Impersonate any other person or entity, including without limitation any eZula official, or misrepresent your affiliation with any other person or entity.
+ 
+4.
+ Upload, post, publish, transmit, reproduce, or distribute in any way, information, software or other material obtained through the Service that is protected by copyright or other proprietary or intellectual property right, or derivative works with respect thereto, without obtaining permission of the copyright owner or right holder.
+ 
+5.
+ Upload, post, publish, reproduce, transmit or distribute in any way any component of the Service itself or derivative works with respect thereto, as the Service is copyrighted under applicable copyright laws and may be covered under one or more patents pending.
+ 
+6.
+ Upload, post, publish or transmit any unlawful, fraudulent, libelous, defamatory, obscene, pornographic, profane, threatening, abusive, racist, or otherwise objectionable information of any kind, including without limitation any transmissions constituting or encouraging conduct that would constitute illegal activity, give rise to civil liability, or otherwise violate any local, state, national or foreign law, including without limitation the US export laws and regulations.
+ 
+7.
+ Translate, decompile, reverse engineer, disassemble, modify, copy, alter, merge into other software, reproduce, rent, lease, lend, distribute, remarket, or otherwise dispose of the Service or the Software. You agree to immediately notify us of any unauthorized use of your membership or any other breach of security known or suspected by you.
+ 
+8.
+ Post or transmit any bulk e-mails, advertisements, solicitations, offers for sale of goods or services, chain letters, pyramid schemes, investment opportunities or schemes or other unsolicited commercial communication (except as otherwise expressly permitted by the Service) or engage in spamming or flooding.
+ 
+9.
+ Post or transmit any information or software which contains a virus, Trojan horse, worm or other harmful component.
+ 
+10.
+ Use any robot, spider, other automatic or manual device or process to interfere or attempt to interfere with the proper working of eZula Service and /or Software.
+ 
+
+6. eZula's Rights and Duties: You understand and acknowledge that eZula has no obligation to monitor any portion of the Service and/or Software. You acknowledge and agree, however, that eZula does retain the right to monitor the Service/Software and to disclose any information as necessary or appropriate to satisfy any law, regulation or other governmental request.
+
+7. Links from and to the Service: The Software and Service contain features that may link you to third parties' web sites, directories, servers or services ("Linked Services"). eZula is not responsible for the content of any such Linked Services. The offering of these features does not imply endorsement of the Linked Services by eZula. It is your sole responsibility to comply with the appropriate terms of service of the Linked Services. In no event shall eZula be liable to anyone for any damage arising from or occasioned by the creation or use of the Linked Services or the information or material accessed through these Linked Services. 
+
+8. Intellectual Property Rights: As between eZula and you, eZula is the sole owner of the Software and Service, including without limitation, all applicable US and non-US copyrights, patents, trademarks, and trade secrets, and other intellectual property rights appurtenant thereto Except as otherwise specifically provided in these Terms and Conditions, You may, however, print a copy of individual screens appearing as part of the Service solely for your personal non-commercial use or records All title and intellectual property rights in and to the content of any third party web site, which may be linked to or viewed in connection with the Service, is the property of the respective content owner and may be protected by applicable copyright or other intellectual property laws and treaties This Agreement grants you no rights to use such content except as allowed by such third party.
+
+9. Unsolicited Materials: eZula does not solicit nor does it wish to receive any confidential, secret or proprietary information or other material from you through the Service, the website located at http://www.ezula.com ("eZula Web Site") or in any other way.  Any information or material submitted or sent to eZula will be deemed not to be confidential.
+
+10. Limitation of Liability: IN NO EVENT WILL EZULA, ITS OFFICERS, DIRECTORS, EMPLOYEES, AFFILIATES, DISTRIBUTORS, SUCCESSORS OR ASSIGNS, BE LIABLE TO ANY PARTY (i) FOR ANY INDIRECT, DIRECT, SPECIAL, PUNITIVE, INCIDENTAL OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF PROGRAMS OR INFORMATION, AND THE LIKE), OR ANY OTHER DAMAGES ARISING IN ANY WAY OUT OF THE AVAILABILITY, USE, RELIANCE ON, OR INABILITY TO USE THE SOFTWARE, SERVICE, VARIOUS DIRECTORIES AND LISTINGS OR ANY OTHER SOFTWARE OR OTHER CONTENT INCLUDED AS PART OF THE SERVICE, EVEN IF EZULA SHALL HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT, TORT, OR OTHERWISE; OR (ii) FOR ANY CLAIM ATTRIBUTABLE TO ERRORS, OMISSIONS, OR OTHER INACCURACIES IN, OR DESTRUCTIVE PROPERTIES OF ANY OTHER SOFTWARE OR OTHER CONTENT INCLUDED AS PART OF THE SERVICE IN NO EVENT WILL EZULA'S LIABILITY WITH RESPECT TO THE USE OF THE SOFTWARE AND SERVICE EXCEED FIVE HUNDRED ($500) US DOLLARS 
+
+Because some states or jurisdictions do not allow the exclusion or the limitation of liability for consequential or incidental damages, in such states or jurisdictions, eZula's liability shall be limited to the extent permitted by law. 
+
+11. Indemnification: By agreeing to use the Service, you agree to defend, indemnify and hold eZula, its affiliates, officers, directors, distributors, and employees harmless from any and all claims, liabilities, costs and expenses, including reasonable attorneys' fees, arising in any way from the use of the Service, the placement or transmission of any message, information, software or other materials through the Service or the violation of any these Terms and Conditions by you or any User authorized by you. 
+
+12. Cancellation and Termination: eZula may, at its sole discretion, terminate the Service or your use of the Service, permanently or temporarily, at any time and without cause. You may at any time cancel your use of the Service by sending an e-mail message to support@eZula.com requesting that we cancel your membership in the Service or by simply uninstalling it though the add/remove program. These Terms and Conditions will continue to apply to all past use of the Service or the Software by you, even if you are no longer using it. Users who violate the terms of these Terms and Conditions may be permanently or temporarily banned from using the Service, at eZula's sole discretion.
+
+13. Privacy: Your privacy is important to eZula. Any information in connection with your use of Service, will be governed by the provision of the eZula Privacy Policy. 
+
+14.Third Party Software: During the process of downloading and or using the Software and Service, you may also be offered the possibility to download software from third party software vendors pursuant to license agreements or other arrangements between such vendors and yourself ("Third Party Software"). In the event you do not wish to download this THIRD PARTY SOFTWARE you should uncheck the appropriate boxes. Please note that the THIRD PARTY SOFTWARE is subject to different license agreements or other arrangements, which you should read carefully, compared to the Terms of Service of eZula. By downloading and using this THIRD PARTY SOFTWARE you accept these THIRD PARTY SOFTWARE license agreements or other arrangements and acknowledge that you have read them and understand them. eZula does not sell, resell, or license any of this THIRD PARTY SOFTWARE, and eZula disclaims to the maximum extent permitted by applicable law, any responsibility for or liability related to the THIRD PARTY SOFTWARE. Any questions, complaints or claims related to the THIRD PARTY SOFTWARE should be directed to the appropriate vendor. THE THIRD PARTY SOFTWARE IS PROVIDED BY EZULA "AS IS" AND "WITH ALL FAULTS". EZULA MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE QUALITY, SAFETY OR SUITABILITY OF THIS SOFTWARE, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL EZULA BE LIABLE FOR ANY INDIRECT, PUNITIVE, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES HOWEVER THEY MAY ARISE AND EVEN IF EZULA HAS BEEN PREVIOUSLY ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+There are inherent dangers in the use of any software available for downloading on the Internet, and eZula cautions you to make sure that you completely understand the potential risks before downloading any of the THIRD PARTY SOFTWARE. You are solely responsible for adequate protection and backup of the data and equipment used in connection with any of the THIRD PARTY SOFTWARE, and eZula will not be liable for any damages that you may suffer in connection with using, modifying or distributing any of the THIRD PARTY SOFTWARE.
+
+14. Miscellaneous: If any part of this Agreement is held invalid or unenforceable, that portion shall be construed in a manner consistent with applicable law to reflect, as nearly as possible, the original intentions of the parties, and the remaining portions shall remain in full force and effect.
+
+eZula may transfer, assign sublicense or pledge in any manner whatsoever, any of its rights and obligations under this agreement to a subsidiary, affiliate successor thereof or to any third party whatsoever, without notifying you or receiving your consent. You shall not transfer, assign, sublicense nor pledge in any manner whatsoever, any of your rights or obligations under this agreement 
+
+eZula may change the Terms and Conditions from time to time and at any time, with or without a release of a new version of the Software, without notice to you, by posting such changes on the eZula Web Site. You agree that your continued use of the Software and/or the Service after such notice has been posted on the eZula Web Site for the first time shall constitute your consent to the new or revised set of Terms and Conditions. 
+
+You agree that the laws of the State of California, excluding its conflicts-of-law rules, shall govern this Terms and Conditions Agreement Please note that your use of the Software as well as the Service may be subject to other local, state, national, and international laws.
+
+To the extent permitted by law, you agree not to bring, join or participate in any class action as to any claim, dispute or controversy you may have against us or our agents, services, directors, officers and employees. You agree to the entry of injunctive relief to stop such a lawsuit or to remove you as a participant in the suit. You agree to pay the attorney's fees and court costs we incur in seeking such relief. This agreement is not a waiver of any of your rights and remedies to pursue a claim individually and not as a class action in binding arbitration as provided above. This agreement not to bring or participate in class action suits is an independent agreement and shall survive other relationships.
+
+----------------------------------------------------------------------------------------------------------
+
+eZula TopText iLookup Privacy Statement
+
+
+Your online privacy is very important to us. You are welcome to read the steps that we have taken to guarantee it.
+
+What personally identifiable information does eZula collect from me?
+None. You don’t need to provide eZula with any type of personal information to use the application, and eZula does not collect any personally identifiable information about you.  
+
+What other information is collected when using the eZula application?
+Again, we don’t collect any personal identifiable information. However, in order to provide the service, the eZula application collects information about its activity, such as the keywords that the application was activated on. When you react to the highlights then eZula will also collect a standard web log that may include more information about the action such as IP address, time etc. eZula does not use your IP address to attempt to identify your personal information.  eZula may, on occasion, use your IP address to help diagnose problems with our server and to administer our website. 
+
+How does eZula use my information?
+eZula's primary goal in collecting information is to provide you, the user, with a better experience. eZula does research on the aggregated data that it collects, and this research is compiled and analyzed on an aggregated basis only. eZula may share NON personally identifiable aggregated data with its advertisers, business partners, investors or otherwise as required by law. 
+
+Who is collecting information?
+Please be aware that although eZula does NOT collect personal identifiable information, there are third-party sites or applications, which may collect personally identifiable information about you at that same time, with no connection to eZula. Although eZula’s application may contain links to these sites, the information practices of the third-party sites or application are not covered by this privacy statement. If you have any questions regarding the privacy policies of these third-party sites, please contact the third-party directly. 
+
+What security precautions are in place to protect the loss, misuse, or alteration of my information?
+Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, eZula cannot ensure or warrant the security of any information you transmit to us or from our online application, and you do so at your own risk. Once we receive your transmission, we make our best commercial effort to ensure its security on our systems. 
+
+What are cookies and how does eZula use them?
+A “cookie” is a small amount of data sent to your browser from a web server and stored on your computer’s hard drive. The use of cookies is an industry standard and eZula uses cookies to automate some of its services. You also have choices with respect to cookies. You may modify your browser preferences to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies, you may be unable to use certain services of eZula. 
+
+We may have to make changes to our Privacy Policy and End User License Agreement from time to time. If so, we will notice you about it either by displaying an online pop-up communication or publishing it on our web site.
